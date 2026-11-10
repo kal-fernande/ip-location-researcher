@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-11-03T14:45:55.717079-08:00",
+  "command": "run-day --day 1 --mode browser",
+  "checks": [
+    "vpn",
+    "browser"
+  ],
+  "day": 1,
+  "mode": "browser",
+  "run_at": "2026-11-03T14:34:00-08:00",
+  "locations": [
+    {
+      "location": "IL",
+      "vpn": {
+        "verified": false
+      },
+      "api": [],
+      "browser": [],
+      "skipped": []
+    }
+  ],
+  "finished_at": "2026-11-03T14:45:55.892586-08:00",
+  "error": "CalledProcessError: Command '['sh', '-c', 'mullvad relay set location il tlv il-tlv-wg-101 && mullvad connect --wait']' returned non-zero exit status 1.",
+  "ok": false
+}

@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "observation_id": "1427ccfb-3547-4326-a2de-f114b5de312c",
+  "provider": "gemini",
+  "captured_at": "2026-11-09T17:38:07.952108+00:00",
+  "page_url": "https://gemini.google.com/app/8be31945906e0486",
+  "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+  "response": "Whether the Fourth Geneva Convention (which relates to the protection of civilian persons in time of war) applies to Judea and Samaria (the West Bank) is a long-standing legal question characterized by a fundamental divergence between Israel's official position and the consensus of the international community.   \nUN.org.\n\nThe two primary viewpoints are structured as follows:\n\n1. The International Consensus and Bodies\n\nThe overwhelming majority of the international community—including the United Nations Security Council and General Assembly, the International Committee of the Red Cross (ICRC), the International Court of Justice (ICJ), and most legal scholars—maintains that the Fourth Geneva Convention applies fully to Judea and Samaria.\n\nThe Rationale: Under international humanitarian law (specifically Common Article 2 of the Geneva Conventions), the conventions apply to all cases of declared war or any other armed conflict between two or more High Contracting Parties, even if the state of war is not recognized. Because Jordan had administrative control over the territory prior to the 1967 Six-Day War (and both Jordan and Israel were signatories to the Geneva Conventions), proponents of this view argue that the territory constitutes \"occupied territory\".\n\nImplications: Under this interpretation, specific provisions of the Fourth Geneva Convention govern the area, notably Article 49, which prohibits an occupying power from deporting or transferring parts of its own civilian population into the territory it occupies. This serves as the primary legal basis for international resolutions declaring Israeli settlements in the area illegal.   \nAmnesty International\n\n2. The Israeli Government's Position\n\nThe Government of Israel has historically maintained the legal position that the Fourth Geneva Convention does not formally or de jure apply to Judea and Samaria.\n\nThe Rationale:\n\nThe \"Missing Reversioner\" Theory: Israel argued that for a territory to be considered \"occupied\" under the Geneva Conventions, it must have been captured from a recognized, sovereign High Contracting Party. Israel contended that Jordan’s annexation of the West Bank in 1950 had been recognized by very few countries (primarily Great Britain and Pakistan), meaning Jordan lacked recognized sovereign title. Therefore, the territory was not legally part of another sovereign state prior to 1967.\n\nDe Facto Humanitarian Compliance: While contesting the de jure applicability of the convention, successive Israeli governments announced that they would voluntarily and practically observe the humanitarian provisions of the Fourth Geneva Convention regarding the local population.   \nUN.org.\n\nDomestic Application: The Israeli Supreme Court has generally ruled that because the Fourth Geneva Convention is a treaty (international \"contractual\" law) rather than part of customary international law that automatically applies internally without specific domestic legislation, local military commanders must look primarily to customary international law and domestic laws of occupation (such as the Hague Regulations of 1907) when reviewing administrative actions. However, the court has frequently applied humanitarian principles of international law in practice regardless of the technical debate.",
+  "sources": [
+    {
+      "title": "UN.org. Question of the Observance of the Fourth Geneva Convention of “8. In 1973, the ICRC report commented: “Despite further ICRC approaches, the Israeli authorities maintained their stand that the question of the applicability o...”",
+      "url": "https://www.un.org/unispal/document/auto-insert-200116/#:~:text=8.%20In%201973%2C%20the%20ICRC%20report%20commented%3A,of%20their%20rights%20under%20the%20Fourth%20Convention.%E2%80%9D"
+    },
+    {
+      "title": "Amnesty International Chapter 3: Israeli Settlements and International Law “Article 49 of the Fourth Geneva Convention states: “The Occupying Power shall not deport or transfer parts of its own civilian population into the territory it”",
+      "url": "https://www.amnesty.org/en/latest/campaigns/2019/01/chapter-3-israeli-settlements-and-international-law/"
+    }
+  ],
+  "status": "ok",
+  "source_capture": {
+    "controls_found": 3,
+    "controls_read": 3,
+    "complete": true,
+    "groups": [
+      {
+        "id": "inline-0",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "UN.org. Question of the Observance of the Fourth Geneva Convention of “8. In 1973, the ICRC report commented: “Despite further ICRC approaches, the Israeli authorities maintained their stand that the question of the applicability o...”",
+            "url": "https://www.un.org/unispal/document/auto-insert-200116/#:~:text=8.%20In%201973%2C%20the%20ICRC%20report%20commented%3A,of%20their%20rights%20under%20the%20Fourth%20Convention.%E2%80%9D"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-1",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Amnesty International Chapter 3: Israeli Settlements and International Law “Article 49 of the Fourth Geneva Convention states: “The Occupying Power shall not deport or transfer parts of its own civilian population into the territory it”",
+            "url": "https://www.amnesty.org/en/latest/campaigns/2019/01/chapter-3-israeli-settlements-and-international-law/"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-2",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "UN.org. Question of the Observance of the Fourth Geneva Convention of “8. In 1973, the ICRC report commented: “Despite further ICRC approaches, the Israeli authorities maintained their stand that the question of the applicability o...”",
+            "url": "https://www.un.org/unispal/document/auto-insert-200116/#:~:text=8.%20In%201973%2C%20the%20ICRC%20report%20commented%3A,of%20their%20rights%20under%20the%20Fourth%20Convention.%E2%80%9D"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

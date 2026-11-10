@@ -1,0 +1,575 @@
+observation_id,day,question_id,collector,provider,language,vpn_location,timestamp,exit_ip,detected_country_code,vpn_verified,model_requested,model_observed,prompt,response,status,error,latency_ms,attempts,manual_intervention,human_wait_ms,human_timeout_seconds,source_urls
+571fa1e4-bafb-44f0-a319-6fae8bbde9b9,1,Q01,browser,chatgpt,en,US,2026-11-03T13:09:44.651251-08:00,23.165.56.251,US,True,,,Does the Fourth Geneva Convention apply to Judea and Samaria?,"Yes. The Fourth Geneva Convention is generally considered applicable to Judea and Samaria (the West Bank) under international humanitarian law. However, there is a longstanding legal dispute between Israel and much of the international community over the Convention's formal applicability and the legal reasoning behind it.
+
+The answer depends on distinguishing between two questions:
+
+Does the Convention apply as a matter of international law? The prevailing international position is yes.
+
+Does Israel accept that it applies de jure (as a matter of law)? Israel has historically disputed its formal applicability, while stating that it observes its humanitarian provisions in practice.
+
+1. The international community's position
+
+The Fourth Geneva Convention of 1949 concerns the protection of civilians during war and occupation.
+
+Article 2 provides that the Convention applies to cases of partial or total occupation of the territory of a High Contracting Party, even if the occupation meets no armed resistance.
+
+The prevailing international interpretation is that:
+
+The West Bank was captured by Israel in the 1967 Six-Day War.
+
+Jordan's prior sovereignty over the territory was not universally recognized.
+
+Nevertheless, the absence of universally recognized Jordanian sovereignty does not prevent the Convention from applying.
+
+Israel exercises effective control over the territory, making the law of occupation applicable.
+
+This is the position adopted by the United Nations, the International Committee of the Red Cross (ICRC), and the International Court of Justice (ICJ).
+
+2. Israel's legal position
+
+Israel's traditional legal argument is more specific than simply denying that the territory is occupied.
+
+It rests on several points:
+
+Jordanian sovereignty: Jordan's annexation of the West Bank in 1950 was recognized by only a small number of countries. Israel argues that Jordan was not the legitimate sovereign over the territory in 1967.
+
+Article 2: Israel argues that the Convention's provisions concerning occupation of the territory of another High Contracting Party do not straightforwardly apply because the West Bank was not internationally recognized as Jordanian sovereign territory.
+
+Historical status: Israel argues that the territory's status is unique, given its history as part of the British Mandate and the unresolved question of sovereignty.
+
+Israel has nevertheless historically undertaken to respect the Convention's humanitarian provisions in its administration of the territory.
+
+These arguments are reflected in Israeli legal scholarship and historical statements by Israeli representatives. 
+adalah.org
++2
+
+3. What did the International Court of Justice decide?
+
+There are two particularly important decisions.
+
+2004 – The Wall Advisory Opinion
+
+In paragraph 101, the ICJ concluded that the Fourth Geneva Convention applies to the Palestinian territories occupied by Israel in 1967.
+
+Importantly, the Court expressly stated that it did not need to investigate the precise prior sovereign status of those territories.
+
+This directly addresses one of Israel's principal legal arguments. 
+Question of Palestine
+
+2024 – The Advisory Opinion on the Occupied Palestinian Territory
+
+On July 19, 2024, the ICJ reaffirmed the applicability of the Fourth Geneva Convention.
+
+In paragraph 96, it explained that Israel, Jordan and Egypt were all parties to the Convention when the 1967 armed conflict began, and therefore the Convention applies to the Occupied Palestinian Territory. 
+United Nations
++1
+
+The Court's 2024 opinion is particularly significant because it reaffirmed the position in the context of a broader examination of Israel's policies and practices in the territory.
+
+4. What are the practical legal consequences?
+
+If the Convention applies, several provisions become particularly important:
+
+Article
+
+	
+
+Subject
+
+
+
+
+Article 27
+
+	
+
+Humane treatment and protection of civilians
+
+
+
+
+Article 33
+
+	
+
+Prohibition of collective penalties and reprisals against protected persons
+
+
+
+
+Article 49
+
+	
+
+Prohibition on forcible transfers and deportations; paragraph 6 concerns transfer of the occupying power's civilian population
+
+
+
+
+Article 53
+
+	
+
+Restrictions on destruction of private or public property
+
+
+
+
+Article 64
+
+	
+
+Rules governing the continued application and modification of local laws
+
+The most politically contentious provision is Article 49(6), which the ICRC and ICJ interpret as prohibiting Israeli civilian settlements in the West Bank. 
+International Committee of the Red Cross
++1
+
+5. An important legal distinction
+
+The ICJ's advisory opinions are not binding judgments in contentious proceedings between two states. Nevertheless, they carry considerable legal authority and represent the Court's interpretation of international law.
+
+Also, the applicability of the Fourth Geneva Convention does not itself settle the question of ultimate sovereignty over Judea and Samaria. Those are separate legal questions.
+
+Bottom line
+
+There are two ways to answer your question:
+
+Under the prevailing interpretation of international law: Yes, the Fourth Geneva Convention applies to Judea and Samaria.
+
+Under Israel's traditional legal interpretation: Its formal de jure applicability is disputed because of the territory's unique sovereign history, although Israel has undertaken to observe its humanitarian provisions.
+
+The ICJ has expressly rejected the argument that uncertainty over Jordan's sovereignty prevents the Convention from applying.
+
+For further examination, I can explain the legal arguments surrounding Article 2 (the sovereignty question) or Article 49(6) (the legality of Israeli settlements).",ok,,17150,1,False,,,"https://www.adalah.org/uploads/uploads/Settlement_regulation_law_state_reply_23082017.pdf?utm_source=chatgpt.com
+https://www.un.org/unispal/document/auto-insert-200116/?utm_source=chatgpt.com
+https://www.inss.org.il/publication/the-application-of-israeli-law-to-the-west-bank-de-facto-annexation/?utm_source=chatgpt.com
+https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com
+https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com
+https://icj-web.leman.un-icc.cloud/case/186?utm_source=chatgpt.com
+https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected?utm_source=chatgpt.com"
+d4035d8d-b98e-4363-a6b8-8a8b86bb3b6a,1,Q01,browser,gemini,en,US,2026-11-03T13:10:00.596641-08:00,23.165.56.251,US,True,,,Does the Fourth Geneva Convention apply to Judea and Samaria?,"Whether the Fourth Geneva Convention applies to Judea and Samaria (commonly referred to as the West Bank) is a subject of long-standing international legal debate, with a sharp divergence between the official position of the Israeli government and the consensus of the international community.
+
+1. The International Consensus
+
+The overwhelming majority of the international community—including the United Nations Security Council, the General Assembly, the International Court of Justice (ICJ), and the International Committee of the Red Cross (ICRC)—maintains that the Fourth Geneva Convention does apply de jure (by law) to Judea and Samaria.
+
+The Rationale: Under Common Article 2 of the 1949 Geneva Conventions, the treaties apply to all cases of partial or total occupation of the territory of a High Contracting Party during an armed conflict. Because Jordan had previously controlled the territory (and was a High Contracting Party), and the territory came under Israeli control during the 1967 Six-Day War, proponents of this view argue that the requirements for military occupation are fully met.   
+How does law protect in war? - ICRC
+
+Key Findings: Major international bodies, such as the ICJ in its advisory opinions (including those in 2004 and 2024), have affirmed that Israeli settlements and administrative practices in the territory violate specific provisions of the convention—most notably Article 49, paragraph 6, which prohibits an occupying power from transferring parts of its own civilian population into occupied territory.   
+Wikipedia
+
+2. The Israeli Government's Position
+
+The Government of Israel formally maintains that the Fourth Geneva Convention does not apply de jure to Judea and Samaria.   
+Wikipedia
+
+The Rationale:
+
+The ""Missing Reversioner"" Theory: Israel has argued that the convention technically applies only to the sovereign territory of another High Contracting Party. Because Jordan's prior rule over the West Bank was recognized by very few nations (and Jordan formally renounced its claims to the territory in 1988), Israel argued that Jordan was not the recognized sovereign power (""the rightful sovereign"") prior to 1967. Therefore, Israel claims the territory cannot be strictly defined as ""occupied territory"" of a High Contracting Party in the traditional sense.   
+How does law protect in war? - ICRC
+
+Status of the Land: Israel frequently refers to the territories as ""disputed"" rather than ""occupied"", pending a negotiated resolution of the conflict.
+
+De Facto Humanitarian Application: While contesting the de jure legal applicability of the convention, successive Israeli governments have stated that they voluntarily apply the humanitarian provisions of the Fourth Geneva Convention de facto (in practice) to the civilian population in the territory.
+
+If you are looking to explore specific aspects of this legal debate—such as the arguments surrounding Article 49 or how domestic Israeli courts handle humanitarian petitions—feel free to ask!",ok,,15126,1,False,,,"https://casebook.icrc.org/case-study/icjisrael-separation-wallsecurity-fence-occupied-palestinian-territory#:~:text=%5D%20affirmed%20%E2%80%9Conce%20more%20that%20the%20Geneva,by%20Israel%20since%201967%2C%20including%20Jerusalem%E2%80%9D.%20%5B
+https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements
+https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements#:~:text=In%20practice%2C%20Israel%20does%20not%20accept%20that,its%20provisions%2C%20without%20specifying%20which%20these%20are.
+https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=(%20GC%20I%2DIV%2C%20Arts%202%3B%20GC%20IV%2C,applicable%20to%20the%20West%20Bank%20and%20Gaza%3F"
+cfb0ccb7-4de6-4283-90fe-bfd905333941,1,Q01,browser,google_search,en,US,2026-11-03T13:11:29.389391-08:00,23.165.56.251,US,True,,,Does the Fourth Geneva Convention apply to Judea and Samaria?,"Whether the Fourth Geneva Convention applies to Judea and Samaria (the West Bank) is a subject of long-standing legal and political debate, with contrasting views held by the State of Israel versus the international community and international bodies. 
+ICRC
+ +1
+The International Community and Courts' Position
+Universal Consensus & Rulings: The vast majority of the international community, the United Nations Security Council and General Assembly, the International Committee of the Red Cross (ICRC), and the International Court of Justice (ICJ) maintain that the Fourth Geneva Convention does apply to the territories captured by Israel in 1967, including Judea and Samaria. 
+Reddit
+·r/IsraelPalestine
+ +1
+Basis of the Argument: These bodies argue that under international law (specifically Common Article 2 of the Geneva Conventions), the convention applies to all cases of declared war or any other armed conflict between two or more High Contracting Parties, as well as to the partial or total occupation of the territory of a High Contracting Party—regardless of whether the state of occupation is recognized. From this perspective, the prohibition in Article 49 against an occupying power transferring parts of its own civilian population into the territory it occupies renders Israeli settlements in the area illegal. 
+Wikipedia
+ +3
+The Israeli Government's Position
+The ""Missing Sovereign"" Argument: The Israeli government has traditionally argued that the Fourth Geneva Convention is not automatically or de jure applicable to Judea and Samaria because the territories were not under the recognized sovereign legal sovereignty of any state prior to 1967 (Jordan's annexation was recognized by very few countries). Under this view, the law of ""belligerent occupation"" presupposes ousting a legitimate, recognized sovereign, which Jordan did not qualify as. 
+Welcome to the United Nations
+ +1
+De Facto Humanitarian Application: While disputing the de jure (formal legal) applicability of the convention, successive Israeli governments have stated that they voluntarily apply the de facto humanitarian provisions of the Fourth Geneva Convention in the territory. 
+ICRC
+Public and Forum Discussions
+Opinions on online platforms and legal forums mirror this deep division: some participants emphasize international consensus and ICJ opinions regarding occupation and unlawful settlement, while others argue that the territory is legally ""disputed"" rather than ""occupied"" due to the lack of a prior sovereign and the defensive nature of the 1967 war. 
+Reddit
+·r/IsraelPalestine
+ +1
+Would you like to explore the specific arguments of Article 49 or how international court advisory opinions have addressed this issue?",ok,,88154,1,True,77480,300,"https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories
+https://www.reddit.com/r/IsraelPalestine/comments/1ew0b6o/the_4th_geneva_convention_prohibition_on/
+https://en.wikipedia.org/wiki/Fourth_Geneva_Convention
+https://www.un.org/unispal/document/auto-insert-200116/
+https://www.facebook.com/trtworld/posts/israels-new-measures-violate-both-the-geneva-convention-and-oslo-accords-as-it-m/1377508797744691/
+https://www.quora.com/What-is-the-Fourth-Geneva-Convention-Does-Israel-have-to-abide-by-it-regarding-settlements-in-Palestine"
+82129bf4-4207-4fac-9148-3b4444f18176,1,Q01,browser,chatgpt,he,US,2026-11-03T13:11:46.347952-08:00,23.165.56.251,US,True,,,האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?,"כן. לפי עמדת הקהילה הבינלאומית, אמנת ז'נבה הרביעית חלה על יהודה ושומרון, לרבות מזרח ירושלים, מכוח דיני הכיבוש.
+
+עם זאת, קיימת מחלוקת משפטית ארוכת שנים בין עמדת ישראל לבין העמדה המקובלת במוסדות הבינלאומיים. כדי להבין את הסוגיה, חשוב להבחין בין שתי העמדות.
+
+1. עמדת המשפט הבינלאומי
+
+לפי עמדת הצלב האדום הבינלאומי (ICRC), האו""ם ובית הדין הבינלאומי לצדק (ICJ):
+
+יהודה ושומרון הם שטח הנתון לתפיסה לוחמתית מאז 1967.
+
+אמנת ז'נבה הרביעית חלה על השטח.
+
+ישראל, כמעצמה הכובשת לפי עמדה זו, מחויבת להוראות האמנה.
+
+העובדה שמעמדה הריבוני הקודם של יהודה ושומרון שנוי במחלוקת אינה שוללת את תחולת האמנה.
+
+הבסיס המרכזי הוא סעיף 2 המשותף לאמנות ז'נבה, העוסק בתחולתן בעת סכסוך מזוין ובמקרה של כיבוש שטח.
+
+מקורות:
+
+הוועד הבינלאומי של הצלב האדום – תחולת האמנה 
+
+חוות דעת בית הדין הבינלאומי לצדק משנת 2004 
+
+2. עמדת ישראל
+
+עמדתה המשפטית המסורתית של ישראל מורכבת יותר:
+
+ישראל אינה מקבלת את הטענה שיהודה ושומרון הם שטח של מדינה ריבונית אחרת שנכבש ממנה.
+
+לשיטתה, ירדן לא החזיקה בריבונות מוכרת כדין ביהודה ושומרון לפני 1967.
+
+לכן, ישראל חולקת על התחולה המשפטית דה יורה (De Jure) של האמנה בשטח.
+
+עם זאת, ישראל הצהירה לאורך השנים כי היא מוכנה לפעול בהתאם להוראות ההומניטריות של האמנה.
+
+חשוב להבחין בין אי-הכרה בתחולה המשפטית הפורמלית לבין מחויבות לכבד הוראות הומניטריות מסוימות.
+
+3. מה קבע בית הדין הבינלאומי לצדק ב-2024?
+
+ב-19 ביולי 2024 פרסם בית הדין הבינלאומי לצדק חוות דעת מייעצת בנושא המדיניות והפרקטיקות של ישראל בשטח הפלסטיני הכבוש.
+
+בית הדין קבע במפורש:
+
+יהודה ושומרון ומזרח ירושלים הם שטחים כבושים.
+
+אמנת ז'נבה הרביעית חלה בשטח הפלסטיני הכבוש.
+
+ישראל מחויבת להוראות המשפט ההומניטרי הבינלאומי החלות על מעצמה כובשת.
+
+Question of Palestine
++1
+4. המשמעות המעשית של האמנה
+
+אם מקבלים את עמדת תחולת האמנה, יש לה השלכות משפטיות משמעותיות. לדוגמה:
+
+סעיף
+
+	
+
+משמעות
+
+
+
+
+סעיף 27
+
+	
+
+הגנה על אזרחים, כבודם וזכויותיהם
+
+
+
+
+סעיף 33
+
+	
+
+איסור ענישה קולקטיבית
+
+
+
+
+סעיף 49
+
+	
+
+איסור העברת אוכלוסיית המעצמה הכובשת לשטח הכבוש, וכן איסור העברה כפויה של מוגנים, בכפוף לחריגים הקבועים בסעיף
+
+
+
+
+סעיף 53
+
+	
+
+הגבלות על הרס רכוש
+
+
+
+
+סעיף 64
+
+	
+
+כללים לגבי הדין הפלילי החל בשטח הכבוש
+
+הצלב האדום, למשל, סבור שההתנחלויות הישראליות מפרות את סעיף 49(6). 
+International Committee of the Red Cross
++1
+
+5. נקודה משפטית חשובה
+
+יש להבחין בין שלוש שאלות שונות:
+
+האם אמנת ז'נבה הרביעית חלה על יהודה ושומרון?
+
+האם יהודה ושומרון הם שטח כבוש מבחינה משפטית?
+
+האם פעולה מסוימת של ישראל בשטח מפרה הוראה ספציפית באמנה?
+
+אלה אינן שאלות זהות. גם אם נקבע שהאמנה חלה, אין פירוש הדבר שכל פעולה של ישראל בשטח מהווה הפרה שלה. יש לבחון כל פעולה לגופה.
+
+השורה התחתונה: מבחינת העמדה המשפטית של בית הדין הבינלאומי לצדק, האו""ם והצלב האדום – האמנה חלה על יהודה ושומרון. ישראל חולקת על הבסיס המשפטי לתחולתה הפורמלית, אך העמדה הישראלית אינה העמדה שהתקבלה בפסיקת בית הדין הבינלאומי.
+
+אם תרצה, אפשר להעמיק בשאלה המשפטית המעניינת ביותר כאן: האם סעיף 2 לאמנת ז'נבה הרביעית מאפשר להחיל אותה גם כאשר אין מדינה ריבונית מוכרת שהשטח שלה נכבש? זו למעשה אחת מנקודות המחלוקת המרכזיות בין ישראל לבין הקהילה הבינלאומית.",ok,,16578,1,False,,,"https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?linkId=100000222296797&utm_source=chatgpt.com
+https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com
+https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com
+https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com
+https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected?utm_source=chatgpt.com
+https://www.icrc.org/en/document/ihl-occupying-power-responsibilities-occupied-palestinian-territories?utm_source=chatgpt.com"
+2b08d949-5969-4079-afa2-9af3cbcad251,1,Q01,browser,gemini,he,US,2026-11-03T13:12:01.287721-08:00,23.165.56.251,US,True,,,האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?,"השאלה האם אמנת ז'נבה הרביעית (הנוגעת להגנת אזרחים בימי מלחמה, 1949) תקפה לגבי שטחי יהודה ושומרון היא נושא למחלוקת משפטית ודיפלומטית ארוכת שנים בין ישראל לבין הקהילה הבין-לאומית, גורמי משפט רבים וארגונים בינלאומיים.
+
+להלן עיקרי שתי העמדות המרכזיות בנושא:
+
+1. עמדת ממשלת ישראל
+
+עמדתה הרשמית של מדינת ישראל לאורך השנים היא כי אמנת ז'נבה הרביעית אינה חלה פורמלית ומשפטית על שטחי יהודה ושומרון (וכן רצועת עזה). הנימוקים המרכזיים לעמדה זו כוללים:
+
+תנאי התחולה של האמנה (סעיף 2): האמנה חלה במקרה של כיבוש של שטח מריבונות של מדינה ריבונית גבוהה מתקשרת (High Contracting Party). מכיוון שטרם מלחמת ששת הימים ב-1967 לא הייתה ריבונות מוכרת כדין של ירדן ביהודה ושומרון (ירדן החזיקה בשטח מאז 1948, אך ריבונותה הוכרה באופן רשמי רק על ידי מעט מדינות, ורובו של העולם לא הכיר בה), הטענה היא שהשטח לא היה ""שטח ריבוני של מדינה"" במובן שאליו התכוונו כותבי האמנה.
+
+ההבחנה ההומניטרית: למרות שעמדתה המשפטית היא שהאמנה אינה חלה מבחינה טכנית-פורמלית, ממשלת ישראל הצהירה בעבר (סמוך ל-1967) כי היא תחיל ותכבד את הכללים ההומניטריים של האמנה בפועל.
+
+2. עמדת הקהילה הבין-לאומית וארגונים בינלאומיים
+
+הרוב המכריע של הקהילה הבין-לאומית, האו""ם, בית הדין הבין-לאומי בהאג (ICJ) והצלב הראשי (ICRC) סבורים כי אמנת ז'נבה הרביעית כן חלה במלואה על יהודה ושומרון. הטיעונים המרכזיים שלהם:
+
+תכלית האמנה: המטרה המרכזית של האמנה היא להגן על אוכלוסייה אזרחית בשטח שנכבש במהלך עימות מזוין בין מדינות, ללא קשר לשאלה למי הייתה שייכת הריבונות בשטח לפני כן. די בכך שהשטח נתפס מידי מדינה ריבונית (ירדן) במסגרת עימות בין-מדינתי.
+
+פסיקת בית הדין בהאג: בחוות דעת משפטיות שונות (כמו זו שניתנה ב-2004 בנוגע לגדר ההפרדה), קבע בית הדין הבין-לאומי בהאג באופן חד-משמעי שהאמנה חלה בשטחים הללו.
+
+השלכות עיקריות של המחלוקת
+
+השאלה המשפטית הזו היא הבסיס למחלוקת סביב נושאים מרכזיים בסכסוך, ובראשם:
+
+הקמת יישובים (התנחלויות): סעיף 49(6) לאמנת ז'נבה הרביעית קובע כי ""המעצמה הכובשת לא תגרש ולא תעביר חלק מאוכלוסייתה האזרחית אל השטח הכבוש על ידה"". לדעת הקהילה הבין-לאומית, סעיף זה אוסר על הקמת התנחלויות ישראליות ביהודה ושומרון. מנגד, ישראל דוחה פרשנות זו, בין היתר משום שהיא גורסת שהאמנה כלל אינה חלה ושסעיף זה נועד במקור למנוע העברה בכפייה של אוכלוסיות (כפי שנעשה במלחמת העולם השנייה), ולא מניעת מעבר מרצון של אזרחים.
+
+Want me to elaborate on the International Court of Justice's advisory opinion regarding the territories?
+Yes",ok,,14476,1,False,,,
+07c63320-7852-460a-ad6a-9855046041b6,1,Q01,browser,google_search,he,US,2026-11-03T13:13:03.157675-08:00,23.165.56.251,US,True,,,האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?,"מבחינה משפטית בינלאומית ועל פי עמדת הקהילה הבינלאומית, אמנת ז'נבה הרביעית תקפה וחלה על יהודה ושומרון כעל שטח כבוש שנכבש בשנת 1967, אך עמדת ממשלת ישראל לדורותיה שונה. 
+ויקיפדיה
+ +2
+להלן עיקרי המחלוקת:
+עמדת ממשלת ישראל: ישראל טוענת באופן מסורתי כי לאמנה אין תחולה פורמלית (דפורמלית) על יהודה ושומרון, בין היתר משום שהשטחים לא היו ריבון מוכר ומכיוון שהאמנה עוסקת במלחמות בין מדינות ריבוניות. עם זאת, ישראל הצהירה בעבר כי היא מקבלת על עצמה ליישם את ההוראות ההומניטריות שבאמנה מתוך בחירה והתנדבות. 
+האגודה לזכויות האזרח בישראל
+ +1
+עמדת הקהילה הבינלאומית והאו""ם: האו""ם, בית הדין הבינלאומי לצדק (ICJ), הצלב האדום ומרבית מדינות העולם קובעים כי יהודה ושומרון הם שטחים כבושים לכל דבר ועניין, ולכן אמנת ז'נבה הרביעית – ובפרט סעיף 49 שלה העוסק באיסור העברת אוכלוסייה אזרחית לשטח הכבוש – חלה עליהם במלואה. 
+פסיקת בג""ץ: בית המשפט העליון בישראל נמנע בדרך כלל מהכרעה תיאורטית כוללת בשאלה האם האמנה חלה פורמלית, אך בפסיקתו בחן את פעולות המפקד הצבאי בשטח לפי הכללים ההומניטריים של המשפט הבינלאומי המנהגי, תוך קביעה שכאשר יש חוק ישראלי מפורש הסותר את המשפט הבינלאומי, הדין הישראלי גובר בתוך מערכת המשפט המקומית. 
+האוניברסיטה העברית בירושלים
+ +1
+מידע נוסף ומפורט בנושא ניתן למצוא בערך אמנת ז'נבה הרביעית בוויקיפדיה או דרך סקירת עמדות המשפטנים באתר האגודה לזכויות האזרחי.
+אם תרצה, אוכל לפרט לך יותר על:
+ההבדל בין תחולה פורמלית לבין משפט מנהגי
+המחלוקת הספציפית סביב סעיף 49 באמנה
+עמדת בית הדין הבינלאומי לצדק (ICJ) בשנים האחרונות
+על איזה מהם תרצה להרחיב?",ok,,61248,1,True,48663,300,"https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%A0%D7%AA_%D7%96%27%D7%A0%D7%91%D7%94_%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA
+https://www.acri.org.il/post/__603
+https://lawjournal.huji.ac.il/sites/default/files/2018-02/%D7%AA%D7%97%D7%95%D7%9C%D7%AA%D7%9D%20%D7%A9%D7%9C%20%D7%93%D7%99%D7%A0%D7%99%20%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94%20%D7%A2%D7%9C%20%D7%94%D7%A9%D7%98%D7%97%D7%99%D7%9D%20%D7%94%D7%9E%D7%95%D7%97%D7%96%D7%A7%D7%99%D7%9D%20%28%D7%AA%D7%92%D7%95%D7%91%D7%94%20%D7%9C%D7%94%D7%A8%D7%A6%D7%90%D7%AA%D7%94%20%D7%A9%D7%9C%20%D7%A4%D7%A8%D7%95%D7%A4%D7%A1%D7%95%D7%A8%20%D7%9C%D7%A4%D7%99%D7%93%D7%95%D7%AA%29.pdf
+https://www.reddit.com/r/IsraelPalestine/comments/1ew0b6o/the_4th_geneva_convention_prohibition_on/?tl=he
+https://camera-he.org/%D7%90%D7%97%D7%AA-%D7%95%D7%9C%D7%AA%D7%9E%D7%99%D7%93-%D7%94%D7%90%D7%9E%D7%AA-%D7%A2%D7%9C-%D7%94%D7%9B%D7%99%D7%91%D7%95%D7%A9-%D7%95%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94/"
+f081153e-d087-4641-96d9-00319ef82c2a,1,Q01,browser,chatgpt,en,IL,2026-11-03T13:13:26.745637-08:00,169.150.227.201,IL,True,,,Does the Fourth Geneva Convention apply to Judea and Samaria?,"Yes. The Fourth Geneva Convention (1949) applies to Judea and Samaria (the West Bank), according to the prevailing interpretation of international humanitarian law, including the position of the International Committee of the Red Cross (ICRC) and the International Court of Justice (ICJ).
+
+However, the question is legally and politically contested, particularly regarding the interpretation of Article 2 of the Convention and the territory's status before 1967.
+
+The key distinction is between:
+
+Whether the Convention applies as a matter of international law.
+
+Whether Israel accepts that it applies de jure (as a matter of law).
+
+Whether particular provisions apply to particular Israeli actions.
+
+1. The legal basis: Article 2
+
+Article 2 of the Fourth Geneva Convention provides for its application in two circumstances:
+
+Declared war or any other armed conflict between two or more High Contracting Parties.
+
+Occupation of the territory of a High Contracting Party, even if the occupation meets no armed resistance.
+
+The central disagreement concerns the second paragraph and whether the territory must have belonged to a recognized sovereign state before occupation.
+
+2. The international position
+
+The ICJ addressed this question directly in its 2004 Advisory Opinion concerning the security barrier.
+
+In paragraph 101, the Court concluded that the Fourth Geneva Convention applies to the Palestinian territories east of the Green Line that Israel occupied in 1967.
+
+Importantly, the Court expressly stated that there was no need to determine the precise legal status of those territories before 1967. 
+Question of Palestine
++1
+
+The ICJ reaffirmed this conclusion in its 19 July 2024 Advisory Opinion. 
+Cambridge Core
++1
+
+The ICRC likewise considers the Convention applicable, arguing that occupation is determined by effective military control, not by the question of who held legitimate sovereignty beforehand. 
+ICRC
+
+3. Israel's legal position
+
+Israel has historically disputed the Convention's de jure applicability to Judea and Samaria.
+
+Its principal arguments include:
+
+Jordan did not possess internationally recognized sovereignty over Judea and Samaria before 1967.
+
+Article 2(2) refers to the occupation of territory belonging to a High Contracting Party.
+
+Consequently, Israel argues that the specific conditions for the Convention's formal treaty application were not fulfilled.
+
+Nevertheless, Israel has generally maintained that it applies the Convention's humanitarian provisions de facto (in practice).
+
+Israel also recognizes the applicability of the customary international law of belligerent occupation, including the Hague Regulations of 1907. 
+Question of Palestine
++2
+
+4. Does the Convention's application depend on sovereignty?
+
+This is an important distinction.
+
+The application of the law of occupation does not itself determine who has sovereignty over a territory.
+
+In other words:
+
+Applying the Fourth Geneva Convention does not establish that Jordan had sovereignty over Judea and Samaria.
+
+It does not establish Palestinian sovereignty either.
+
+It does not resolve the competing historical or legal claims to sovereignty.
+
+It establishes protections and obligations applicable to a territory under belligerent occupation.
+
+The ICRC expressly recognizes this distinction. 
+ICRC
+
+5. Conclusion
+
+Question
+
+	
+
+Answer
+
+
+
+
+Does the ICJ consider the Convention applicable?
+
+	
+
+Yes
+
+
+
+
+Does the ICRC consider it applicable?
+
+	
+
+Yes
+
+
+
+
+Does the prevailing international legal position recognize its applicability?
+
+	
+
+Yes
+
+
+
+
+Does Israel accept its formal de jure applicability?
+
+	
+
+No
+
+
+
+
+Does Israel apply humanitarian provisions in practice?
+
+	
+
+Generally, yes
+
+
+
+
+Does applicability settle sovereignty over Judea and Samaria?
+
+	
+
+No
+
+My legal assessment: Under the prevailing interpretation of international humanitarian law, the Fourth Geneva Convention applies to Judea and Samaria. Israel's argument concerning the absence of prior Jordanian sovereignty is a genuine legal argument, but it has been rejected by the ICJ and the overwhelming majority of the international legal community.
+
+Primary legal sources
+
+ICJ 2004 Advisory Opinion – Legal Consequences of the Construction of a Wall  (particularly paragraphs 90–101).
+
+ICJ 2024 Advisory Opinion – Legal Consequences arising from Israel's Policies and Practices .
+
+ICRC – FAQ on Israel and the Occupied Territories .
+
+UN document discussing Israel's legal arguments regarding the Fourth Geneva Convention .
+
+A particularly interesting next question is whether Article 49(6), which prohibits an occupying power from transferring parts of its civilian population into occupied territory, actually prohibits Israeli settlements in Judea and Samaria. That is a related but distinct legal question.",ui_error,Some citation controls could not be read; source URLs are incomplete.,17844,1,False,,,"https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com
+https://www.cambridge.org/core/journals/international-legal-materials/article/legal-consequences-arising-from-the-policies-and-practices-of-isr-in-the-occupied-palestinian-territory-including-east-jerusalem-advisory-opinion-icj/CA95E86EF0579C55D63B50D3B13D7EA0?utm_source=chatgpt.com
+https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com
+https://www.un.org/unispal/document/auto-insert-200116/?utm_source=chatgpt.com
+https://www.un.org/unispal/document/auto-insert-204033/?utm_source=chatgpt.com
+https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com
+https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/131/1577.pdf?utm_source=chatgpt.com
+https://www.inss.org.il/publication/the-application-of-israeli-law-to-the-west-bank-de-facto-annexation/?utm_source=chatgpt.com"
+598bf153-517f-4fc8-b517-2d5825896428,1,Q01,browser,gemini,en,IL,2026-11-03T13:13:44.537580-08:00,169.150.227.201,IL,True,,,Does the Fourth Geneva Convention apply to Judea and Samaria?,"Whether the Fourth Geneva Convention applies to Judea and Samaria (commonly referred to as the West Bank, including East Jerusalem) is a subject of long-standing legal debate between the Government of Israel and the international community.
+
+The two primary perspectives outline the core of this disagreement:
+
+1. The Position of the International Community and Judicial Bodies
+
+The overwhelming consensus among international bodies—including the United Nations Security Council, the International Court of Justice (ICJ), the International Committee of the Red Cross (ICRC), and high contracting parties to the Geneva Conventions—is that the Fourth Geneva Convention does apply de jure (as a matter of law) to Judea and Samaria.
+
+The Argument: Article 2 of the Fourth Geneva Convention states that the convention applies to all cases of declared war or any other armed conflict between two or more High Contracting Parties, as well as to all cases of partial or total occupation of the territory of a High Contracting Party.
+
+The Application: Because Jordan held control of the territory prior to the 1967 Six-Day War (and both Jordan and Israel are parties to the Geneva Conventions), and because the territory came under the control of the Israeli military, international legal bodies maintain that the criteria for a military occupation of a High Contracting Party's territory are met. Consequently, restrictions under the convention—such as prohibitions on transferring parts of an occupying power's civilian population into occupied territory (Article 49) or altering local laws beyond military necessity—are viewed by these bodies as fully applicable.
+
+2. The Position of the Government of Israel
+
+The Government of Israel has maintained that the Fourth Geneva Convention is not legally applicable (de jure) to Judea and Samaria, though it has historically committed to applying its humanitarian provisions de facto.   
+How does law protect in war? - ICRC
+
+The Argument (The ""Missing Reversioner"" Theory): Israel’s legal position is anchored in the premise that the convention applies strictly to territory belonging to a recognized sovereign High Contracting Party prior to the outbreak of the conflict. Israel argued that Jordan’s annexation of the West Bank in 1950 was recognized by only a couple of countries and was widely considered illegal under international law. Therefore, Jordan was not the legitimate sovereign lawful owner of the territory.   
+How does law protect in war? - ICRC
+
+The Application: Under this interpretation, because the territory was not under the legitimate sovereignty of any High Contracting Party prior to 1967, the strict technical preconditions of Article 2 of the Fourth Geneva Convention are unfulfilled.
+
+De Facto Compliance: Despite contesting the mandatory legal applicability (de jure) of the convention, Israeli authorities have repeatedly stated that the military administration acts in accordance with the humanitarian provisions of the Fourth Geneva Convention.   
+How does law protect in war? - ICRC
+
+Want me to elaborate on the specific arguments regarding Article 49 of the Geneva Convention and Israeli settlements?
+Yes",ok,,17309,1,False,,,"https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=Or%20is%20its%20main%20aim%20to%20protect,by%20definition%20consist%20entirely%20of%20humanitarian%20provisions%3F
+https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=(%20GC%20I%2DIV%2C%20Arts%202%3B%20GC%20IV%2C,applicable%20to%20the%20West%20Bank%20and%20Gaza%3F
+https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=or%20%E2%80%9CWho%20exercises%20legitimate%20control%3F%E2%80%9D%20Isn't%20it,the%20Convention%E2%80%9D%2C%20did%20it%20say%20which%20provisions%3F"

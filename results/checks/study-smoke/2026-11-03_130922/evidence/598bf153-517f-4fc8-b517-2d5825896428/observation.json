@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "observation_id": "598bf153-517f-4fc8-b517-2d5825896428",
+  "provider": "gemini",
+  "captured_at": "2026-11-03T21:13:44.073992+00:00",
+  "page_url": "https://gemini.google.com/app/6f2d8f6d1b326547",
+  "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+  "response": "Whether the Fourth Geneva Convention applies to Judea and Samaria (commonly referred to as the West Bank, including East Jerusalem) is a subject of long-standing legal debate between the Government of Israel and the international community.\n\nThe two primary perspectives outline the core of this disagreement:\n\n1. The Position of the International Community and Judicial Bodies\n\nThe overwhelming consensus among international bodies—including the United Nations Security Council, the International Court of Justice (ICJ), the International Committee of the Red Cross (ICRC), and high contracting parties to the Geneva Conventions—is that the Fourth Geneva Convention does apply de jure (as a matter of law) to Judea and Samaria.\n\nThe Argument: Article 2 of the Fourth Geneva Convention states that the convention applies to all cases of declared war or any other armed conflict between two or more High Contracting Parties, as well as to all cases of partial or total occupation of the territory of a High Contracting Party.\n\nThe Application: Because Jordan held control of the territory prior to the 1967 Six-Day War (and both Jordan and Israel are parties to the Geneva Conventions), and because the territory came under the control of the Israeli military, international legal bodies maintain that the criteria for a military occupation of a High Contracting Party's territory are met. Consequently, restrictions under the convention—such as prohibitions on transferring parts of an occupying power's civilian population into occupied territory (Article 49) or altering local laws beyond military necessity—are viewed by these bodies as fully applicable.\n\n2. The Position of the Government of Israel\n\nThe Government of Israel has maintained that the Fourth Geneva Convention is not legally applicable (de jure) to Judea and Samaria, though it has historically committed to applying its humanitarian provisions de facto.   \nHow does law protect in war? - ICRC\n\nThe Argument (The \"Missing Reversioner\" Theory): Israel’s legal position is anchored in the premise that the convention applies strictly to territory belonging to a recognized sovereign High Contracting Party prior to the outbreak of the conflict. Israel argued that Jordan’s annexation of the West Bank in 1950 was recognized by only a couple of countries and was widely considered illegal under international law. Therefore, Jordan was not the legitimate sovereign lawful owner of the territory.   \nHow does law protect in war? - ICRC\n\nThe Application: Under this interpretation, because the territory was not under the legitimate sovereignty of any High Contracting Party prior to 1967, the strict technical preconditions of Article 2 of the Fourth Geneva Convention are unfulfilled.\n\nDe Facto Compliance: Despite contesting the mandatory legal applicability (de jure) of the convention, Israeli authorities have repeatedly stated that the military administration acts in accordance with the humanitarian provisions of the Fourth Geneva Convention.   \nHow does law protect in war? - ICRC\n\nWant me to elaborate on the specific arguments regarding Article 49 of the Geneva Convention and Israeli settlements?\nYes",
+  "sources": [
+    {
+      "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “Or is its main aim to protect individuals? Who or what is protected by Convention IV? ( GC IV, Art. 4) * Although Israel consented to “act de facto in accordanc...”",
+      "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=Or%20is%20its%20main%20aim%20to%20protect,by%20definition%20consist%20entirely%20of%20humanitarian%20provisions%3F"
+    },
+    {
+      "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “( GC I-IV, Arts 2; GC IV, Art. 6) Are Convention IV's provisions on occupied territories only applicable to occupation of a territory of a “High Contracting Par...”",
+      "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=(%20GC%20I%2DIV%2C%20Arts%202%3B%20GC%20IV%2C,applicable%20to%20the%20West%20Bank%20and%20Gaza%3F"
+    },
+    {
+      "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “or “Who exercises legitimate control?” Isn't it a confusion between jus ad bellum and jus in bello? Is it the aim of IHL to protect sovereign rights, as seems t...”",
+      "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=or%20%E2%80%9CWho%20exercises%20legitimate%20control%3F%E2%80%9D%20Isn't%20it,the%20Convention%E2%80%9D%2C%20did%20it%20say%20which%20provisions%3F"
+    }
+  ],
+  "status": "ok",
+  "source_capture": {
+    "controls_found": 3,
+    "controls_read": 3,
+    "complete": true,
+    "groups": [
+      {
+        "id": "inline-0",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “Or is its main aim to protect individuals? Who or what is protected by Convention IV? ( GC IV, Art. 4) * Although Israel consented to “act de facto in accordanc...”",
+            "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=Or%20is%20its%20main%20aim%20to%20protect,by%20definition%20consist%20entirely%20of%20humanitarian%20provisions%3F"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-1",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “( GC I-IV, Arts 2; GC IV, Art. 6) Are Convention IV's provisions on occupied territories only applicable to occupation of a territory of a “High Contracting Par...”",
+            "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=(%20GC%20I%2DIV%2C%20Arts%202%3B%20GC%20IV%2C,applicable%20to%20the%20West%20Bank%20and%20Gaza%3F"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-2",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “or “Who exercises legitimate control?” Isn't it a confusion between jus ad bellum and jus in bello? Is it the aim of IHL to protect sovereign rights, as seems t...”",
+            "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=or%20%E2%80%9CWho%20exercises%20legitimate%20control%3F%E2%80%9D%20Isn't%20it,the%20Convention%E2%80%9D%2C%20did%20it%20say%20which%20provisions%3F"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

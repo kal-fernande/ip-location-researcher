@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "observation_id": "07c63320-7852-460a-ad6a-9855046041b6",
+  "provider": "google_search",
+  "captured_at": "2026-11-03T21:13:02.579161+00:00",
+  "page_url": "https://www.google.com/search?q=%D7%94%D7%90%D7%9D+%D7%90%D7%9E%D7%A0%D7%AA+%D7%96%D7%A0%D7%91%D7%94+%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA+%D7%AA%D7%A7%D7%A4%D7%94+%D7%9C%D7%92%D7%91%D7%99+%D7%99%D7%94%D7%95%D7%93%D7%94+%D7%95%D7%A9%D7%95%D7%9E%D7%A8%D7%95%D7%9F%3F&hl=en&sei=UU7qavmjHpnfwN4P_r704QQ",
+  "prompt": "האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?",
+  "response": "מבחינה משפטית בינלאומית ועל פי עמדת הקהילה הבינלאומית, אמנת ז'נבה הרביעית תקפה וחלה על יהודה ושומרון כעל שטח כבוש שנכבש בשנת 1967, אך עמדת ממשלת ישראל לדורותיה שונה. \nויקיפדיה\n +2\nלהלן עיקרי המחלוקת:\nעמדת ממשלת ישראל: ישראל טוענת באופן מסורתי כי לאמנה אין תחולה פורמלית (דפורמלית) על יהודה ושומרון, בין היתר משום שהשטחים לא היו ריבון מוכר ומכיוון שהאמנה עוסקת במלחמות בין מדינות ריבוניות. עם זאת, ישראל הצהירה בעבר כי היא מקבלת על עצמה ליישם את ההוראות ההומניטריות שבאמנה מתוך בחירה והתנדבות. \nהאגודה לזכויות האזרח בישראל\n +1\nעמדת הקהילה הבינלאומית והאו\"ם: האו\"ם, בית הדין הבינלאומי לצדק (ICJ), הצלב האדום ומרבית מדינות העולם קובעים כי יהודה ושומרון הם שטחים כבושים לכל דבר ועניין, ולכן אמנת ז'נבה הרביעית – ובפרט סעיף 49 שלה העוסק באיסור העברת אוכלוסייה אזרחית לשטח הכבוש – חלה עליהם במלואה. \nפסיקת בג\"ץ: בית המשפט העליון בישראל נמנע בדרך כלל מהכרעה תיאורטית כוללת בשאלה האם האמנה חלה פורמלית, אך בפסיקתו בחן את פעולות המפקד הצבאי בשטח לפי הכללים ההומניטריים של המשפט הבינלאומי המנהגי, תוך קביעה שכאשר יש חוק ישראלי מפורש הסותר את המשפט הבינלאומי, הדין הישראלי גובר בתוך מערכת המשפט המקומית. \nהאוניברסיטה העברית בירושלים\n +1\nמידע נוסף ומפורט בנושא ניתן למצוא בערך אמנת ז'נבה הרביעית בוויקיפדיה או דרך סקירת עמדות המשפטנים באתר האגודה לזכויות האזרחי.\nאם תרצה, אוכל לפרט לך יותר על:\nההבדל בין תחולה פורמלית לבין משפט מנהגי\nהמחלוקת הספציפית סביב סעיף 49 באמנה\nעמדת בית הדין הבינלאומי לצדק (ICJ) בשנים האחרונות\nעל איזה מהם תרצה להרחיב?",
+  "sources": [
+    {
+      "title": "ויקיפדיה",
+      "url": "https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%A0%D7%AA_%D7%96%27%D7%A0%D7%91%D7%94_%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA"
+    },
+    {
+      "title": "האגודה לזכויות האזרח בישראל",
+      "url": "https://www.acri.org.il/post/__603"
+    },
+    {
+      "title": "האוניברסיטה העברית בירושלים",
+      "url": "https://lawjournal.huji.ac.il/sites/default/files/2018-02/%D7%AA%D7%97%D7%95%D7%9C%D7%AA%D7%9D%20%D7%A9%D7%9C%20%D7%93%D7%99%D7%A0%D7%99%20%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94%20%D7%A2%D7%9C%20%D7%94%D7%A9%D7%98%D7%97%D7%99%D7%9D%20%D7%94%D7%9E%D7%95%D7%97%D7%96%D7%A7%D7%99%D7%9D%20%28%D7%AA%D7%92%D7%95%D7%91%D7%94%20%D7%9C%D7%94%D7%A8%D7%A6%D7%90%D7%AA%D7%94%20%D7%A9%D7%9C%20%D7%A4%D7%A8%D7%95%D7%A4%D7%A1%D7%95%D7%A8%20%D7%9C%D7%A4%D7%99%D7%93%D7%95%D7%AA%29.pdf"
+    },
+    {
+      "title": "האיסור של אמנת ז'נבה הרביעית על העברת אוכלוסיות אזרחיות לשטחים ...",
+      "url": "https://www.reddit.com/r/IsraelPalestine/comments/1ew0b6o/the_4th_geneva_convention_prohibition_on/?tl=he"
+    },
+    {
+      "title": "אחת ולתמיד: האמת על ה\"כיבוש\" ואמנת ז'נבה - Camera HE",
+      "url": "https://camera-he.org/%D7%90%D7%97%D7%AA-%D7%95%D7%9C%D7%AA%D7%9E%D7%99%D7%93-%D7%94%D7%90%D7%9E%D7%AA-%D7%A2%D7%9C-%D7%94%D7%9B%D7%99%D7%91%D7%95%D7%A9-%D7%95%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94/"
+    }
+  ],
+  "status": "ok",
+  "source_capture": {
+    "controls_found": 1,
+    "controls_read": 1,
+    "complete": true,
+    "redirects": [
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAESugEBxCJF16CSIBW6zz7sf-HZ34UhsrHxVGH0e49woBHCioHlEbsWHNX-gKv6EV-fhbMZ2HxucPfOAdHskJJaU_Kl64ffsBCoiAdnJXCjbmNYlliuwQxgSM1e99rsVeFzqA5OekZGrGPSfUx1a2aNMATp2fyfd9s-wBjuBI12YbqvyBqOZ71gBQ-04kowQY7KCAEqVqAlzFSXLzB_4Se-wU11caVZkizFfKUbmt_jUGUG-7g3HODgjiLSK1c",
+        "source_url": "https://he.wikipedia.org/wiki/%D7%90%D7%9E%D7%A0%D7%AA_%D7%96%27%D7%A0%D7%91%D7%94_%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA"
+      },
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAESXwHEIkXXkQl_ayKilznAzwX-iW4BewwgoQNZSEfgVplCnlhfSAc4vBnpXFWnvd7rPVd9-4I6achEXJTwBpXxbMac7bCRgyZk9YASjySLI5-BxYQ0_h6g5ZsT_i_YwxcY",
+        "source_url": "https://www.acri.org.il/post/__603"
+      },
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAESkQQBxCJF17_O_3mHQ8gJs3wIYW_0iXMFGnk7xKLMf_iCWR7QoDfWBtk19awBGMklrIozsKY6RtjaWTMew5yMlQ3yuXuxPJwKrBfzau_14-cXqVWE-rpj6VmQr9Uc71HmvLRhDKf-LCQ_ZHh6QFjXBKuTNmTfJf7_hvFKx_Y1khBVXKPNXkOjoo1MtTayK3v1fvgMXnL0TsJFCYYeJZhYNlzheybd3PYusdJymi-qNs-lM7DaKOSPjeeR93r2brHiAItNv3qzed-4QJIdoj8MCLPuoemBD_DiQIYNnyYoGm45720NDLL3aupqJTeuEcjQ1li2mT4_l7TdUwi70u4qTHl-q3to9oJ-Up_PajY5R0dmi8is-iP9o05z8alaQVsSv6i-5_EFLBO6X_2SjfGOdarol1aPg0QNeVEp1jaL9hFac--xwOUIHplWzpkqHG7dUP8CUjrbyA6PGo3F-cXShK5ME5HfKf6EBzo8-4u9CAqGxHOUVnnRgYZqBoEL--5oG_qaqPnPXnV2NSBOOGYncjfUshmmFGsnr0-zWpuSFH7bC0hUfGi9CfD1blamkpfxuWNDNXyxJYNt93t1uOlrNUTlIF-vnxQgdHGFFDxPaFgc4LMTFJor-RoGGV0gHta0UVNuLVrbrZFmPRv44GRzt7pSkJ722YwwsArY1Rv9qJZrjCx8tqYNX6mLQwfGkqFpWLax",
+        "source_url": "https://lawjournal.huji.ac.il/sites/default/files/2018-02/%D7%AA%D7%97%D7%95%D7%9C%D7%AA%D7%9D%20%D7%A9%D7%9C%20%D7%93%D7%99%D7%A0%D7%99%20%D7%94%D7%9E%D7%9C%D7%97%D7%9E%D7%94%20%D7%A2%D7%9C%20%D7%94%D7%A9%D7%98%D7%97%D7%99%D7%9D%20%D7%94%D7%9E%D7%95%D7%97%D7%96%D7%A7%D7%99%D7%9D%20%28%D7%AA%D7%92%D7%95%D7%91%D7%94%20%D7%9C%D7%94%D7%A8%D7%A6%D7%90%D7%AA%D7%94%20%D7%A9%D7%9C%20%D7%A4%D7%A8%D7%95%D7%A4%D7%A1%D7%95%D7%A8%20%D7%9C%D7%A4%D7%99%D7%93%D7%95%D7%AA%29.pdf"
+      },
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAESpgEBxCJF1xETMdmyG93VvGtF2xhPMiYckbzoNq7kC0-1a3HzGTD1TEPTwv4CnGRq25BXr99nmwtQI3JJ2Ydt9PStoNTqag0VjWydZgInlZA8F2ji90xylgf5Ou_IyQeVBnVh_AuP28-cykxmG2eDYw10PAgz_mbmokfxugR3JIxwT_sBdu9EC4lDizfFN0CeQFD2ywhgjCXd4MqiEY8sM9yVMeapyTyK",
+        "source_url": "https://www.reddit.com/r/IsraelPalestine/comments/1ew0b6o/the_4th_geneva_convention_prohibition_on/?tl=he"
+      },
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAESjwIBxCJF18rgHI5vb2O6OGB4qcz-ZPVq_d4Nlplq-eqVSCbnpOC1-ISL9i7lOA6eu-vTXrrtEC-mBxwZ9F-lQ6aFpYMlkfLr877EnW4bRp25rlZGOyOrG6vl39V3-2noqUql3de6FDmVNukQZ6lnsR-eQdpTLLVltV241QFCee4DVA9mLsmhbFPcfanl4zjTjusio8DJ0fUIqWmoNxoPWW5kLlonuFY_UntYi--nu_Elvt1yamuQ0Y0LdtApYjL184i-1ZRW7EWyaa-kkS7np4T3K64tu7_zvaYeAEQTdcvPpeEYTgPZlO4DiszpuGiTr2LSCK9Bxg8PvCMy84fjPw4sHn2ijQJ6u23iiAEeFcsW",
+        "source_url": "https://camera-he.org/%D7%90%D7%97%D7%AA-%D7%95%D7%9C%D7%AA%D7%9E%D7%99%D7%93-%D7%94%D7%90%D7%9E%D7%AA-%D7%A2%D7%9C-%D7%94%D7%9B%D7%99%D7%91%D7%95%D7%A9-%D7%95%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94/"
+      }
+    ],
+    "links": [
+      {
+        "title": "ויקיפדיה",
+        "url": "https://www.google.com/goto?url=CAESugEBxCJF16CSIBW6zz7sf-HZ34UhsrHxVGH0e49woBHCioHlEbsWHNX-gKv6EV-fhbMZ2HxucPfOAdHskJJaU_Kl64ffsBCoiAdnJXCjbmNYlliuwQxgSM1e99rsVeFzqA5OekZGrGPSfUx1a2aNMATp2fyfd9s-wBjuBI12YbqvyBqOZ71gBQ-04kowQY7KCAEqVqAlzFSXLzB_4Se-wU11caVZkizFfKUbmt_jUGUG-7g3HODgjiLSK1c"
+      },
+      {
+        "title": "האגודה לזכויות האזרח בישראל",
+        "url": "https://www.google.com/goto?url=CAESXwHEIkXXkQl_ayKilznAzwX-iW4BewwgoQNZSEfgVplCnlhfSAc4vBnpXFWnvd7rPVd9-4I6achEXJTwBpXxbMac7bCRgyZk9YASjySLI5-BxYQ0_h6g5ZsT_i_YwxcY"
+      },
+      {
+        "title": "האוניברסיטה העברית בירושלים",
+        "url": "https://www.google.com/goto?url=CAESkQQBxCJF17_O_3mHQ8gJs3wIYW_0iXMFGnk7xKLMf_iCWR7QoDfWBtk19awBGMklrIozsKY6RtjaWTMew5yMlQ3yuXuxPJwKrBfzau_14-cXqVWE-rpj6VmQr9Uc71HmvLRhDKf-LCQ_ZHh6QFjXBKuTNmTfJf7_hvFKx_Y1khBVXKPNXkOjoo1MtTayK3v1fvgMXnL0TsJFCYYeJZhYNlzheybd3PYusdJymi-qNs-lM7DaKOSPjeeR93r2brHiAItNv3qzed-4QJIdoj8MCLPuoemBD_DiQIYNnyYoGm45720NDLL3aupqJTeuEcjQ1li2mT4_l7TdUwi70u4qTHl-q3to9oJ-Up_PajY5R0dmi8is-iP9o05z8alaQVsSv6i-5_EFLBO6X_2SjfGOdarol1aPg0QNeVEp1jaL9hFac--xwOUIHplWzpkqHG7dUP8CUjrbyA6PGo3F-cXShK5ME5HfKf6EBzo8-4u9CAqGxHOUVnnRgYZqBoEL--5oG_qaqPnPXnV2NSBOOGYncjfUshmmFGsnr0-zWpuSFH7bC0hUfGi9CfD1blamkpfxuWNDNXyxJYNt93t1uOlrNUTlIF-vnxQgdHGFFDxPaFgc4LMTFJor-RoGGV0gHta0UVNuLVrbrZFmPRv44GRzt7pSkJ722YwwsArY1Rv9qJZrjCx8tqYNX6mLQwfGkqFpWLax"
+      },
+      {
+        "title": "האיסור של אמנת ז'נבה הרביעית על העברת אוכלוסיות אזרחיות לשטחים ...",
+        "url": "https://www.google.com/goto?url=CAESpgEBxCJF1xETMdmyG93VvGtF2xhPMiYckbzoNq7kC0-1a3HzGTD1TEPTwv4CnGRq25BXr99nmwtQI3JJ2Ydt9PStoNTqag0VjWydZgInlZA8F2ji90xylgf5Ou_IyQeVBnVh_AuP28-cykxmG2eDYw10PAgz_mbmokfxugR3JIxwT_sBdu9EC4lDizfFN0CeQFD2ywhgjCXd4MqiEY8sM9yVMeapyTyK"
+      },
+      {
+        "title": "אחת ולתמיד: האמת על ה\"כיבוש\" ואמנת ז'נבה - Camera HE",
+        "url": "https://www.google.com/goto?url=CAESjwIBxCJF18rgHI5vb2O6OGB4qcz-ZPVq_d4Nlplq-eqVSCbnpOC1-ISL9i7lOA6eu-vTXrrtEC-mBxwZ9F-lQ6aFpYMlkfLr877EnW4bRp25rlZGOyOrG6vl39V3-2noqUql3de6FDmVNukQZ6lnsR-eQdpTLLVltV241QFCee4DVA9mLsmhbFPcfanl4zjTjusio8DJ0fUIqWmoNxoPWW5kLlonuFY_UntYi--nu_Elvt1yamuQ0Y0LdtApYjL184i-1ZRW7EWyaa-kkS7np4T3K64tu7_zvaYeAEQTdcvPpeEYTgPZlO4DiszpuGiTr2LSCK9Bxg8PvCMy84fjPw4sHn2ijQJ6u23iiAEeFcsW"
+      }
+    ]
+  }
+}

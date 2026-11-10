@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "observation_id": "f131bef4-2990-4639-859e-3366a2a39c72",
+  "provider": "google_search",
+  "captured_at": "2026-11-04T16:11:28.897250+00:00",
+  "page_url": "https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3DDoes%2Bthe%2BFourth%2BGeneva%2BConvention%2Bapply%2Bto%2BJudea%2Band%2BSamaria%253F%26hl%3Den%26sei%3Dl1TravzdBsCpptQPju7ZuQY&hl=en&q=EgQXpTj7GJeprdcGIjBJs13458rbCDWV2JVijQ8O3PJvETxOZzE_t4l9wj5Gydb28VnkS5XNGQPmOoZ3cQsyAVJaAUNg8_Lvt_X2goecAQ",
+  "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+  "response": "",
+  "sources": [],
+  "status": "captcha",
+  "source_capture": {}
+}

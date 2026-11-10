@@ -1,0 +1,88 @@
+{
+  "page_url": "https://chatgpt.com/uc/6af2017e-9960-83ea-b802-4ffcce2081dc",
+  "capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 6,
+    "controls_read": 6,
+    "complete": true,
+    "message_id": "c4009317-cda7-4d70-94f4-33e3831b177b",
+    "revision": 33,
+    "groups": [
+      {
+        "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Legal Consequences Arising from the Policies and Practices of Isr. in the Occupied Palestinian Territory, Including East Jerusalem (Advisory Opinion) (I.C.J.)",
+            "url": "https://doi.org/10.1017%2Film.2024.47?utm_source=chatgpt.com"
+          },
+          {
+            "title": "ICJ Advisory Opinion on the Legal Consequences of the Construction of a Wall in the OPT - ICJ document",
+            "url": "https://www.un.org/unispal/document/auto-insert-204033/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "25bfac6e-fbcd-5e68-a028-1e13eb99de53",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "Fourth Geneva Convention (1949)",
+            "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "FAQ: Our work in Israel and the occupied territories",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Israel and the occupied Palestinian territory: The law of occupation must be respected",
+            "url": "https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "4ddbf0e3-3cd8-5180-91fb-b24f383fd167",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICJ 2024 Advisory Opinion",
+            "url": "https://doi.org/10.1017%2Film.2024.47?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "dedf923e-efb9-5796-821d-1bd07d4a9183",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICJ 2004 Wall Advisory Opinion",
+            "url": "https://www.un.org/unispal/document/auto-insert-204033/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "3e979f04-30fe-57ef-933b-57fafb04a40e",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICRC FAQ on Israel and the occupied territories",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

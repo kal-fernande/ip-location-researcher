@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "observation_id": "4b514e60-94b5-45c5-ab54-09e0be08b958",
+  "provider": "gemini",
+  "captured_at": "2026-11-04T15:51:49.906388+00:00",
+  "page_url": "https://gemini.google.com/app/09f5833900df9650",
+  "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+  "response": "Whether the Fourth Geneva Convention applies to Judea and Samaria (commonly referred to as the West Bank) is a subject of long-standing international legal debate, with a sharp divide between the position of the Israeli government and the consensus of the international community.\n\n1. The International Consensus\n\nThe overwhelming majority of the international community—including the United Nations Security Council, the General Assembly, the International Court of Justice (ICJ), and the International Committee of the Red Cross (ICRC)—maintains that the Fourth Geneva Convention does fully apply to Judea and Samaria.\n\nThe Rationale: Proponents of this view argue that under Common Article 2 of the 1949 Geneva Conventions, the treaties apply to any armed conflict arising between two or more High Contracting Parties and to cases of occupied territory. Because Jordan administered the territory prior to 1967 and both Jordan and Israel are parties to the Conventions, the criteria for a formal military occupation are met.\n\nHumanitarian Protections: Under this interpretation, provisions such as Article 49—which prohibits an occupying power from deporting or transferring parts of its own civilian population into territory it occupies—are legally binding, rendering Israeli settlements in the territory illegal under international law.   \nAmnesty International\n\n2. The Israeli Government's Position\n\nThe government of Israel has traditionally argued that the Fourth Geneva Convention is de jure inapplicable to Judea and Samaria for several legal reasons:\n\nThe \"Missing Reversioner\" Theory: Israel argued that under international law, the Convention applies only to territory that belonged to a recognized sovereign High Contracting Party prior to the occupation. Because Jordan’s annexation of the West Bank in 1950 was recognized by only a few nations (and Jordan later renounced its claims in 1988), Israel argued that the territory was not the sovereign territory of any state prior to 1967, but rather \"disputed\" territory.   \nHow does law protect in war? - ICRC\n\nThe Humanitarian Standard: While contesting the de jure (technical legal) application of the Convention, successive Israeli governments have stated that Israel voluntarily applies the humanitarian provisions of the Fourth Geneva Convention in practice.\n\nDomestic Legal Application: The High Court of Justice of Israel has adjudicated numerous petitions regarding administrative actions in the territory, applying customary international law and humanitarian principles, though it has generally declined to rule on the broad international question of the Convention's formal applicability to settlements.\n\nWant to know more about the International Court of Justice's advisory opinions on this topic?\nYes",
+  "sources": [
+    {
+      "title": "Amnesty International Chapter 3: Israeli Settlements and International Law “Article 49 of the Fourth Geneva Convention states: “The Occupying Power shall not deport or transfer parts of its own civilian population into the territory it”",
+      "url": "https://www.amnesty.org/en/latest/campaigns/2019/01/chapter-3-israeli-settlements-and-international-law/"
+    },
+    {
+      "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “* Why does Shamgar claim that neither the West Bank nor Gaza is occupied territory as defined by IHL, and that therefore Convention IV is not applicable? Does I...”",
+      "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=*%20Why%20does%20Shamgar%20claim%20that%20neither,of%20the%20sovereignty%20of%20the%20previous%20government%3F"
+    }
+  ],
+  "status": "ok",
+  "source_capture": {
+    "controls_found": 2,
+    "controls_read": 2,
+    "complete": true,
+    "groups": [
+      {
+        "id": "inline-0",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Amnesty International Chapter 3: Israeli Settlements and International Law “Article 49 of the Fourth Geneva Convention states: “The Occupying Power shall not deport or transfer parts of its own civilian population into the territory it”",
+            "url": "https://www.amnesty.org/en/latest/campaigns/2019/01/chapter-3-israeli-settlements-and-international-law/"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-1",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “* Why does Shamgar claim that neither the West Bank nor Gaza is occupied territory as defined by IHL, and that therefore Convention IV is not applicable? Does I...”",
+            "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=*%20Why%20does%20Shamgar%20claim%20that%20neither,of%20the%20sovereignty%20of%20the%20previous%20government%3F"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

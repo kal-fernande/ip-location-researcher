@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-11-09T04:52:16.067415-08:00",
+  "command": "run-day --day 2 --mode browser",
+  "checks": [
+    "vpn",
+    "browser"
+  ],
+  "day": 2,
+  "mode": "browser",
+  "run_at": "2026-11-05T16:03:00-08:00",
+  "locations": [
+    {
+      "location": "US",
+      "vpn": {
+        "verified": false
+      },
+      "api": [],
+      "browser": [],
+      "skipped": []
+    }
+  ],
+  "finished_at": "2026-11-09T04:52:16.204314-08:00",
+  "error": "CalledProcessError: Command '['sh', '-c', 'mullvad relay set location us nyc us-nyc-wg-001 && mullvad connect --wait']' returned non-zero exit status 1.",
+  "ok": false
+}

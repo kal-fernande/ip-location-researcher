@@ -1,0 +1,74 @@
+{
+  "page_url": "https://chatgpt.com/uc/6aea4d8a-8998-83ea-a5e8-6b129ca2308d",
+  "capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 4,
+    "controls_read": 4,
+    "complete": true,
+    "message_id": "330d74e5-b85e-4a92-a7ce-4d71663102be",
+    "revision": 39,
+    "groups": [
+      {
+        "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Legality Under International Law",
+            "url": "https://www.adalah.org/uploads/uploads/Settlement_regulation_law_state_reply_23082017.pdf?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Question of the Observance of the Fourth Geneva Convention of 1949 in Occupied Palestinian Territory",
+            "url": "https://www.un.org/unispal/document/auto-insert-200116/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "The Application of Israeli Law to the West Bank: De Facto Annexation?",
+            "url": "https://www.inss.org.il/publication/the-application-of-israeli-law-to-the-west-bank-de-facto-annexation/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "965e8727-dd6e-5984-99ee-d31eb3b63259",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Advisory Opinion of 19 July 2024",
+            "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, in",
+            "url": "https://icj-web.leman.un-icc.cloud/case/186?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "f6f56486-f9e8-5487-bada-8d928fdfc15f",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Israel and the occupied Palestinian territory: The law of occupation must be respected",
+            "url": "https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Advisory Opinion of 19 July 2024",
+            "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

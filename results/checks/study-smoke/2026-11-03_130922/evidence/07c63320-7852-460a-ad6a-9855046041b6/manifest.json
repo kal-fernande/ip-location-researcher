@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "provider": "google_search",
+  "observation_id": "07c63320-7852-460a-ad6a-9855046041b6",
+  "files": {
+    "page.html": "8260d70b2308f62bfe4ce1c0fec332255374e8afa983bc773ba18ffd89a429f1",
+    "page.mhtml": "85b9a830b086b73df61ece8c65c56bf937443407797ccf936af0f22507e93e9b",
+    "page.png": "d611a72b689c2d3a905cb3e405e83bab0fd15b46c3d4e39288c0396d43638ff8",
+    "answer.html": "c60da2da103767311db6e8ce265e3afaad717507ebca912542f7a037f4e10377",
+    "answer.txt": "2635cf5fad85dc4a81e4589f347ba212995a3a5d80c72cbf2c68331888cd27a6",
+    "observation.json": "b01a633998118ff3e9a82a1989af6fc18d21b5b85b5e6f8dcea121ad69fbfea3",
+    "source-evidence.json": "a0dc9f2c0339aea2490df2e667f89b6d3e6fc3ea788b1fd44fac5b0aafb94111",
+    "review.html": "1ba690bd104daba0c083fd2847b0c79f2e9bfe94da544167e1d4fe6d15c87769"
+  }
+}

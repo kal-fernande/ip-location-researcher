@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "observation_id": "50e4ed92-7187-4b3e-9e59-def569bbb8da_attempt2",
+  "provider": "chatgpt",
+  "captured_at": "2026-11-04T17:16:06.666051+00:00",
+  "page_url": "https://chatgpt.com/",
+  "prompt": "האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?",
+  "response": "Unable to connect\nRetry",
+  "sources": [],
+  "status": "timeout",
+  "source_capture": {}
+}

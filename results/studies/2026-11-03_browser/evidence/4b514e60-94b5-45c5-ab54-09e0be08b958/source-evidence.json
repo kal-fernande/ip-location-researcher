@@ -1,0 +1,32 @@
+{
+  "page_url": "https://gemini.google.com/app/09f5833900df9650",
+  "capture": {
+    "controls_found": 2,
+    "controls_read": 2,
+    "complete": true,
+    "groups": [
+      {
+        "id": "inline-0",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Amnesty International Chapter 3: Israeli Settlements and International Law “Article 49 of the Fourth Geneva Convention states: “The Occupying Power shall not deport or transfer parts of its own civilian population into the territory it”",
+            "url": "https://www.amnesty.org/en/latest/campaigns/2019/01/chapter-3-israeli-settlements-and-international-law/"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-1",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “* Why does Shamgar claim that neither the West Bank nor Gaza is occupied territory as defined by IHL, and that therefore Convention IV is not applicable? Does I...”",
+            "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=*%20Why%20does%20Shamgar%20claim%20that%20neither,of%20the%20sovereignty%20of%20the%20previous%20government%3F"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

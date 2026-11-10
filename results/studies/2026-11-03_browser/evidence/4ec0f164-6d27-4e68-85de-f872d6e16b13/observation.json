@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "observation_id": "4ec0f164-6d27-4e68-85de-f872d6e16b13",
+  "provider": "gemini",
+  "captured_at": "2026-11-09T17:23:47.898757+00:00",
+  "page_url": "https://gemini.google.com/app/5e29f5bd56fce9c8",
+  "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+  "response": "Whether the Fourth Geneva Convention applies to Judea and Samaria (commonly referred to internationally as the West Bank) is a long-standing question with a stark divide between the official position of the State of Israel and the overwhelming consensus of the international community.\n\n1. The International Consensus & International Bodies\n\nThe vast majority of the international community—including the United Nations Security Council, the General Assembly, the International Committee of the Red Cross (ICRC), and the International Court of Justice (ICJ)—maintains that the Fourth Geneva Convention does apply to all the territories occupied by Israel in the 1967 Six-Day War, including Judea and Samaria.   \nWikipedia\n\nThe ICJ Advisory Opinion (2004 & 2024): The International Court of Justice has repeatedly affirmed that the Fourth Geneva Convention is applicable to the Occupied Palestinian Territory, stating that territories captured from Jordan (which held them prior to 1967) fall under the protection of the convention regarding civilian populations and the prohibition of transferring an occupying power's civilian population into occupied land (Article 49).   \nWelcome to the United Nations\n\nThe ICRC Position: As the guardian of international humanitarian law, the ICRC has consistently stated that the convention applies de jure (in law) to the territories, and that the suspension or denial of its applicability is untenable.\n\n2. The Israeli Government's Legal Position\n\nThe Government of Israel has officially maintained that the Fourth Geneva Convention does not formally (de jure) apply to Judea and Samaria, based on several legal arguments:\n\nThe \"Missing Reversioner\" Theory: Israel argued that under international law, the convention only applies to territory occupied from a recognized High Contracting Party (a sovereign state). Because Jordan’s annexation of the West Bank in 1950 was recognized by only a couple of countries (and thus Jordan lacked recognized sovereign title), Israel argued that Jordan was not the legitimate sovereign, leaving the territory \"disputed\" rather than \"occupied\" in the strict technical sense of Article 2 of the Convention.   \nHow does law protect in war? - ICRC\n\nHumanitarian De Facto Application: While rejecting the formal de jure application, successive Israeli governments announced that they would voluntarily and de facto observe the humanitarian provisions of the convention, though without specifying precisely which provisions they deem \"humanitarian\" versus political.   \nWikipedia\n\nDomestic Court Standing: The Israeli Supreme Court (High Court of Justice) has largely bypassed a definitive ruling on the broader de jure international applicability, but has routinely applied the humanitarian norms of the Hague Regulations and customary international law when reviewing military actions and petitions brought by local residents.   \nWikipedia\n\nSummary of Practical Impact\n\nIn practical terms, this debate centers heavily on the legality of Israeli civilian settlements. Under Article 49(6) of the Fourth Geneva Convention, an occupying power is prohibited from deporting or transferring parts of its own civilian population into territory it occupies. Because the international community views the convention as fully applicable, it considers the settlements illegal under international law. Conversely, Israel's position that the convention does not formally apply underpins its argument that the settlement enterprise is not legally barred by international treaty obligations.   \nWikipedia",
+  "sources": [
+    {
+      "title": "Wikipedia Legality of Israeli settlements - Wikipedia “The applicability of the fourth Geneva Convention to \"all the territories occupied by Israel in 1967\" is held with \"a remarkable degree of unanimity\" among”",
+      "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements"
+    },
+    {
+      "title": "Welcome to the United Nations Applicability of the 4th Geneva Convention - GA resolution “Noting in particular the Court's reply, including that the Fourth Geneva Convention1 is applicable in the Occupied Palestinian Territory, including East”",
+      "url": "https://www.un.org/unispal/document/auto-insert-177996/"
+    },
+    {
+      "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “( GC I-IV, Arts 2; GC IV, Art. 6) Are Convention IV's provisions on occupied territories only applicable to occupation of a territory of a “High Contracting Par...”",
+      "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=(%20GC%20I%2DIV%2C%20Arts%202%3B%20GC%20IV%2C,applicable%20to%20the%20West%20Bank%20and%20Gaza%3F"
+    },
+    {
+      "title": "Wikipedia Legality of Israeli settlements - Wikipedia “ In practice, Israel does not accept that the Fourth Geneva Convention applies de jure, but has stated that on humanitarian issues it will govern itself de fact...”",
+      "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements#:~:text=In%20practice%2C%20Israel%20does%20not%20accept%20that,its%20provisions%2C%20without%20specifying%20which%20these%20are."
+    }
+  ],
+  "status": "ok",
+  "source_capture": {
+    "controls_found": 6,
+    "controls_read": 6,
+    "complete": true,
+    "groups": [
+      {
+        "id": "inline-0",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Wikipedia Legality of Israeli settlements - Wikipedia “The applicability of the fourth Geneva Convention to \"all the territories occupied by Israel in 1967\" is held with \"a remarkable degree of unanimity\" among”",
+            "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-1",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Welcome to the United Nations Applicability of the 4th Geneva Convention - GA resolution “Noting in particular the Court's reply, including that the Fourth Geneva Convention1 is applicable in the Occupied Palestinian Territory, including East”",
+            "url": "https://www.un.org/unispal/document/auto-insert-177996/"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-2",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “( GC I-IV, Arts 2; GC IV, Art. 6) Are Convention IV's provisions on occupied territories only applicable to occupation of a territory of a “High Contracting Par...”",
+            "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=(%20GC%20I%2DIV%2C%20Arts%202%3B%20GC%20IV%2C,applicable%20to%20the%20West%20Bank%20and%20Gaza%3F"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-3",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Wikipedia Legality of Israeli settlements - Wikipedia “ In practice, Israel does not accept that the Fourth Geneva Convention applies de jure, but has stated that on humanitarian issues it will govern itself de fact...”",
+            "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements#:~:text=In%20practice%2C%20Israel%20does%20not%20accept%20that,its%20provisions%2C%20without%20specifying%20which%20these%20are."
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-4",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Wikipedia Legality of Israeli settlements - Wikipedia “ In practice, Israel does not accept that the Fourth Geneva Convention applies de jure, but has stated that on humanitarian issues it will govern itself de fact...”",
+            "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements#:~:text=In%20practice%2C%20Israel%20does%20not%20accept%20that,its%20provisions%2C%20without%20specifying%20which%20these%20are."
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-5",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Wikipedia Legality of Israeli settlements - Wikipedia “ In practice, Israel does not accept that the Fourth Geneva Convention applies de jure, but has stated that on humanitarian issues it will govern itself de fact...”",
+            "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements#:~:text=In%20practice%2C%20Israel%20does%20not%20accept%20that,its%20provisions%2C%20without%20specifying%20which%20these%20are."
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

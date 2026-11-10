@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><title>Synthetic Google overview fixture</title>
+<body>
+<textarea name="q">Unmodified study question</textarea>
+<main id="search">
+  <div data-mcpr="fixture">
+    <h1>AI Overview</h1>
+    <div class="LT6XE">
+      <p>The first paragraph of the AI answer.</p>
+      <p id="continuation" hidden>The complete expanded answer.</p>
+    </div>
+    <button onclick="document.getElementById('continuation').hidden=false; this.remove()">Show more</button>
+    <aside>
+      <a href="/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFourth_Geneva_Convention&amp;sa=U">Wikipedia</a>
+      <a href="https://example.org/source">Second source</a>
+      <a href="/search?udm=50&amp;q=question">Try AI Mode</a>
+    </aside>
+  </div>
+  <div id="rso"><h3>Ordinary search result</h3><p>ORGANIC_SNIPPET_MUST_NOT_BE_AN_ANSWER</p>
+    <a href="https://example.org/organic">Organic result</a></div>
+</main>
+</body></html>

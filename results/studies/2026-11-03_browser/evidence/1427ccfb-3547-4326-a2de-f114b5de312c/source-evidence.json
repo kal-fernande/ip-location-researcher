@@ -1,0 +1,43 @@
+{
+  "page_url": "https://gemini.google.com/app/8be31945906e0486",
+  "capture": {
+    "controls_found": 3,
+    "controls_read": 3,
+    "complete": true,
+    "groups": [
+      {
+        "id": "inline-0",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "UN.org. Question of the Observance of the Fourth Geneva Convention of “8. In 1973, the ICRC report commented: “Despite further ICRC approaches, the Israeli authorities maintained their stand that the question of the applicability o...”",
+            "url": "https://www.un.org/unispal/document/auto-insert-200116/#:~:text=8.%20In%201973%2C%20the%20ICRC%20report%20commented%3A,of%20their%20rights%20under%20the%20Fourth%20Convention.%E2%80%9D"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-1",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Amnesty International Chapter 3: Israeli Settlements and International Law “Article 49 of the Fourth Geneva Convention states: “The Occupying Power shall not deport or transfer parts of its own civilian population into the territory it”",
+            "url": "https://www.amnesty.org/en/latest/campaigns/2019/01/chapter-3-israeli-settlements-and-international-law/"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-2",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "UN.org. Question of the Observance of the Fourth Geneva Convention of “8. In 1973, the ICRC report commented: “Despite further ICRC approaches, the Israeli authorities maintained their stand that the question of the applicability o...”",
+            "url": "https://www.un.org/unispal/document/auto-insert-200116/#:~:text=8.%20In%201973%2C%20the%20ICRC%20report%20commented%3A,of%20their%20rights%20under%20the%20Fourth%20Convention.%E2%80%9D"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

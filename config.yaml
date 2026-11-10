@@ -1,0 +1,157 @@
+experiment:
+  timezone: "America/Los_Angeles"
+  days: 10  # Only study-length setting; the next day is scheduled after each run.
+  replicates: 1
+
+  # random: draw each next run_at after the previous day completes (default).
+  # agenda: use fixed times from agenda_path (see agenda.example.json).
+  schedule_policy: random
+  agenda_path: "agenda.json"
+
+  # skip: CAPTCHA/failed cells stay in the CSV and are never retried (default).
+  # retry: day stays incomplete; missing cells are collected again later.
+  recovery_policy: skip
+  recovery:
+    max_attempts_per_cell: 3
+    # When recovery_policy is retry, redraw a same-day retry inside this window.
+    retry_window:
+      start_hour: 8
+      end_hour: 21
+
+  # Optional notifications — step-by-step: docs/scheduling.md (Alerts).
+  # enabled: false means log beep only; true turns on Mac banners and/or a phone channel.
+  # Prefer secrets in .env or Phone alerts… (private/phone-alerts.json); do not commit tokens.
+  alerts:
+    enabled: true
+    macos_notification: true
+    provider: none   # none | ntfy | telegram | webhook
+    ntfy_topic: ""   # optional; overridden by NTFY_TOPIC in .env
+    ntfy_server: "https://ntfy.sh"
+    telegram_bot_token: ""   # optional; overridden by TELEGRAM_BOT_TOKEN in .env
+    telegram_chat_id: ""     # optional; overridden by TELEGRAM_CHAT_ID in .env
+    webhook_url: ""
+    advance_notice_minutes: 10
+
+  # Random minute chosen for the next day after each completed run.
+  schedule_window:
+    start_hour: 8
+    end_hour: 21
+
+  # Keep browser locale/timezone FIXED across VPN locations.
+  # This makes source IP the geographic manipulation.
+  browser_locale: "en-US"
+  browser_timezone: "UTC"
+
+# To add a country, copy a block 
+# Avalaible serers at https://mullvad.net/en/servers
+locations:
+  US:
+    vpn_target: "us nyc us-nyc-wg-001"  # pinned: Mullvad-owned, keeps the exit IP stable
+    expected_country_code: "US"
+    focus_terms: ["united states", "u.s.", "american", "america", "congress",
+                  "white house", "republican", "democrat", "washington",
+                  "ארצות הברית", "אמריקאי", "אמריקאית", "וושינגטון"]
+  IL:
+    vpn_target: "il tlv il-tlv-wg-101"  # pinned: DataPacket (rented), Tel Aviv
+    expected_country_code: "IL"
+    focus_terms: ["israel", "israeli", "tel aviv", "tel-aviv", "jerusalem", "knesset",
+                  "ישראל", "ישראלי", "ישראלית", "תל אביב", "ירושלים", "כנסת"]
+
+languages:
+  en: "English"
+  he: "Hebrew"
+
+vpn:
+  enabled: true
+  # Mullvad CLI (macOS and Linux), see README and notes/vpn-providers.md.
+  # {target} is vpn_target: a country code, or "<country> <city> <server>" to pin one server.
+  connect_command: ["sh", "-c", "mullvad relay set location {target} && mullvad connect --wait"]
+  disconnect_command: ["mullvad", "disconnect", "--wait"]
+  settle_seconds: 3
+  # NordVPN on Linux instead: set vpn_target to "United_States" / "Israel" and use
+  # connect_command: ["nordvpn", "connect", "{target}"]
+  # disconnect_command: ["nordvpn", "disconnect"]
+  # settle_seconds: 8
+  verify_url: "https://ipapi.co/json/"
+  verify_urls:
+    - "https://ipapi.co/json/"
+    - "https://ipwho.is/"
+    - "https://ipinfo.io/json"
+  verify_timeout_seconds: 15
+  verify_attempts: 3        # retries when the lookup fails right after connecting
+  verify_retry_seconds: 5
+  # Hard wall-clock for one collection (run-day / check). After this, disconnect and abort.
+  # 0 disables. Raise if a day with CAPTCHA waits regularly needs longer.
+  max_session_seconds: 7200
+
+
+api:
+  enabled: true
+
+  # Each enabled provider needs its key in .env.
+  providers:
+    openai:
+      enabled: false
+      # chat-latest tracks the latest Instant model used in ChatGPT.
+      # Record the returned model on every row so alias changes are visible.
+      model: "chat-latest"
+      max_output_tokens: 1200
+
+    gemini:
+      enabled: false
+      model: "gemini-3.7-flash"
+      max_output_tokens: 1200
+
+    anthropic:
+      enabled: true
+      model: "claude-sonnet-5-5"
+      max_output_tokens: 1200
+
+browser:
+  enabled: true
+  headless: false
+  save_evidence: true  # Same HTML/archive/screenshot evidence bundle for all browser sources.
+  stay_in_background: true  # macOS: give focus back after a window opens; CAPTCHA wait still brings it forward once
+  # Defaults for every app; an app's entry under providers can override these four.
+  timeout_seconds: 120       # per attempt: how long to wait for the page, then for a stable answer
+  retries: 1                 # ask again in a fresh browser after a timeout or UI error
+  prompt_wait_seconds: 20    # how long to wait for the prompt box after the page loads
+  pause_after_submit_seconds: 2
+  human_captcha_enabled: true
+  human_captcha_timeout_seconds: 300
+  human_captcha_notify_seconds: 30
+  screenshot_failures: true
+
+  providers:
+    chatgpt:
+      enabled: true
+      url: "https://chatgpt.com/"
+      # Answers in 10–20 s logged out (2026-10-13), so the defaults are ample.
+    gemini:
+      enabled: true
+      url: "https://gemini.google.com/app"
+      # Logged out, answers took 50–60 s and one was unfinished after 120 s (2026-10-13).
+      timeout_seconds: 180
+      retries: 1
+    google_search:
+      enabled: true
+      url: "https://www.google.com/search"
+      # Capture only the AI Overview above ordinary results, in a fresh session.
+      # No overview is recorded as no_ai_overview; never substitute web snippets.
+      timeout_seconds: 90
+      retries: 1
+    claude:
+      # claude.ai has no logged-out chat, see notes/web-app-access.md. Claude is covered by the API.
+      enabled: false
+      url: "https://claude.ai/new"
+
+results:
+  # Live study paths are resolved under results/studies/<ACTIVE>/ by apply_active_study().
+  studies_dir: "results/studies"
+  # Fallbacks used only when a check passes an explicit cfg without a study root.
+  csv_path: "results/results.csv"
+  runs_dir: "results/runs"
+  failure_screenshot_dir: "results/failures"
+  analysis_dir: "results/analysis"
+  checks_dir: "results/checks"
+  index_path: "results/README.md"

@@ -1,0 +1,122 @@
+{
+  "page_url": "https://chatgpt.com/uc/6aeb4962-12c8-83ea-b8a5-19cb3a27b8a8",
+  "capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 8,
+    "controls_read": 8,
+    "complete": true,
+    "message_id": "94920eab-c667-4154-ad9f-5c325c1871ed",
+    "revision": 38,
+    "groups": [
+      {
+        "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "FAQ: Our work in Israel and the occupied territories",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+          },
+          {
+            "title": "FAQ: Our work in Israel and the occupied territories",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?linkId=100000222296797&utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "965e8727-dd6e-5984-99ee-d31eb3b63259",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+            "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Advisory Opinion of 19 July 2024",
+            "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "f6f56486-f9e8-5487-bada-8d928fdfc15f",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Summary of the ICJ Advisory Opinion of 22 October 2025",
+            "url": "https://www.un.org/unispal/document/summary-advisory-opinion-icj-22oct25/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "ICJ Advisory Opinion - Obligations of Israel in relation to the Presence and Activities of the United Nations, Other International Organizations and Third States in and in relation to the Occupied Palestinian Territory (A/80/502)",
+            "url": "https://www.un.org/unispal/document/icj-advisory-opinion-22oct2025/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "4d343fcd-41df-5b74-81df-63c72367c41d",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Microsoft Word",
+            "url": "https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/131/1577.pdf?utm_source=chatgpt.com"
+          },
+          {
+            "title": "How does law protect in war? Volume II: cases and documents",
+            "url": "https://www.icrc.org/en/download/file/19456/icrc-0739-part-ii-vol-i.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "567c4e78-901e-511d-a9d6-a65480f3d154",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "FAQ: Our work in Israel and the occupied territories",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?linkId=100000222296797&utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "25bfac6e-fbcd-5e68-a028-1e13eb99de53",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICJ Advisory Opinion (2004) – Construction of the Wall",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "dedf923e-efb9-5796-821d-1bd07d4a9183",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICJ Advisory Opinion (2024) – Occupied Palestinian Territory",
+            "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

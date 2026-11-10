@@ -1,0 +1,66 @@
+{
+  "page_url": "https://chatgpt.com/uc/6aea4e03-d138-83ea-9fa5-0ff6e8b3f2ec",
+  "capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 4,
+    "controls_read": 4,
+    "complete": true,
+    "message_id": "3c9af714-f173-499c-8f50-73518400c5bc",
+    "revision": 19,
+    "groups": [
+      {
+        "id": "dedf923e-efb9-5796-821d-1bd07d4a9183",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "חוות דעת בית הדין הבינלאומי לצדק משנת 2004",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "25bfac6e-fbcd-5e68-a028-1e13eb99de53",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "הוועד הבינלאומי של הצלב האדום – תחולת האמנה",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?linkId=100000222296797&utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+            "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Advisory Opinion of 19 July 2024",
+            "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Israel and the occupied Palestinian territory: The law of occupation must be respected",
+            "url": "https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected?utm_source=chatgpt.com"
+          },
+          {
+            "title": "IHL on the Occupying Power's responsibilities in the Occupied Palestinian territory",
+            "url": "https://www.icrc.org/en/document/ihl-occupying-power-responsibilities-occupied-palestinian-territories?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

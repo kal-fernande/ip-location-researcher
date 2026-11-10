@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "provider": "google_search",
+  "observation_id": "b73e143a-c7d9-4125-a5b2-e3d8557e15ab",
+  "files": {
+    "page.html": "b4c2b5d77a51de25e4513b25a4e508fe66a5354ae93f6cec34c14d82634902ff",
+    "page.mhtml": "0fe0178d13a5969591d66dfafdd548eaa7275af23d21c3eda65a3d2ed4245bf1",
+    "page.png": "96e5b61fa2f3e2877caa54aac5da38150b8de3be3ed42969b378e46652e65bac",
+    "answer.html": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "answer.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "observation.json": "7affdc980f0a9cfa2273fc7db14db7e26b697cc29d77f42dd2da9885a44393e7",
+    "source-evidence.json": "a114c6f8adc25e46800d815e8c18496769388fd67b985d6c8027365a0bf7f93c",
+    "review.html": "0f62452eb4cb5fdf13cf28bbec7c05b6d613a690510629c6b377b253cdc5399e"
+  }
+}

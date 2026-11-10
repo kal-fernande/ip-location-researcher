@@ -1,0 +1,94 @@
+{
+  "started_at": "2026-11-03T13:08:40.268441-08:00",
+  "finished_at": "2026-11-03T13:09:02.632270-08:00",
+  "command": "check-browser",
+  "checks": [
+    "vpn",
+    "browser"
+  ],
+  "ok": true,
+  "locations": [
+    {
+      "location": "US",
+      "vpn": {
+        "requested_location": "US",
+        "expected_country_code": "US",
+        "exit_ip": "23.165.56.251",
+        "detected_country_code": "US",
+        "detected_country_name": "United States",
+        "verified": true,
+        "error": null
+      },
+      "browser": [
+        {
+          "provider": "chatgpt",
+          "url": "https://chatgpt.com/",
+          "status": "ready",
+          "latency_ms": 1570,
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false
+        },
+        {
+          "provider": "gemini",
+          "url": "https://gemini.google.com/app",
+          "status": "ready",
+          "latency_ms": 2377,
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false
+        },
+        {
+          "provider": "google_search",
+          "url": "https://www.google.com/search",
+          "status": "ready",
+          "latency_ms": 1366,
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false
+        }
+      ]
+    },
+    {
+      "location": "IL",
+      "vpn": {
+        "requested_location": "IL",
+        "expected_country_code": "IL",
+        "exit_ip": "169.150.227.201",
+        "detected_country_code": "IL",
+        "detected_country_name": "Israel",
+        "verified": true,
+        "error": null
+      },
+      "browser": [
+        {
+          "provider": "chatgpt",
+          "url": "https://chatgpt.com/",
+          "status": "ready",
+          "latency_ms": 2325,
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false
+        },
+        {
+          "provider": "gemini",
+          "url": "https://gemini.google.com/app",
+          "status": "ready",
+          "latency_ms": 2404,
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false
+        },
+        {
+          "provider": "google_search",
+          "url": "https://www.google.com/search",
+          "status": "ready",
+          "latency_ms": 2345,
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false
+        }
+      ]
+    }
+  ]
+}

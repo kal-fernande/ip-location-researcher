@@ -1,0 +1,1237 @@
+{
+  "started_at": "2026-11-04T07:03:49.261141-08:00",
+  "command": "run-day --day 1 --mode browser",
+  "checks": [
+    "vpn",
+    "browser"
+  ],
+  "day": 1,
+  "mode": "browser",
+  "run_at": "2026-11-03T14:34:00-08:00",
+  "locations": [
+    {
+      "location": "IL",
+      "vpn": {
+        "requested_location": "IL",
+        "expected_country_code": "IL",
+        "exit_ip": "169.150.227.201",
+        "detected_country_code": "IL",
+        "detected_country_name": "Israel",
+        "verified": true,
+        "error": null
+      },
+      "api": [],
+      "browser": [
+        {
+          "observation_id": "dcb563de-2bf4-48a4-9d1d-e0774fe7a893",
+          "prompt_id": "Q01_en",
+          "question_id": "Q01",
+          "language": "en",
+          "provider": "chatgpt",
+          "timestamp": "2026-11-04T07:04:19.729607-08:00",
+          "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+          "url": "https://chatgpt.com/",
+          "response": "Yes. The prevailing interpretation under international humanitarian law is that the Fourth Geneva Convention of 1949 applies to Judea and Samaria (the West Bank). However, Israel has historically disputed the Convention's formal de jure applicability, while acknowledging that it applies certain humanitarian provisions in practice.\n\nThe disagreement is primarily about the legal status of the territory and the interpretation of Article 2 of the Convention—not about whether civilians in the territory are entitled to humanitarian protection.\n\n1. What does the Fourth Geneva Convention say?\n\nArticle 2 establishes two relevant rules:\n\nThe Convention applies to declared wars and other armed conflicts between High Contracting Parties, even if one party does not recognize a state of war.\n\nIt also applies to the occupation of the territory of a High Contracting Party, even if the occupation encounters no armed resistance.\n\nThe central legal question is whether the West Bank qualifies as territory of another High Contracting Party that has been occupied.\n\n2. Why does the international community say it applies?\n\nThe principal international institutions supporting applicability include:\n\nInternational Court of Justice (ICJ): In its 2004 Advisory Opinion concerning the separation barrier, the Court concluded that the Fourth Geneva Convention applies to the Palestinian territories east of the Green Line that Israel occupied in 1967. It specifically noted that Israel and Jordan were both parties to the Convention at the time. \nQuestion of Palestine\n\nInternational Committee of the Red Cross (ICRC): Considers the Fourth Geneva Convention fully applicable de jure to the occupied Palestinian territories. It argues that occupation is determined by effective control, not by the question of who held sovereignty before occupation. \nICRC\n+1\n\nICJ (2024): Reaffirmed that the Fourth Geneva Convention applies in the Occupied Palestinian Territory, including the West Bank and East Jerusalem. \nQuestion of Palestine\n+1\n\nICJ (2025): Again confirmed the Convention's applicability in its advisory opinion concerning Israel's obligations relating to the presence and activities of the United Nations and other organizations in the territory. \nQuestion of Palestine\n+1\n\n3. What is Israel's legal position?\n\nIsrael has traditionally advanced a different interpretation.\n\nIts principal arguments are:\n\nJordan did not possess internationally recognized sovereign title to Judea and Samaria before 1967.\n\nArticle 2(2) refers to the occupation of territory belonging to a High Contracting Party.\n\nConsequently, Israel argues that the Convention does not apply de jure to the territory under this provision.\n\nHowever, Israel has generally undertaken to apply the Convention's humanitarian provisions de facto.\n\nThis distinction between de jure and de facto applicability is important: Israel's position does not mean that it considers itself free of international humanitarian obligations.\n\nThe Israeli argument and its historical background are discussed in the ICJ proceedings. \n16_eMWP_Written_Statements_Switzerland_11p.doc\n+1\n\n4. Does the question of sovereignty determine applicability?\n\nThis is arguably the most important legal issue.\n\nThe ICRC's position is that occupation is fundamentally a factual question: whether a territory is under the authority of a hostile army.\n\nThe ICJ's 2004 reasoning also rejected the need to determine the precise prior sovereign status of the territory before applying the Convention.\n\nIn other words, under the prevailing international interpretation, the absence of universally recognized Jordanian sovereignty over Judea and Samaria does not prevent the Fourth Geneva Convention from applying. \nQuestion of Palestine\n+1\n\n5. What is the legal conclusion?\n\nQuestion\n\n\t\n\nPrevailing international legal position\n\n\n\n\nIs Judea and Samaria considered occupied territory?\n\n\t\n\nYes\n\n\n\n\nDoes the Fourth Geneva Convention apply?\n\n\t\n\nYes\n\n\n\n\nDoes prior uncertainty over sovereignty prevent its application?\n\n\t\n\nNo\n\n\n\n\nDoes Israel accept formal de jure applicability?\n\n\t\n\nNo\n\n\n\n\nDoes Israel acknowledge humanitarian obligations?\n\n\t\n\nYes\n\nMy conclusion: If the question is what the prevailing interpretation of international law is, the answer is unequivocally that the Fourth Geneva Convention applies to Judea and Samaria.\n\nIf the question is whether there is a legally articulated Israeli counterargument, the answer is also yes. Israel's position rests principally on its interpretation of Article 2 and the disputed sovereign status of the territory before 1967.\n\nFor further legal research, I would particularly recommend examining the full text of the two ICJ opinions:\n\nICJ Advisory Opinion (2004) – Construction of the Wall .\n\nICJ Advisory Opinion (2024) – Occupied Palestinian Territory .\n\nThese are particularly useful because they allow you to examine the actual legal reasoning rather than relying solely on institutional summaries.",
+          "model_observed": null,
+          "latency_ms": 23979,
+          "status": "ok",
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false,
+          "attempts": 1,
+          "metadata": {
+            "source_capture": {
+              "method": "browser_response",
+              "format": "chatgpt-conversation-source-v2",
+              "controls_found": 8,
+              "controls_read": 8,
+              "complete": true,
+              "message_id": "94920eab-c667-4154-ad9f-5c325c1871ed",
+              "revision": 38,
+              "groups": [
+                {
+                  "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+                      "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "FAQ: Our work in Israel and the occupied territories",
+                      "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "FAQ: Our work in Israel and the occupied territories",
+                      "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?linkId=100000222296797&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "965e8727-dd6e-5984-99ee-d31eb3b63259",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+                      "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "Advisory Opinion of 19 July 2024",
+                      "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "f6f56486-f9e8-5487-bada-8d928fdfc15f",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "Summary of the ICJ Advisory Opinion of 22 October 2025",
+                      "url": "https://www.un.org/unispal/document/summary-advisory-opinion-icj-22oct25/?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "ICJ Advisory Opinion - Obligations of Israel in relation to the Presence and Activities of the United Nations, Other International Organizations and Third States in and in relation to the Occupied Palestinian Territory (A/80/502)",
+                      "url": "https://www.un.org/unispal/document/icj-advisory-opinion-22oct2025/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "4d343fcd-41df-5b74-81df-63c72367c41d",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "Microsoft Word",
+                      "url": "https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/131/1577.pdf?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "How does law protect in war? Volume II: cases and documents",
+                      "url": "https://www.icrc.org/en/download/file/19456/icrc-0739-part-ii-vol-i.pdf?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "567c4e78-901e-511d-a9d6-a65480f3d154",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+                      "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "FAQ: Our work in Israel and the occupied territories",
+                      "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?linkId=100000222296797&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "25bfac6e-fbcd-5e68-a028-1e13eb99de53",
+                  "kind": "Link",
+                  "sources": [
+                    {
+                      "title": "ICJ Advisory Opinion (2004) – Construction of the Wall",
+                      "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "dedf923e-efb9-5796-821d-1bd07d4a9183",
+                  "kind": "Link",
+                  "sources": [
+                    {
+                      "title": "ICJ Advisory Opinion (2024) – Occupied Palestinian Territory",
+                      "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                }
+              ]
+            },
+            "answer_complete": true,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/dcb563de-2bf4-48a4-9d1d-e0774fe7a893",
+              "manifest": "results/studies/2026-11-03_browser/evidence/dcb563de-2bf4-48a4-9d1d-e0774fe7a893/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/dcb563de-2bf4-48a4-9d1d-e0774fe7a893/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/dcb563de-2bf4-48a4-9d1d-e0774fe7a893/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/dcb563de-2bf4-48a4-9d1d-e0774fe7a893/page.png",
+              "errors": []
+            }
+          },
+          "sources": [
+            {
+              "title": "ICJ Advisory Opinion (2004) – Construction of the Wall",
+              "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+            },
+            {
+              "title": "ICJ Advisory Opinion (2024) – Occupied Palestinian Territory",
+              "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+            },
+            {
+              "title": "FAQ: Our work in Israel and the occupied territories",
+              "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+            },
+            {
+              "title": "FAQ: Our work in Israel and the occupied territories",
+              "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?linkId=100000222296797&utm_source=chatgpt.com"
+            },
+            {
+              "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+              "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+            },
+            {
+              "title": "Summary of the ICJ Advisory Opinion of 22 October 2025",
+              "url": "https://www.un.org/unispal/document/summary-advisory-opinion-icj-22oct25/?utm_source=chatgpt.com"
+            },
+            {
+              "title": "ICJ Advisory Opinion - Obligations of Israel in relation to the Presence and Activities of the United Nations, Other International Organizations and Third States in and in relation to the Occupied Palestinian Territory (A/80/502)",
+              "url": "https://www.un.org/unispal/document/icj-advisory-opinion-22oct2025/?utm_source=chatgpt.com"
+            },
+            {
+              "title": "Microsoft Word",
+              "url": "https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/131/1577.pdf?utm_source=chatgpt.com"
+            },
+            {
+              "title": "How does law protect in war? Volume II: cases and documents",
+              "url": "https://www.icrc.org/en/download/file/19456/icrc-0739-part-ii-vol-i.pdf?utm_source=chatgpt.com"
+            }
+          ],
+          "human_wait_ms": null,
+          "human_timeout_seconds": null
+        },
+        {
+          "observation_id": "3437c57f-36fb-4756-bc61-be11311c06a5",
+          "prompt_id": "Q01_en",
+          "question_id": "Q01",
+          "language": "en",
+          "provider": "gemini",
+          "timestamp": "2026-11-04T07:05:06.871527-08:00",
+          "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+          "url": "https://gemini.google.com/app",
+          "response": "Whether the Fourth Geneva Convention applies to Judea and Samaria (commonly referred to as the West Bank) is a subject of long-standing legal debate involving different interpretations of international law, state practice, and judicial rulings.\n\nThe two primary perspectives are divided between the consensus of the international community and the position held by the State of Israel.\n\n1. The International Consensus and Majority Legal View\n\nThe overwhelming majority of the international community—including the United Nations Security Council, the International Committee of the Red Cross (ICRC), and the International Court of Justice (ICJ)—maintains that the Fourth Geneva Convention does apply de jure (by law) to Judea and Samaria.\n\nThe Basis for Application: Article 2 of the Fourth Geneva Convention states that the treaty applies to all cases of declared war or armed conflict between two or more High Contracting Parties, and to \"all cases of partial or total occupation of the territory of a High Contracting Party\".\n\nThe \"Missing Reversioner\" Argument: Proponents of this view argue that Jordan’s control of the West Bank prior to 1967 (and Ottoman/British rule before that) was superseded by the occupation, and that the local Palestinian population constitutes \"protected persons\" under the Convention. Because Jordan was a High Contracting Party to the Geneva Conventions, the territory falls squarely under the definition of occupied territory of a High Contracting Party.\n\nKey Implications: Under this framework, provisions such as Article 49—which prohibits an occupying power from deporting or transferring parts of its own civilian population into occupied territory—are held to apply, leading international bodies to view Israeli settlements in the area as a violation of international law. International judicial bodies, such as the ICJ in its 2004 and 2024 advisory opinions, have consistently affirmed this stance.\n\n2. The Israeli Legal Position\n\nThe Government of Israel has traditionally maintained that the Fourth Geneva Convention does not apply de jure to Judea and Samaria, though it has adopted a policy of applying its humanitarian provisions de facto.\n\nThe Basis for Non-Application: Israeli legal arguments rest primarily on the wording of Article 2 of the Convention, which refers to the occupation of territory belonging to another \"High Contracting Party\". Israel argued that prior to 1967, Jordan’s sovereignty over Judea and Samaria was not widely recognized internationally (only recognized by a couple of nations, as Jordan's annexation in 1950 was rejected by most of the world). Therefore, because the territory was not legally part of a recognized sovereign state (High Contracting Party) prior to being administered by Jordan, the strict technical prerequisites for the Fourth Geneva Convention's application to occupied sovereign territory are not met.\n\nThe Humanitarian Undertaking: While contesting the de jure applicability of the Convention, successive Israeli governments have stated that the Israel Defense Forces (IDF) will voluntarily observe the humanitarian provisions of the Fourth Geneva Convention in their administration of the territories.\n\nDomestic Judicial Stance: The Supreme Court of Israel has navigated this issue by ruling that while the Fourth Geneva Convention's technical/treaty-based framework may not be formally binding (de jure) due to the unique legal status of the territory, the humanitarian rules contained within it largely reflect customary international law, which the military administration is bound to respect.\n\nSummary\n\nInternational Community, ICJ, and ICRC: Yes, it applies de jure as occupied territory under the Fourth Geneva Convention.\n\nIsrael: No, it does not apply de jure because the territory was not previously recognized sovereign territory of a High Contracting Party, though its humanitarian provisions are observed de facto.\n\nWant to know how Article 49 of the Geneva Convention relates specifically to Israeli settlements?\nYes",
+          "model_observed": null,
+          "latency_ms": 46178,
+          "status": "ok",
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false,
+          "attempts": 1,
+          "metadata": {
+            "source_capture": {
+              "controls_found": 0,
+              "controls_read": 0,
+              "complete": true
+            },
+            "answer_complete": true,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/3437c57f-36fb-4756-bc61-be11311c06a5",
+              "manifest": "results/studies/2026-11-03_browser/evidence/3437c57f-36fb-4756-bc61-be11311c06a5/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/3437c57f-36fb-4756-bc61-be11311c06a5/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/3437c57f-36fb-4756-bc61-be11311c06a5/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/3437c57f-36fb-4756-bc61-be11311c06a5/page.png",
+              "errors": []
+            }
+          },
+          "sources": [],
+          "human_wait_ms": null,
+          "human_timeout_seconds": null
+        },
+        {
+          "observation_id": "fb7ee13f-b30d-42bc-aa5d-f81a523a2c32",
+          "prompt_id": "Q01_en",
+          "question_id": "Q01",
+          "language": "en",
+          "provider": "google_search",
+          "timestamp": "2026-11-04T07:05:46.908301-08:00",
+          "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+          "url": "https://www.google.com/search",
+          "response": "Whether the Fourth Geneva Convention applies to Judea and Samaria (the West Bank) is a subject of long-standing international legal debate, with two primary positions: \nICRC\n +2\nThe International Consensus and ICRC Position\nApplicability: The vast majority of the international community, the United Nations, the International Court of Justice, and the International Committee of the Red Cross (ICRC) maintain that the Fourth Geneva Convention applies to all territories occupied by Israel since 1967, including Judea and Samaria. \nCambridge University Press & Assessment\n +3\nReasoning: Under Common Articles 1 and 2 of the Geneva Conventions, the rules apply in all cases of declared war or armed conflict between contracting parties and to any territory occupied during hostilities, regardless of the prior sovereign status of the land. \nCambridge University Press & Assessment\nSettlements: Proponents of this view argue that Israeli civilian settlements violate Article 49(6) of the Convention, which prohibits an occupying power from deporting or transferring parts of its own civilian population into the territory it occupies. \nGov.il\n +2\nThe Israeli Government Position\nDe Jure Inapplicability: The Israeli government Ministry of Foreign Affairs argues that the Fourth Geneva Convention is not de jure (legally) applicable to Judea and Samaria. \nICRC\n +1\nReasoning: Israel contends that the law of belligerent occupation (such as the 1907 Hague Regulations and the Fourth Geneva Convention) technically presupposes the ousting of a recognized, legitimate sovereign from the territory. Because Jordan had annexed the West Bank in 1950 in a move recognized by very few countries, Israel argues Jordan was not the legitimate sovereign prior to 1967. Additionally, Article 49(6) is viewed as targeting forced mass population transfers rather than voluntary movement onto unsovereign land. \nWelcome to the United Nations\n +4\nDe Facto Implementation: While disputing formal legal applicability, Israel has historically stated that it voluntarily applies the humanitarian provisions of the Fourth Geneva Convention de facto on the ground. \nHeinOnline\n +1\nWould you like to explore specific legal opinions—such as the ICJ advisory opinions or Israeli Supreme Court rulings—regarding how these principles are applied in practice?",
+          "model_observed": null,
+          "latency_ms": 39407,
+          "status": "ok",
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": true,
+          "attempts": 1,
+          "metadata": {
+            "surface": "ai_overview",
+            "search_url": "https://www.google.com/search?q=Does+the+Fourth+Geneva+Convention+apply+to+Judea+and+Samaria%3F&hl=en",
+            "final_url": "https://www.google.com/search?q=Does+the+Fourth+Geneva+Convention+apply+to+Judea+and+Samaria%3F&hl=en&sei=o0nrauvyNOXj7_UPxfeG2QI",
+            "overview_found": true,
+            "sources": [
+              {
+                "title": "Fourth Geneva Convention",
+                "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949"
+              },
+              {
+                "title": "ICRC",
+                "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories"
+              },
+              {
+                "title": "United Nations",
+                "url": "https://www.un.org/unispal/document/auto-insert-177996/"
+              },
+              {
+                "title": "International Court of Justice",
+                "url": "https://www.quora.com/What-are-the-ways-in-which-Israeli-settlements-in-Judea-and-Samaria-violate-international-law-according-to-the-International-Court-of-Justice-ICJ"
+              },
+              {
+                "title": "International Committee of the Red Cross (ICRC)",
+                "url": "https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected"
+              },
+              {
+                "title": "Cambridge University Press & Assessment",
+                "url": "https://www.cambridge.org/core/journals/israel-law-review/article/applicability-of-the-laws-of-war-to-judea-and-samaria-the-west-bank-and-to-the-gaza-strip/746905EC966218B65E1AD0625A3513F6"
+              },
+              {
+                "title": "Gov.il",
+                "url": "https://www.gov.il/en/pages/israeli-settlement-and-international-law"
+              },
+              {
+                "title": "Welcome to the United Nations",
+                "url": "https://www.un.org/unispal/document/auto-insert-200116/"
+              },
+              {
+                "title": "HeinOnline",
+                "url": "https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/israel24&section=28"
+              },
+              {
+                "title": "An international lawyer is challenging Britain's claim that ..., video, watch on Facebook",
+                "url": "https://www.facebook.com/JerusalemDateline/posts/an-international-lawyer-is-challenging-britains-claim-that-israels-presence-in-j/1597239075781010/"
+              },
+              {
+                "title": "Israel's new measures violate both the Geneva Convention and ..., video, watch on Facebook",
+                "url": "https://www.facebook.com/trtworld/posts/israels-new-measures-violate-both-the-geneva-convention-and-oslo-accords-as-it-m/1377508797744691/"
+              },
+              {
+                "title": "International law and Judea and Samaria: It's time to return to ...",
+                "url": "https://www.jpost.com/opinion/op-ed-contributors/international-law-and-judea-and-samaria-its-time-to-return-to-the-facts-332882"
+              }
+            ],
+            "extraction_selector": "[data-container-id='main-col']",
+            "source_capture": {
+              "controls_found": 1,
+              "controls_read": 1,
+              "complete": true,
+              "redirects": [
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAESdQHEIkXXkwFXHFCTXqTlENsoz1VrtLjgPbwzm0Ndpp8xNGpsOmgSwi_2Sj7zOz5WWhwEp1I9HSXs65xBoVUrp1jJHovMgaCepjSo8wCT5luMbi1nxuWtnkBnONedlWVFBB92ICr2kGT7bTIzodg1ZXNs5nXbTg",
+                  "source_url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAESnQEBxCJF12uHJIStLFDHsA2re6w9XRHYGAYBO0UbZKvG8eUbV7WdMC0NV0Kghl7TLhqKLqBnv99OfZH43OGZhl6e6GYBXAohgjZJpDSitHJrr6oBUTIojSMLC7SvdZq31BhVVw-Ox2dur3aiz0ZgSOet8UyLoGuPbwzhKQsEymebukCzhJsRW5K2SvURLPXj4XTVYzREgXgXDHm9Sa5P",
+                  "source_url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAESdAHEIkXXzjkfgtccl5HN_qRXqMRn48Gak3pvhSzMkUtZtTEykqyCI9HsfNagRw4o9DN-PrPSdFtovKkOeYAdkTCzhJGHZeGELee0rZKfkEOfujBRHszvQqDgNfCfJlUsj0Hkyzyo5B7c0j8p3UTe5CoByIjX",
+                  "source_url": "https://www.un.org/unispal/document/auto-insert-177996/"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAES5QEBxCJF1xi1xXKPfv59Jvq0PmSu1pCYuL84ZJ3aDONNO3LFd5rXqW87vCKFp65EvRCUJ_frmLBMYDr5vkw2Vn_cR78UZq7Q_qonJcMWP0QLx4iuUOtKTz7C-Q6VvRD-umEV0bU_Cw_88cwSwEUzq0BLKNb11NDihyff5MexV32og96fd4miORw95Hi_YBIVsOIUpO2aZPOpsTl30buRjXtECCqg-YAjndc9nkF3xCaJk96_DXf8dhKvSXlmz2sSenFP1wZgVEf8V0l5kZNQXKkASnCgzOv9AFs67o0y81oEOekcPwzq",
+                  "source_url": "https://www.quora.com/What-are-the-ways-in-which-Israeli-settlements-in-Judea-and-Samaria-violate-international-law-according-to-the-International-Court-of-Justice-ICJ"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAESqQEBxCJF136xOaABVEjwFEHmWttsOM0XIEhXSvSjVnpMyZ9rR-KrxsnyuJ7fRwgZnvxZ4FlXSp0DPM68I4CMYBXW3d05UHeuxP9QhiGukMfs-nLRTHC4MMQxd0wFRdVRMWgLoFPvScBMd0tefWhmESKkD8CnYKuLWG6ylbg9ncOr6m3s_lYPw-OsgTiRXyEVYDN3v2BFKGSYOaUraiRoIyVNQm6mZ778p_9B",
+                  "source_url": "https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAES-gEBxCJF1wDjRAORbb6Z47Um_90NulzuAXCY1FrejIvFVPw3TNm7EZs3mWjsuxQ6cj0IxR_WB_mro8BQYkK4i97-OTVR30StdxthSqUgJL7K05eA1_RFAb6bYOID5YPykuJ-9G1zSEWkDzSxGKwKE7fwEP74RReZhRJR_SyBjdDsa-6DP8dRr0T1awsohTqG0bMqO9DWuVPCCVfYG6N1xPvfF9ktLFI_OmGveuY9hr8dWxLzGpwZSfaF8u-hCIYLun6Ukiv1aBB54CfQuLkxKf4t3haiMqVn-rxswPrU-1kIUkko18u1wv8-26sj1aj_kF5COUGsHb8ed4Kt",
+                  "source_url": "https://www.cambridge.org/core/journals/israel-law-review/article/applicability-of-the-laws-of-war-to-judea-and-samaria-the-west-bank-and-to-the-gaza-strip/746905EC966218B65E1AD0625A3513F6"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAESgQEBxCJF17NXja2b2Df8RAKPiQx39wX4bAnEtdcaWX8OwhsARluvWlfVOjv9eP23uC19zxE9styDZsVLK9P2Gibh2hdcI5PZDkYzAOMDzL8tRRIgq1vAxcja2wxurq509dXSJO5-eoIMfZkMBgkh6GY43jl7Ka982s6U0WpyXLYsFLY",
+                  "source_url": "https://www.gov.il/en/pages/israeli-settlement-and-international-law"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAESdAHEIkXXjeVPF20cY3IhKgqB293-Xko6yRY0YkUkCAtmJi3qWsYcYqPK5aGLzsUw1AUSefbRr9C1KVl_4Je4A2N0iePBq1WYppF79NDwqEtsEtYIFC-UFuVEyGo8z8VKKYD_N9vjl8fPjocxgPiSCZXNZGyl",
+                  "source_url": "https://www.un.org/unispal/document/auto-insert-200116/"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAESmwEBxCJF1zjJfW803gHngcRMhXrf1qG3twZpfmyybitBb9cp5LWisqkdB9PLEzJptjrZ0yyRaW8RYRRoAKhM-y5fQ_LE04eI4JXRaWoUmFx0p9Kg2t4xE0q2wowZZG1gFWHBkYCaiv29cZnB2VFh4Nqj02GCcqkeFrYb0pK5XX-bNpChJDBNmEtoCnw_EMxSb9ElFW8G7zLT8ALaBw",
+                  "source_url": "https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/israel24&section=28"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAES0QEBxCJF16LemNjN_nbNJMS9ZnTjeJ2-4ydI8W7rEeYBJ-MCXtC53PHEj_ER21en5E1dW0haxpomtslr4um_RWq5aSNc3SQyX5TiEnJv02TXo9Hkaf8uT3v3RRo1BGRX8ZdehtswCAkVAV6zuERcPYEwcc0OWT7QzZ2Zhkuf5bVwuKR3n_z7uyQp54nMyr4WvYOzd9zfh1j80gqwPx0syf39q1Be_j1SVqfjGiLfNLAqBH6w3DXiELQlfefyYRgrGMaeM-AUZT2ea3Y03NofjOBn0A",
+                  "source_url": "https://www.facebook.com/JerusalemDateline/posts/an-international-lawyer-is-challenging-britains-claim-that-israels-presence-in-j/1597239075781010/"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAESyAEBxCJF15yjvUF13mYRaCi17RP2QOx8S6Gn3Cv6dioa4ISIa_UygqAsH82umwtrniVdh5C2Z0IlGon5IWzEiO34dXYtp0qmjYAwTFmxRTIpM09DkQFwD5Hx0WOdq6NH9RyA7XuvcsE8tprLRudo0mpbNQp2lc1tbIwjyB8OyKY5UMuhOBM4EjKy740qi7sDarkC7iyT6NuKI8AoxjkiZR7bTXe9-a7xRxxiZ4kJpOKNmtH2AGZFiwX83xXV7hiG7cVpnhzyl1mrXQ",
+                  "source_url": "https://www.facebook.com/trtworld/posts/israels-new-measures-violate-both-the-geneva-convention-and-oslo-accords-as-it-m/1377508797744691/"
+                },
+                {
+                  "redirect_url": "https://www.google.com/goto?url=CAESvAEBxCJF19lmkFCthvgcOt_HB8aTPxiljzRonPs-KHjbt1XyQAtVSxdvqe7LqGYHNrcK1aSDTQOVSIadeMHCQTb5VK7KcN-11e2lnP9FIfzi1Wex0Z0GeZTWpyxNbhc1u1705MTbyBTe5rFFj8jtyM8uPOSgfKwaWaMamMeupCkFbft5IvuU0wOKRuadcmbKTfO2IqSAQ2vU2W6XjGUr0OGJGcmTP6SRBvmR1Ttb7vmYuT_hNl4Tl14D8hGaww",
+                  "source_url": "https://www.jpost.com/opinion/op-ed-contributors/international-law-and-judea-and-samaria-its-time-to-return-to-the-facts-332882"
+                }
+              ],
+              "links": [
+                {
+                  "title": "Fourth Geneva Convention",
+                  "url": "https://www.google.com/goto?url=CAESdQHEIkXXkwFXHFCTXqTlENsoz1VrtLjgPbwzm0Ndpp8xNGpsOmgSwi_2Sj7zOz5WWhwEp1I9HSXs65xBoVUrp1jJHovMgaCepjSo8wCT5luMbi1nxuWtnkBnONedlWVFBB92ICr2kGT7bTIzodg1ZXNs5nXbTg"
+                },
+                {
+                  "title": "ICRC",
+                  "url": "https://www.google.com/goto?url=CAESnQEBxCJF12uHJIStLFDHsA2re6w9XRHYGAYBO0UbZKvG8eUbV7WdMC0NV0Kghl7TLhqKLqBnv99OfZH43OGZhl6e6GYBXAohgjZJpDSitHJrr6oBUTIojSMLC7SvdZq31BhVVw-Ox2dur3aiz0ZgSOet8UyLoGuPbwzhKQsEymebukCzhJsRW5K2SvURLPXj4XTVYzREgXgXDHm9Sa5P"
+                },
+                {
+                  "title": "United Nations",
+                  "url": "https://www.google.com/goto?url=CAESdAHEIkXXzjkfgtccl5HN_qRXqMRn48Gak3pvhSzMkUtZtTEykqyCI9HsfNagRw4o9DN-PrPSdFtovKkOeYAdkTCzhJGHZeGELee0rZKfkEOfujBRHszvQqDgNfCfJlUsj0Hkyzyo5B7c0j8p3UTe5CoByIjX"
+                },
+                {
+                  "title": "International Court of Justice",
+                  "url": "https://www.google.com/goto?url=CAES5QEBxCJF1xi1xXKPfv59Jvq0PmSu1pCYuL84ZJ3aDONNO3LFd5rXqW87vCKFp65EvRCUJ_frmLBMYDr5vkw2Vn_cR78UZq7Q_qonJcMWP0QLx4iuUOtKTz7C-Q6VvRD-umEV0bU_Cw_88cwSwEUzq0BLKNb11NDihyff5MexV32og96fd4miORw95Hi_YBIVsOIUpO2aZPOpsTl30buRjXtECCqg-YAjndc9nkF3xCaJk96_DXf8dhKvSXlmz2sSenFP1wZgVEf8V0l5kZNQXKkASnCgzOv9AFs67o0y81oEOekcPwzq"
+                },
+                {
+                  "title": "International Committee of the Red Cross (ICRC)",
+                  "url": "https://www.google.com/goto?url=CAESqQEBxCJF136xOaABVEjwFEHmWttsOM0XIEhXSvSjVnpMyZ9rR-KrxsnyuJ7fRwgZnvxZ4FlXSp0DPM68I4CMYBXW3d05UHeuxP9QhiGukMfs-nLRTHC4MMQxd0wFRdVRMWgLoFPvScBMd0tefWhmESKkD8CnYKuLWG6ylbg9ncOr6m3s_lYPw-OsgTiRXyEVYDN3v2BFKGSYOaUraiRoIyVNQm6mZ778p_9B"
+                },
+                {
+                  "title": "Cambridge University Press & Assessment",
+                  "url": "https://www.google.com/goto?url=CAES-gEBxCJF1wDjRAORbb6Z47Um_90NulzuAXCY1FrejIvFVPw3TNm7EZs3mWjsuxQ6cj0IxR_WB_mro8BQYkK4i97-OTVR30StdxthSqUgJL7K05eA1_RFAb6bYOID5YPykuJ-9G1zSEWkDzSxGKwKE7fwEP74RReZhRJR_SyBjdDsa-6DP8dRr0T1awsohTqG0bMqO9DWuVPCCVfYG6N1xPvfF9ktLFI_OmGveuY9hr8dWxLzGpwZSfaF8u-hCIYLun6Ukiv1aBB54CfQuLkxKf4t3haiMqVn-rxswPrU-1kIUkko18u1wv8-26sj1aj_kF5COUGsHb8ed4Kt"
+                },
+                {
+                  "title": "Gov.il",
+                  "url": "https://www.google.com/goto?url=CAESgQEBxCJF17NXja2b2Df8RAKPiQx39wX4bAnEtdcaWX8OwhsARluvWlfVOjv9eP23uC19zxE9styDZsVLK9P2Gibh2hdcI5PZDkYzAOMDzL8tRRIgq1vAxcja2wxurq509dXSJO5-eoIMfZkMBgkh6GY43jl7Ka982s6U0WpyXLYsFLY"
+                },
+                {
+                  "title": "Welcome to the United Nations",
+                  "url": "https://www.google.com/goto?url=CAESdAHEIkXXjeVPF20cY3IhKgqB293-Xko6yRY0YkUkCAtmJi3qWsYcYqPK5aGLzsUw1AUSefbRr9C1KVl_4Je4A2N0iePBq1WYppF79NDwqEtsEtYIFC-UFuVEyGo8z8VKKYD_N9vjl8fPjocxgPiSCZXNZGyl"
+                },
+                {
+                  "title": "HeinOnline",
+                  "url": "https://www.google.com/goto?url=CAESmwEBxCJF1zjJfW803gHngcRMhXrf1qG3twZpfmyybitBb9cp5LWisqkdB9PLEzJptjrZ0yyRaW8RYRRoAKhM-y5fQ_LE04eI4JXRaWoUmFx0p9Kg2t4xE0q2wowZZG1gFWHBkYCaiv29cZnB2VFh4Nqj02GCcqkeFrYb0pK5XX-bNpChJDBNmEtoCnw_EMxSb9ElFW8G7zLT8ALaBw"
+                },
+                {
+                  "title": "An international lawyer is challenging Britain's claim that ..., video, watch on Facebook",
+                  "url": "https://www.google.com/goto?url=CAES0QEBxCJF16LemNjN_nbNJMS9ZnTjeJ2-4ydI8W7rEeYBJ-MCXtC53PHEj_ER21en5E1dW0haxpomtslr4um_RWq5aSNc3SQyX5TiEnJv02TXo9Hkaf8uT3v3RRo1BGRX8ZdehtswCAkVAV6zuERcPYEwcc0OWT7QzZ2Zhkuf5bVwuKR3n_z7uyQp54nMyr4WvYOzd9zfh1j80gqwPx0syf39q1Be_j1SVqfjGiLfNLAqBH6w3DXiELQlfefyYRgrGMaeM-AUZT2ea3Y03NofjOBn0A"
+                },
+                {
+                  "title": "3:00",
+                  "url": "https://www.facebook.com/JerusalemDateline/posts/an-international-lawyer-is-challenging-britains-claim-that-israels-presence-in-j/1597239075781010/"
+                },
+                {
+                  "title": "Israel's new measures violate both the Geneva Convention and ..., video, watch on Facebook",
+                  "url": "https://www.google.com/goto?url=CAESyAEBxCJF15yjvUF13mYRaCi17RP2QOx8S6Gn3Cv6dioa4ISIa_UygqAsH82umwtrniVdh5C2Z0IlGon5IWzEiO34dXYtp0qmjYAwTFmxRTIpM09DkQFwD5Hx0WOdq6NH9RyA7XuvcsE8tprLRudo0mpbNQp2lc1tbIwjyB8OyKY5UMuhOBM4EjKy740qi7sDarkC7iyT6NuKI8AoxjkiZR7bTXe9-a7xRxxiZ4kJpOKNmtH2AGZFiwX83xXV7hiG7cVpnhzyl1mrXQ"
+                },
+                {
+                  "title": "1:00",
+                  "url": "https://www.facebook.com/trtworld/posts/israels-new-measures-violate-both-the-geneva-convention-and-oslo-accords-as-it-m/1377508797744691/"
+                },
+                {
+                  "title": "International law and Judea and Samaria: It's time to return to ...",
+                  "url": "https://www.google.com/goto?url=CAESvAEBxCJF19lmkFCthvgcOt_HB8aTPxiljzRonPs-KHjbt1XyQAtVSxdvqe7LqGYHNrcK1aSDTQOVSIadeMHCQTb5VK7KcN-11e2lnP9FIfzi1Wex0Z0GeZTWpyxNbhc1u1705MTbyBTe5rFFj8jtyM8uPOSgfKwaWaMamMeupCkFbft5IvuU0wOKRuadcmbKTfO2IqSAQ2vU2W6XjGUr0OGJGcmTP6SRBvmR1Ttb7vmYuT_hNl4Tl14D8hGaww"
+                }
+              ]
+            },
+            "answer_complete": true,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/fb7ee13f-b30d-42bc-aa5d-f81a523a2c32",
+              "manifest": "results/studies/2026-11-03_browser/evidence/fb7ee13f-b30d-42bc-aa5d-f81a523a2c32/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/fb7ee13f-b30d-42bc-aa5d-f81a523a2c32/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/fb7ee13f-b30d-42bc-aa5d-f81a523a2c32/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/fb7ee13f-b30d-42bc-aa5d-f81a523a2c32/page.png",
+              "errors": []
+            }
+          },
+          "sources": [
+            {
+              "title": "Fourth Geneva Convention",
+              "url": "https://ihl-databases.icrc.org/en/ihl-treaties/gciv-1949"
+            },
+            {
+              "title": "ICRC",
+              "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories"
+            },
+            {
+              "title": "United Nations",
+              "url": "https://www.un.org/unispal/document/auto-insert-177996/"
+            },
+            {
+              "title": "International Court of Justice",
+              "url": "https://www.quora.com/What-are-the-ways-in-which-Israeli-settlements-in-Judea-and-Samaria-violate-international-law-according-to-the-International-Court-of-Justice-ICJ"
+            },
+            {
+              "title": "International Committee of the Red Cross (ICRC)",
+              "url": "https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected"
+            },
+            {
+              "title": "Cambridge University Press & Assessment",
+              "url": "https://www.cambridge.org/core/journals/israel-law-review/article/applicability-of-the-laws-of-war-to-judea-and-samaria-the-west-bank-and-to-the-gaza-strip/746905EC966218B65E1AD0625A3513F6"
+            },
+            {
+              "title": "Gov.il",
+              "url": "https://www.gov.il/en/pages/israeli-settlement-and-international-law"
+            },
+            {
+              "title": "Welcome to the United Nations",
+              "url": "https://www.un.org/unispal/document/auto-insert-200116/"
+            },
+            {
+              "title": "HeinOnline",
+              "url": "https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/israel24&section=28"
+            },
+            {
+              "title": "An international lawyer is challenging Britain's claim that ..., video, watch on Facebook",
+              "url": "https://www.facebook.com/JerusalemDateline/posts/an-international-lawyer-is-challenging-britains-claim-that-israels-presence-in-j/1597239075781010/"
+            },
+            {
+              "title": "Israel's new measures violate both the Geneva Convention and ..., video, watch on Facebook",
+              "url": "https://www.facebook.com/trtworld/posts/israels-new-measures-violate-both-the-geneva-convention-and-oslo-accords-as-it-m/1377508797744691/"
+            },
+            {
+              "title": "International law and Judea and Samaria: It's time to return to ...",
+              "url": "https://www.jpost.com/opinion/op-ed-contributors/international-law-and-judea-and-samaria-its-time-to-return-to-the-facts-332882"
+            }
+          ],
+          "human_wait_ms": 23614,
+          "human_timeout_seconds": 300
+        },
+        {
+          "observation_id": "af5a78d8-53c6-4d93-a8e2-fd72d3dad112",
+          "prompt_id": "Q01_he",
+          "question_id": "Q01",
+          "language": "he",
+          "provider": "chatgpt",
+          "timestamp": "2026-11-04T07:06:05.023015-08:00",
+          "prompt": "האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?",
+          "url": "https://chatgpt.com/",
+          "response": "כן. לפי עמדת רוב מכריע של הקהילה הבינלאומית, אמנת ז'נבה הרביעית משנת 1949 חלה על יהודה ושומרון, לרבות מזרח ירושלים. עם זאת, קיימת מחלוקת משפטית בין ישראל לבין מרבית הגופים הבינלאומיים באשר לתחולת האמנה.\n\nחשוב להבחין בין שתי שאלות:\n\nהאם האמנה חלה מבחינה משפטית?\n\nהאם ישראל מכירה בכך שהאמנה חלה מבחינה משפטית?\n\n1. עמדת המשפט הבינלאומי\n\nלפי עמדת הצלב האדום הבינלאומי (ICRC), האמנה חלה על יהודה ושומרון משום שהשטח נתון לתפיסה לוחמתית ישראלית מאז 1967.\n\nהבסיס המשפטי המרכזי הוא סעיף 2 לאמנה, הקובע כי האמנה חלה גם במקרה של כיבוש מלא או חלקי של שטח של אחת המדינות החברות באמנה.\n\nגם בית הדין הבינלאומי לצדק (ICJ) קבע את תחולת האמנה:\n\n2004: בחוות הדעת בעניין גדר ההפרדה קבע בית הדין כי אמנת ז'נבה הרביעית חלה בשטח הפלסטיני הכבוש.\n\n2024: בחוות הדעת מיום 19 ביולי 2024 חזר בית הדין על הקביעה, והבהיר כי האמנה חלה בשטח הפלסטיני הכבוש, לרבות יהודה ושומרון ומזרח ירושלים. \nUnited Nations\n+1\n\n2. עמדת מדינת ישראל\n\nעמדת ישראל מורכבת יותר.\n\nישראל אינה מכירה בתחולה המשפטית דה יורה של האמנה על יהודה ושומרון, וזאת בעיקר מהטעמים הבאים:\n\nירדן, ששלטה באזור לפני 1967, לא הוכרה כריבון לגיטימי בשטח.\n\nלכן, לשיטת ישראל, לא מדובר בשטח של מדינה ריבונית אחרת שנכבש, בהתאם לפרשנותה לסעיף 2 לאמנה.\n\nישראל מבחינה בין תחולה משפטית פורמלית של האמנה לבין החלת הוראות הומניטריות מסוימות שלה בפועל.\n\nעם זאת, ישראל הצהירה שהיא תכבד את ההוראות ההומניטריות של האמנה. \ninternational-review.icrc.org\n+1\n\n3. מה המשמעות המעשית?\n\nאם מקבלים את עמדת הקהילה הבינלאומית בדבר תחולת האמנה, יש לכך השלכות משפטיות משמעותיות.\n\nבין היתר:\n\nסעיף באמנה\n\n\t\n\nהמשמעות\n\n\n\n\nסעיף 27\n\n\t\n\nהגנה על אזרחים וכבודם\n\n\n\n\nסעיף 33\n\n\t\n\nאיסור ענישה קולקטיבית\n\n\n\n\nסעיף 49\n\n\t\n\nאיסור העברה כפויה של אוכלוסייה מוגנת ואיסור העברת אוכלוסיית המעצמה הכובשת לשטח הכבוש\n\n\n\n\nסעיף 53\n\n\t\n\nאיסור הרס רכוש, למעט בתנאים המוגדרים בסעיף\n\n\n\n\nסעיף 64\n\n\t\n\nהגבלת סמכות החקיקה של המעצמה הכובשת\n\nICRC\n+1\n4. אז מה המסקנה המשפטית?\n\nאפשר לסכם את המצב כך:\n\nלפי המשפט הבינלאומי כפי שהוא מתפרש על ידי בית הדין הבינלאומי לצדק, האו\"ם והצלב האדום: האמנה חלה על יהודה ושומרון.\n\nלפי עמדתה המשפטית של ישראל: אין תחולה פורמלית של האמנה דה יורה, אך ישראל מכירה בחובה לכבד הוראות הומניטריות שלה.\n\nמבחינת הדין הבינלאומי המעשי: ישראל מחויבת גם לכללים הרלוונטיים של המשפט הבינלאומי המנהגי, ובכללם דיני התפיסה הלוחמתית.\n\nנקודה חשובה לדיון המשפטי: עצם העובדה שקיימת מחלוקת על מעמדו הריבוני של יהודה ושומרון אינה מכריעה כשלעצמה את שאלת תחולת אמנת ז'נבה הרביעית. זו בדיוק אחת הסוגיות שבית הדין הבינלאומי התייחס אליהן.\n\nאפשר להעמיק במיוחד בשאלה האם סעיף 2 לאמנה מאפשר להחיל אותה על שטח שמעולם לא היה חלק מוכר של מדינה ריבונית אחרת, שהיא אחת הטענות המרכזיות בוויכוח המשפטי בין ישראל לבין הקהילה הבינלאומית.",
+          "model_observed": null,
+          "latency_ms": 17733,
+          "status": "ok",
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false,
+          "attempts": 1,
+          "metadata": {
+            "source_capture": {
+              "method": "browser_response",
+              "format": "chatgpt-conversation-source-v2",
+              "controls_found": 3,
+              "controls_read": 3,
+              "complete": true,
+              "message_id": "66619257-6dd4-401a-bc3b-7dc0a670b9a0",
+              "revision": 17,
+              "groups": [
+                {
+                  "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "Advisory Opinion of 19 July 2024",
+                      "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+                      "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "The Occupied Palestinian Territory and international humanitarian law: a response to Peter Maurer",
+                      "url": "https://international-review.icrc.org/sites/default/files/irrc-890-jabarin.pdf?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "FAQ: Our work in Israel and the occupied territories",
+                      "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "965e8727-dd6e-5984-99ee-d31eb3b63259",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "IHL on the Occupying Power's responsibilities in the Occupied Palestinian territory",
+                      "url": "https://www.icrc.org/en/document/ihl-occupying-power-responsibilities-occupied-palestinian-territories?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "Israel and the occupied Palestinian territory: The law of occupation must be respected",
+                      "url": "https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                }
+              ]
+            },
+            "answer_complete": true,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/af5a78d8-53c6-4d93-a8e2-fd72d3dad112",
+              "manifest": "results/studies/2026-11-03_browser/evidence/af5a78d8-53c6-4d93-a8e2-fd72d3dad112/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/af5a78d8-53c6-4d93-a8e2-fd72d3dad112/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/af5a78d8-53c6-4d93-a8e2-fd72d3dad112/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/af5a78d8-53c6-4d93-a8e2-fd72d3dad112/page.png",
+              "errors": []
+            }
+          },
+          "sources": [
+            {
+              "title": "Advisory Opinion of 19 July 2024",
+              "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+            },
+            {
+              "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+              "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+            },
+            {
+              "title": "The Occupied Palestinian Territory and international humanitarian law: a response to Peter Maurer",
+              "url": "https://international-review.icrc.org/sites/default/files/irrc-890-jabarin.pdf?utm_source=chatgpt.com"
+            },
+            {
+              "title": "FAQ: Our work in Israel and the occupied territories",
+              "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+            },
+            {
+              "title": "IHL on the Occupying Power's responsibilities in the Occupied Palestinian territory",
+              "url": "https://www.icrc.org/en/document/ihl-occupying-power-responsibilities-occupied-palestinian-territories?utm_source=chatgpt.com"
+            },
+            {
+              "title": "Israel and the occupied Palestinian territory: The law of occupation must be respected",
+              "url": "https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected?utm_source=chatgpt.com"
+            }
+          ],
+          "human_wait_ms": null,
+          "human_timeout_seconds": null
+        },
+        {
+          "observation_id": "25a3e522-16a0-488e-9962-d549104642b6",
+          "prompt_id": "Q01_he",
+          "question_id": "Q01",
+          "language": "he",
+          "provider": "gemini",
+          "timestamp": "2026-11-04T07:07:34.145636-08:00",
+          "prompt": "האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?",
+          "url": "https://gemini.google.com/app",
+          "response": "השאלה האם אמנת ז'נבה הרביעית (העוסקת בהגנה על אזרחים בימי מלחמה וכיבוש צבאי) תקפה לגבי יהודה ושומרון היא נושא למחלוקת משפטית ובינלאומית ארוכת שנים.   \nשלום עכשיו\n\nניתן לחלק את העמדות לשתי גישות מרכזיות:\n\n1. העמדה הבינלאומית והרוב המוחלט של הקהילה הבינלאומית\n\nהרוב המוחלט של מדינות העולם, ארגונים בינלאומיים (כמו האו\"ם והצלב האדום), בית הדין הבינלאומי בהאג (ICJ) בחוות דעתו משנת 2004, וכן פסקי דין שונים של בית המשפט העליון בישראל (בהיבטים מסוימים), גורסים כי האמנה תקפה במלואה.   \nערוץ 7\n\nהתחולה: על פי סעיף 2 לאמנה, היא חלה על כל מקרה של כיבוש צבאי של שטח של \"בעלת אמנה\" (High Contracting Party), גם אם הכיבוש לא נתקל בהתנגדות מזוינת.   \nun-escwa\n\nההשלכה המרכזית: הטיעון המרכזי הנשען על תחולת האמנה מתמקד בסעיף 49(6), הקובע כי \"המעצמה הכובשת לא תגרש או תעביר חלקים מאוכלוסייתה האזרחית שלה לשטח הכבוש על ידה\". מטעם זה, הקהילה הבינלאומית ומוסדות האו\"ם רואים בהתנחלויות הישראליות ביהודה ושומרון הפרה של המשפט הבינלאומי.   \nהמרכז להסברה מדינית - שלום עכשיו\n+ 1\n\n2. העמדת ממשלת ישראל (העמדה המשפטית הרשמית)\n\nממשלת ישראל טענה לאורך השנים כי אמנת ז'נבה הרביעית אינה חלה פורמלית (דה-יורה) על יהודה ושומרון, אם כי ישראל הודיעה בעבר כי תקפיד לקיים את \"הכללים ההומניטריים\" שבה.   \nערוץ 7\n\nהטיעונים המרכזיים של עמדה זו כוללים:\n\nתנאי הסף של \"שטח ריבוני של מדינה אחרת\": לפי תפיסת המשפט הבינלאומי המסורתית שעליה התבססה האמנה, היא נועדה לחול על שטחים שנכבשו מריבונות מוכרת של מדינה ריבונית אחרת (כפי שהיה למשל בסיני או בגולן, או בשטחים באירופה במלחמת העולם השנייה). לפני מלחמת ששת הימים ב-1967, ירדן שלטה ביהודה ושומרון, אך ריבונותה שם לא זכתה להכרה בינלאומית רחבה (להבדיל מבריטניה או ממדינות אחרות). לכן, נטען שהשטח אינו בגדר \"שטח של בעלת אמנה\" שנכבש ממנה.   \nהמרכז להסברה מדינית - שלום עכשיו\n+ 1\n\nסוגיית ההעברה הכפויה (סעיף 49): מבחינה היסטורית ולשונית, ניסוח סעיף 49 נועד למנוע פרקטיקות של מעצמות (כמו גרמניה הנאצית במלחמת העולם השנייה) שהעבירו בכוח או עודדו בכוח אוכלוסיות אזרחיות להתיישב בשטחים כבושים. לטענת משפטנים בישראל, המעבר מרצון של אזרחים ישראליים להתיישב ביהודה ושומרון אינו נופל תחת ההגדרה של \"העברה בכוח או העברה מטעם המדינה\" של אוכלוסייה שאוסר הסעיף.   \nWikipedia\n+ 2\n\nעמדת בג\"ץ   \nערוץ 7\n\nבפסיקותיו לאורך השנים, בית המשפט העליון בישראל נקט גישה מעשית: מבלי להיכנס לעימות חזיתי עם השאלות המשפטיות-בינלאומיות הרחבות לגבי התחולה הפורמלית (דה-יורה) של האמנה, בג\"ץ קבע כי המשפט ההומניטרי המנהגי והוראותיו ההומניטריות של אמנת ז'נבה הרביעית מחייבים את המפקד הצבאי בשטח, והשלטון הישראלי ביהודה ושומרון כפוף לכללים אלו בכל הנוגע ליחס לאוכלוסייה המקומית ולדיני הקניין והתפיסה הצבאית.",
+          "model_observed": null,
+          "latency_ms": 88690,
+          "status": "ok",
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false,
+          "attempts": 1,
+          "metadata": {
+            "source_capture": {
+              "controls_found": 8,
+              "controls_read": 8,
+              "complete": true,
+              "groups": [
+                {
+                  "id": "inline-0",
+                  "kind": "inline",
+                  "sources": [
+                    {
+                      "title": "שלום עכשיו סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו “אמנת ז'נבה הרביעית משנת 1949, עוסקת בהגנה על אוכלוסייה אזרחית במלחמה בין מדינות או תחת תפיסה לוחמתית. סעיף 49 באמנה קובע כי \"המעצמה הכובשת לא תעביר או תיישב”",
+                      "url": "https://hazon.peacenow.org.il/%D7%A1%D7%A2%D7%99%D7%A3-49-%D7%91%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94-%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA/"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "inline-1",
+                  "kind": "inline",
+                  "sources": [
+                    {
+                      "title": "ערוץ 7 \"על פי אמנת ז'נבה, כל ההתנחלויות הן חוקיות\" | ערוץ 7 “בהודעה שפרסם בית הדין הפלילי הבינלאומי נמסר לפלשתינים כי מאחר שהם אינם מדינה המוכרת במוסדות האו\"ם בניו יורק, אין ביה\"ד יכול לדון בבקשה.”",
+                      "url": "https://www.inn.co.il/news/236193#:~:text=%D7%91%D7%94%D7%95%D7%93%D7%A2%D7%94%20%D7%A9%D7%A4%D7%A8%D7%A1%D7%9D%20%D7%91%D7%99%D7%AA%20%D7%94%D7%93%D7%99%D7%9F%20%D7%94%D7%A4%D7%9C%D7%99%D7%9C%D7%99%20%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%20%D7%A0%D7%9E%D7%A1%D7%A8,%D7%91%D7%A0%D7%99%D7%95%20%D7%99%D7%95%D7%A8%D7%A7%2C%20%D7%90%D7%99%D7%9F%20%D7%91%D7%99%D7%94%22%D7%93%20%D7%99%D7%9B%D7%95%D7%9C%20%D7%9C%D7%93%D7%95%D7%9F%20%D7%91%D7%91%D7%A7%D7%A9%D7%94."
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "inline-2",
+                  "kind": "inline",
+                  "sources": [
+                    {
+                      "title": "un-escwa palestine-occupation-fourth-geneva-convention-facts-figures “Page 5. 4. Applicability of the Convention. Article 2: “… the present Convention shall apply to all cases of declared war or of any other armed conflict which m...”",
+                      "url": "https://www.unescwa.org/sites/default/files/pubs/pdf/palestine-occupation-fourth-geneva-convention-facts-figures-english.pdf#:~:text=Page%205.%204.%20Applicability%20of%20the%20Convention.,said%20occupation%20meets%20with%20no%20armed%20resistance.%E2%80%9D"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "inline-3",
+                  "kind": "inline",
+                  "sources": [
+                    {
+                      "title": "המרכז להסברה מדינית - שלום עכשיו סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו “סעיף 49 באמנה קובע כי \"המעצמה הכובשת לא תעביר או תיישב אזרחים מתוך שטחה בחבלי הארץ שנכבשו\". על-פי הדין הבינלאומי, ההתנחלויות מהוות הפרה של סעיף זה.”",
+                      "url": "https://hazon.peacenow.org.il/%D7%A1%D7%A2%D7%99%D7%A3-49-%D7%91%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94-%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA/#:~:text=%D7%A1%D7%A2%D7%99%D7%A3%2049%20%D7%91%D7%90%D7%9E%D7%A0%D7%94%20%D7%A7%D7%95%D7%91%D7%A2%20%D7%9B%D7%99%20%22%D7%94%D7%9E%D7%A2%D7%A6%D7%9E%D7%94%20%D7%94%D7%9B%D7%95%D7%91%D7%A9%D7%AA,%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%2C%20%D7%94%D7%94%D7%AA%D7%A0%D7%97%D7%9C%D7%95%D7%99%D7%95%D7%AA%20%D7%9E%D7%94%D7%95%D7%95%D7%AA%20%D7%94%D7%A4%D7%A8%D7%94%20%D7%A9%D7%9C%20%D7%A1%D7%A2%D7%99%D7%A3%20%D7%96%D7%94."
+                    },
+                    {
+                      "title": "המרכז להסברה מדינית - שלום עכשיו סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו “על-פי הדין הבינלאומי, ההתנחלויות מהוות הפרה של סעיף זה. קיימת מחלוקת בתוך ישראל, האם באמת מתבצעת הפרה של אמנת ז'נבה, אך אין ספק שישראל מעודדת התיישבות של אזרחים...”",
+                      "url": "https://hazon.peacenow.org.il/%D7%A1%D7%A2%D7%99%D7%A3-49-%D7%91%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94-%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA/#:~:text=%D7%A2%D7%9C%2D%D7%A4%D7%99%20%D7%94%D7%93%D7%99%D7%9F%20%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%2C%20%D7%94%D7%94%D7%AA%D7%A0%D7%97%D7%9C%D7%95%D7%99%D7%95%D7%AA%20%D7%9E%D7%94%D7%95%D7%95%D7%AA%20%D7%94%D7%A4%D7%A8%D7%94%20%D7%A9%D7%9C,%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20%D7%94%D7%A8%D7%99%D7%91%D7%95%D7%A0%D7%99%D7%AA%2C%20%D7%94%D7%99%D7%95%D7%AA%20%D7%95%D7%94%D7%95%D7%90%20%D7%9E%D7%A2%D7%95%D7%9C%D7%9D%20%D7%9C%D7%90%20%D7%A1%D7%95%D7%A4%D7%97."
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "inline-4",
+                  "kind": "inline",
+                  "sources": [
+                    {
+                      "title": "ערוץ 7 \"על פי אמנת ז'נבה, כל ההתנחלויות הן חוקיות\" | ערוץ 7 “כך היה במלחמת העולם השנייה כשהגרמנים העבירו בכוח גרמנים לשטחים פולניים שנכבשו. במקרה שלנו, ישראל לא כבשה מעולם את יהודה ושומרון. יהודה ושומרון זה שטח שלא היה שי...”",
+                      "url": "https://www.inn.co.il/news/236193#:~:text=%D7%9B%D7%9A%20%D7%94%D7%99%D7%94%20%D7%91%D7%9E%D7%9C%D7%97%D7%9E%D7%AA%20%D7%94%D7%A2%D7%95%D7%9C%D7%9D%20%D7%94%D7%A9%D7%A0%D7%99%D7%99%D7%94%20%D7%9B%D7%A9%D7%94%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%9D%20%D7%94%D7%A2%D7%91%D7%99%D7%A8%D7%95,%D7%9E%D7%A2%D7%95%D7%9C%D7%9D%2C%20%D7%95%D7%92%D7%9D%20%D7%94%D7%9B%D7%99%D7%91%D7%95%D7%A9%20%D7%94%D7%9E%D7%A6%D7%A8%D7%99%20%D7%91%D7%A2%D7%96%D7%94%20%D7%9C%D7%90%20%D7%94%D7%95%D7%9B%D7%A8."
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "inline-5",
+                  "kind": "inline",
+                  "sources": [
+                    {
+                      "title": "המרכז להסברה מדינית - שלום עכשיו סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו “על-פי הדין הבינלאומי, ההתנחלויות מהוות הפרה של סעיף זה. קיימת מחלוקת בתוך ישראל, האם באמת מתבצעת הפרה של אמנת ז'נבה, אך אין ספק שישראל מעודדת התיישבות של אזרחים...”",
+                      "url": "https://hazon.peacenow.org.il/%D7%A1%D7%A2%D7%99%D7%A3-49-%D7%91%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94-%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA/#:~:text=%D7%A2%D7%9C%2D%D7%A4%D7%99%20%D7%94%D7%93%D7%99%D7%9F%20%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%2C%20%D7%94%D7%94%D7%AA%D7%A0%D7%97%D7%9C%D7%95%D7%99%D7%95%D7%AA%20%D7%9E%D7%94%D7%95%D7%95%D7%AA%20%D7%94%D7%A4%D7%A8%D7%94%20%D7%A9%D7%9C,%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20%D7%94%D7%A8%D7%99%D7%91%D7%95%D7%A0%D7%99%D7%AA%2C%20%D7%94%D7%99%D7%95%D7%AA%20%D7%95%D7%94%D7%95%D7%90%20%D7%9E%D7%A2%D7%95%D7%9C%D7%9D%20%D7%9C%D7%90%20%D7%A1%D7%95%D7%A4%D7%97."
+                    },
+                    {
+                      "title": "ערוץ 7 \"על פי אמנת ז'נבה, כל ההתנחלויות הן חוקיות\" | ערוץ 7 “כך היה במלחמת העולם השנייה כשהגרמנים העבירו בכוח גרמנים לשטחים פולניים שנכבשו. במקרה שלנו, ישראל לא כבשה מעולם את יהודה ושומרון. יהודה ושומרון זה שטח שלא היה שי...”",
+                      "url": "https://www.inn.co.il/news/236193#:~:text=%D7%9B%D7%9A%20%D7%94%D7%99%D7%94%20%D7%91%D7%9E%D7%9C%D7%97%D7%9E%D7%AA%20%D7%94%D7%A2%D7%95%D7%9C%D7%9D%20%D7%94%D7%A9%D7%A0%D7%99%D7%99%D7%94%20%D7%9B%D7%A9%D7%94%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%9D%20%D7%94%D7%A2%D7%91%D7%99%D7%A8%D7%95,%D7%9E%D7%A2%D7%95%D7%9C%D7%9D%2C%20%D7%95%D7%92%D7%9D%20%D7%94%D7%9B%D7%99%D7%91%D7%95%D7%A9%20%D7%94%D7%9E%D7%A6%D7%A8%D7%99%20%D7%91%D7%A2%D7%96%D7%94%20%D7%9C%D7%90%20%D7%94%D7%95%D7%9B%D7%A8."
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "inline-6",
+                  "kind": "inline",
+                  "sources": [
+                    {
+                      "title": "Wikipedia Legality of Israeli settlements - Wikipedia “Hansell concluded that the settlements are \"inconsistent with international law\", and against Article 49 of the Fourth Geneva Convention. The Hansell Memorandum”",
+                      "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements"
+                    },
+                    {
+                      "title": "המרכז להסברה מדינית - שלום עכשיו סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו “סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו אמנת ז'נבה הרביעית משנת 1949, עוסקת בהגנה על אוכלוסייה אזרחית במלחמה בין מדינות או תחת תפי...”",
+                      "url": "https://hazon.peacenow.org.il/%D7%A1%D7%A2%D7%99%D7%A3-49-%D7%91%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94-%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA/#:~:text=%D7%A1%D7%A2%D7%99%D7%A3%2049%20%D7%91%D7%90%D7%9E%D7%A0%D7%AA%20%D7%96'%D7%A0%D7%91%D7%94%20%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA%20%2D%20%D7%97%D7%96%D7%95%D7%9F,%D7%AA%D7%99%D7%99%D7%A9%D7%91%20%D7%90%D7%96%D7%A8%D7%97%D7%99%D7%9D%20%D7%9E%D7%AA%D7%95%D7%9A%20%D7%A9%D7%98%D7%97%D7%94%20%D7%91%D7%97%D7%91%D7%9C%D7%99%20%D7%94%D7%90%D7%A8%D7%A5%20%D7%A9%D7%A0%D7%9B%D7%91%D7%A9%D7%95%22."
+                    },
+                    {
+                      "title": "ערוץ 7 \"על פי אמנת ז'נבה, כל ההתנחלויות הן חוקיות\" | ערוץ 7 “כך היה במלחמת העולם השנייה כשהגרמנים העבירו בכוח גרמנים לשטחים פולניים שנכבשו. במקרה שלנו, ישראל לא כבשה מעולם את יהודה ושומרון. יהודה ושומרון זה שטח שלא היה שי...”",
+                      "url": "https://www.inn.co.il/news/236193#:~:text=%D7%9B%D7%9A%20%D7%94%D7%99%D7%94%20%D7%91%D7%9E%D7%9C%D7%97%D7%9E%D7%AA%20%D7%94%D7%A2%D7%95%D7%9C%D7%9D%20%D7%94%D7%A9%D7%A0%D7%99%D7%99%D7%94%20%D7%9B%D7%A9%D7%94%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%9D%20%D7%94%D7%A2%D7%91%D7%99%D7%A8%D7%95,%D7%9E%D7%A2%D7%95%D7%9C%D7%9D%2C%20%D7%95%D7%92%D7%9D%20%D7%94%D7%9B%D7%99%D7%91%D7%95%D7%A9%20%D7%94%D7%9E%D7%A6%D7%A8%D7%99%20%D7%91%D7%A2%D7%96%D7%94%20%D7%9C%D7%90%20%D7%94%D7%95%D7%9B%D7%A8."
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "inline-7",
+                  "kind": "inline",
+                  "sources": [
+                    {
+                      "title": "ערוץ 7 \"על פי אמנת ז'נבה, כל ההתנחלויות הן חוקיות\" | ערוץ 7 “יהודה ושומרון זה שטח שלא היה שייך מעולם למדינה אחרת. הכיבוש הירדני לא הוכר מעולם, וגם הכיבוש המצרי בעזה לא הוכר. מדובר בשטחים מנדטוריים שגורלם צריך להיקבע בין ה...”",
+                      "url": "https://www.inn.co.il/news/236193#:~:text=%D7%99%D7%94%D7%95%D7%93%D7%94%20%D7%95%D7%A9%D7%95%D7%9E%D7%A8%D7%95%D7%9F%20%D7%96%D7%94%20%D7%A9%D7%98%D7%97%20%D7%A9%D7%9C%D7%90%20%D7%94%D7%99%D7%94%20%D7%A9%D7%99%D7%99%D7%9A,%D7%9C%D7%90%20%D7%94%D7%95%D7%A2%D7%91%D7%A8%D7%95%20%D7%9C%D7%A9%D7%9D%2C%20%D7%9C%D7%9B%D7%9F%20%D7%94%D7%9F%20%D7%97%D7%95%D7%A7%D7%99%D7%95%D7%AA%20%D7%9C%D7%97%D7%9C%D7%95%D7%98%D7%99%D7%9F%22."
+                    }
+                  ],
+                  "complete": true
+                }
+              ]
+            },
+            "answer_complete": true,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/25a3e522-16a0-488e-9962-d549104642b6",
+              "manifest": "results/studies/2026-11-03_browser/evidence/25a3e522-16a0-488e-9962-d549104642b6/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/25a3e522-16a0-488e-9962-d549104642b6/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/25a3e522-16a0-488e-9962-d549104642b6/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/25a3e522-16a0-488e-9962-d549104642b6/page.png",
+              "errors": []
+            }
+          },
+          "sources": [
+            {
+              "title": "שלום עכשיו סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו “אמנת ז'נבה הרביעית משנת 1949, עוסקת בהגנה על אוכלוסייה אזרחית במלחמה בין מדינות או תחת תפיסה לוחמתית. סעיף 49 באמנה קובע כי \"המעצמה הכובשת לא תעביר או תיישב”",
+              "url": "https://hazon.peacenow.org.il/%D7%A1%D7%A2%D7%99%D7%A3-49-%D7%91%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94-%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA/"
+            },
+            {
+              "title": "ערוץ 7 \"על פי אמנת ז'נבה, כל ההתנחלויות הן חוקיות\" | ערוץ 7 “בהודעה שפרסם בית הדין הפלילי הבינלאומי נמסר לפלשתינים כי מאחר שהם אינם מדינה המוכרת במוסדות האו\"ם בניו יורק, אין ביה\"ד יכול לדון בבקשה.”",
+              "url": "https://www.inn.co.il/news/236193#:~:text=%D7%91%D7%94%D7%95%D7%93%D7%A2%D7%94%20%D7%A9%D7%A4%D7%A8%D7%A1%D7%9D%20%D7%91%D7%99%D7%AA%20%D7%94%D7%93%D7%99%D7%9F%20%D7%94%D7%A4%D7%9C%D7%99%D7%9C%D7%99%20%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%20%D7%A0%D7%9E%D7%A1%D7%A8,%D7%91%D7%A0%D7%99%D7%95%20%D7%99%D7%95%D7%A8%D7%A7%2C%20%D7%90%D7%99%D7%9F%20%D7%91%D7%99%D7%94%22%D7%93%20%D7%99%D7%9B%D7%95%D7%9C%20%D7%9C%D7%93%D7%95%D7%9F%20%D7%91%D7%91%D7%A7%D7%A9%D7%94."
+            },
+            {
+              "title": "un-escwa palestine-occupation-fourth-geneva-convention-facts-figures “Page 5. 4. Applicability of the Convention. Article 2: “… the present Convention shall apply to all cases of declared war or of any other armed conflict which m...”",
+              "url": "https://www.unescwa.org/sites/default/files/pubs/pdf/palestine-occupation-fourth-geneva-convention-facts-figures-english.pdf#:~:text=Page%205.%204.%20Applicability%20of%20the%20Convention.,said%20occupation%20meets%20with%20no%20armed%20resistance.%E2%80%9D"
+            },
+            {
+              "title": "המרכז להסברה מדינית - שלום עכשיו סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו “סעיף 49 באמנה קובע כי \"המעצמה הכובשת לא תעביר או תיישב אזרחים מתוך שטחה בחבלי הארץ שנכבשו\". על-פי הדין הבינלאומי, ההתנחלויות מהוות הפרה של סעיף זה.”",
+              "url": "https://hazon.peacenow.org.il/%D7%A1%D7%A2%D7%99%D7%A3-49-%D7%91%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94-%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA/#:~:text=%D7%A1%D7%A2%D7%99%D7%A3%2049%20%D7%91%D7%90%D7%9E%D7%A0%D7%94%20%D7%A7%D7%95%D7%91%D7%A2%20%D7%9B%D7%99%20%22%D7%94%D7%9E%D7%A2%D7%A6%D7%9E%D7%94%20%D7%94%D7%9B%D7%95%D7%91%D7%A9%D7%AA,%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%2C%20%D7%94%D7%94%D7%AA%D7%A0%D7%97%D7%9C%D7%95%D7%99%D7%95%D7%AA%20%D7%9E%D7%94%D7%95%D7%95%D7%AA%20%D7%94%D7%A4%D7%A8%D7%94%20%D7%A9%D7%9C%20%D7%A1%D7%A2%D7%99%D7%A3%20%D7%96%D7%94."
+            },
+            {
+              "title": "המרכז להסברה מדינית - שלום עכשיו סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו “על-פי הדין הבינלאומי, ההתנחלויות מהוות הפרה של סעיף זה. קיימת מחלוקת בתוך ישראל, האם באמת מתבצעת הפרה של אמנת ז'נבה, אך אין ספק שישראל מעודדת התיישבות של אזרחים...”",
+              "url": "https://hazon.peacenow.org.il/%D7%A1%D7%A2%D7%99%D7%A3-49-%D7%91%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94-%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA/#:~:text=%D7%A2%D7%9C%2D%D7%A4%D7%99%20%D7%94%D7%93%D7%99%D7%9F%20%D7%94%D7%91%D7%99%D7%A0%D7%9C%D7%90%D7%95%D7%9E%D7%99%2C%20%D7%94%D7%94%D7%AA%D7%A0%D7%97%D7%9C%D7%95%D7%99%D7%95%D7%AA%20%D7%9E%D7%94%D7%95%D7%95%D7%AA%20%D7%94%D7%A4%D7%A8%D7%94%20%D7%A9%D7%9C,%D7%99%D7%A9%D7%A8%D7%90%D7%9C%20%D7%94%D7%A8%D7%99%D7%91%D7%95%D7%A0%D7%99%D7%AA%2C%20%D7%94%D7%99%D7%95%D7%AA%20%D7%95%D7%94%D7%95%D7%90%20%D7%9E%D7%A2%D7%95%D7%9C%D7%9D%20%D7%9C%D7%90%20%D7%A1%D7%95%D7%A4%D7%97."
+            },
+            {
+              "title": "ערוץ 7 \"על פי אמנת ז'נבה, כל ההתנחלויות הן חוקיות\" | ערוץ 7 “כך היה במלחמת העולם השנייה כשהגרמנים העבירו בכוח גרמנים לשטחים פולניים שנכבשו. במקרה שלנו, ישראל לא כבשה מעולם את יהודה ושומרון. יהודה ושומרון זה שטח שלא היה שי...”",
+              "url": "https://www.inn.co.il/news/236193#:~:text=%D7%9B%D7%9A%20%D7%94%D7%99%D7%94%20%D7%91%D7%9E%D7%9C%D7%97%D7%9E%D7%AA%20%D7%94%D7%A2%D7%95%D7%9C%D7%9D%20%D7%94%D7%A9%D7%A0%D7%99%D7%99%D7%94%20%D7%9B%D7%A9%D7%94%D7%92%D7%A8%D7%9E%D7%A0%D7%99%D7%9D%20%D7%94%D7%A2%D7%91%D7%99%D7%A8%D7%95,%D7%9E%D7%A2%D7%95%D7%9C%D7%9D%2C%20%D7%95%D7%92%D7%9D%20%D7%94%D7%9B%D7%99%D7%91%D7%95%D7%A9%20%D7%94%D7%9E%D7%A6%D7%A8%D7%99%20%D7%91%D7%A2%D7%96%D7%94%20%D7%9C%D7%90%20%D7%94%D7%95%D7%9B%D7%A8."
+            },
+            {
+              "title": "Wikipedia Legality of Israeli settlements - Wikipedia “Hansell concluded that the settlements are \"inconsistent with international law\", and against Article 49 of the Fourth Geneva Convention. The Hansell Memorandum”",
+              "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements"
+            },
+            {
+              "title": "המרכז להסברה מדינית - שלום עכשיו סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו “סעיף 49 באמנת ז'נבה הרביעית - חזון - המרכז להסברה מדינית - שלום עכשיו אמנת ז'נבה הרביעית משנת 1949, עוסקת בהגנה על אוכלוסייה אזרחית במלחמה בין מדינות או תחת תפי...”",
+              "url": "https://hazon.peacenow.org.il/%D7%A1%D7%A2%D7%99%D7%A3-49-%D7%91%D7%90%D7%9E%D7%A0%D7%AA-%D7%96%D7%A0%D7%91%D7%94-%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA/#:~:text=%D7%A1%D7%A2%D7%99%D7%A3%2049%20%D7%91%D7%90%D7%9E%D7%A0%D7%AA%20%D7%96'%D7%A0%D7%91%D7%94%20%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA%20%2D%20%D7%97%D7%96%D7%95%D7%9F,%D7%AA%D7%99%D7%99%D7%A9%D7%91%20%D7%90%D7%96%D7%A8%D7%97%D7%99%D7%9D%20%D7%9E%D7%AA%D7%95%D7%9A%20%D7%A9%D7%98%D7%97%D7%94%20%D7%91%D7%97%D7%91%D7%9C%D7%99%20%D7%94%D7%90%D7%A8%D7%A5%20%D7%A9%D7%A0%D7%9B%D7%91%D7%A9%D7%95%22."
+            },
+            {
+              "title": "ערוץ 7 \"על פי אמנת ז'נבה, כל ההתנחלויות הן חוקיות\" | ערוץ 7 “יהודה ושומרון זה שטח שלא היה שייך מעולם למדינה אחרת. הכיבוש הירדני לא הוכר מעולם, וגם הכיבוש המצרי בעזה לא הוכר. מדובר בשטחים מנדטוריים שגורלם צריך להיקבע בין ה...”",
+              "url": "https://www.inn.co.il/news/236193#:~:text=%D7%99%D7%94%D7%95%D7%93%D7%94%20%D7%95%D7%A9%D7%95%D7%9E%D7%A8%D7%95%D7%9F%20%D7%96%D7%94%20%D7%A9%D7%98%D7%97%20%D7%A9%D7%9C%D7%90%20%D7%94%D7%99%D7%94%20%D7%A9%D7%99%D7%99%D7%9A,%D7%9C%D7%90%20%D7%94%D7%95%D7%A2%D7%91%D7%A8%D7%95%20%D7%9C%D7%A9%D7%9D%2C%20%D7%9C%D7%9B%D7%9F%20%D7%94%D7%9F%20%D7%97%D7%95%D7%A7%D7%99%D7%95%D7%AA%20%D7%9C%D7%97%D7%9C%D7%95%D7%98%D7%99%D7%9F%22."
+            }
+          ],
+          "human_wait_ms": null,
+          "human_timeout_seconds": null
+        },
+        {
+          "observation_id": "ac52bd15-0a95-443e-9530-4d58058fa4d8",
+          "prompt_id": "Q01_he",
+          "question_id": "Q01",
+          "language": "he",
+          "provider": "google_search",
+          "timestamp": "2026-11-04T07:26:23.979273-08:00",
+          "prompt": "האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?",
+          "url": "https://www.google.com/search",
+          "response": "",
+          "model_observed": null,
+          "latency_ms": 138465,
+          "status": "captcha",
+          "error": "Google Search verification/unusual traffic blocked the query; human intervention timed out or is disabled.",
+          "screenshot_path": "/Users/fw-research/Desktop/ip_location_experiment/results/studies/2026-11-03_browser/failures/ac52bd15-0a95-443e-9530-4d58058fa4d8_captcha.png",
+          "manual_intervention": false,
+          "attempts": 1,
+          "metadata": {
+            "surface": "ai_overview",
+            "search_url": "https://www.google.com/search?q=%D7%94%D7%90%D7%9D+%D7%90%D7%9E%D7%A0%D7%AA+%D7%96%D7%A0%D7%91%D7%94+%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA+%D7%AA%D7%A7%D7%A4%D7%94+%D7%9C%D7%92%D7%91%D7%99+%D7%99%D7%94%D7%95%D7%93%D7%94+%D7%95%D7%A9%D7%95%D7%9E%D7%A8%D7%95%D7%9F%3F&hl=en",
+            "final_url": "https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%25D7%2594%25D7%2590%25D7%259D%2B%25D7%2590%25D7%259E%25D7%25A0%25D7%25AA%2B%25D7%2596%25D7%25A0%25D7%2591%25D7%2594%2B%25D7%2594%25D7%25A8%25D7%2591%25D7%2599%25D7%25A2%25D7%2599%25D7%25AA%2B%25D7%25AA%25D7%25A7%25D7%25A4%25D7%2594%2B%25D7%259C%25D7%2592%25D7%2591%25D7%2599%2B%25D7%2599%25D7%2594%25D7%2595%25D7%2593%25D7%2594%2B%25D7%2595%25D7%25A9%25D7%2595%25D7%259E%25D7%25A8%25D7%2595%25D7%259F%253F%26hl%3Den%26sei%3DN0rrao__Et6Mi-gPloLZiAY&hl=en&q=EgSpluPJGLeUrdcGIjDKracMABXstyMsoqRlmCNfDDpBPN-J9sx67N7jM0aoYeR0lnSVTIh_C4MZSrxGrDsyAVJaAUNgrtnIg4Orzv1B",
+            "overview_found": false,
+            "sources": [],
+            "answer_complete": false,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/ac52bd15-0a95-443e-9530-4d58058fa4d8",
+              "manifest": "results/studies/2026-11-03_browser/evidence/ac52bd15-0a95-443e-9530-4d58058fa4d8/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/ac52bd15-0a95-443e-9530-4d58058fa4d8/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/ac52bd15-0a95-443e-9530-4d58058fa4d8/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/ac52bd15-0a95-443e-9530-4d58058fa4d8/page.png",
+              "errors": []
+            }
+          },
+          "sources": [],
+          "human_wait_ms": 135484,
+          "human_timeout_seconds": 300
+        }
+      ],
+      "skipped": []
+    },
+    {
+      "location": "US",
+      "vpn": {
+        "requested_location": "US",
+        "expected_country_code": "US",
+        "exit_ip": "23.165.56.251",
+        "detected_country_code": "US",
+        "detected_country_name": "United States",
+        "verified": true,
+        "error": null
+      },
+      "api": [],
+      "browser": [
+        {
+          "observation_id": "a3542d33-0a2a-4a2b-8ae9-3fdbcab45f2d",
+          "prompt_id": "Q01_en",
+          "question_id": "Q01",
+          "language": "en",
+          "provider": "chatgpt",
+          "timestamp": "2026-11-04T07:48:47.881076-08:00",
+          "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+          "url": "https://chatgpt.com/",
+          "response": "Yes. Under the prevailing interpretation of international humanitarian law, the Fourth Geneva Convention applies to Judea and Samaria (the West Bank), including East Jerusalem.\n\nHowever, this question has a significant legal and historical dispute, particularly concerning the territory's status before 1967, the meaning of occupation, and the applicability of Article 2 of the Convention.\n\nThe distinction between the prevailing international legal position and Israel's legal position is important.\n\n1. The prevailing international legal position\n\nThe Fourth Geneva Convention of 1949 protects civilians in situations of armed conflict and occupation.\n\nThe principal legal basis for its application to Judea and Samaria is Article 2, which provides that the Convention applies to:\n\nAll cases of declared war or other armed conflict between contracting parties.\n\nCases of partial or total occupation of the territory of a contracting party, even if the occupation meets no armed resistance.\n\nThe prevailing international interpretation is that:\n\nIsrael took control of the West Bank in 1967.\n\nThe territory is considered occupied territory under international humanitarian law.\n\nThe Convention therefore applies, regardless of whether Jordan's previous sovereignty over the territory was internationally recognized.\n\nThe International Committee of the Red Cross (ICRC), the United Nations, and the International Court of Justice have consistently endorsed this interpretation.\n\n2. Israel's legal position\n\nIsrael has historically disputed the Convention's de jure applicability to Judea and Samaria.\n\nThe principal arguments are:\n\nNo recognized Jordanian sovereignty: Jordan's annexation of the West Bank in 1950 was recognized by only a small number of countries.\n\nArticle 2 interpretation: Israel argues that the Convention's occupation provisions concern the occupation of territory belonging to another High Contracting Party. Since Jordan's sovereignty was not internationally recognized, Israel disputes whether this condition was satisfied.\n\nDisputed territorial status: Israel maintains that Judea and Samaria are disputed territories rather than the sovereign territory of another state.\n\nImportantly, Israel has generally maintained that it applies the Convention's humanitarian provisions in practice, even while disputing its formal legal applicability.\n\nThe distinction is between de facto application and de jure applicability. \nICRC\n+1\n\n3. What has the International Court of Justice decided?\n\nThere are two particularly important advisory opinions.\n\n2004 Wall Advisory Opinion: The ICJ expressly held that the Fourth Geneva Convention applies to the Palestinian territories occupied in 1967. It specifically rejected the need to determine the precise prior sovereignty of those territories. \nQuestion of Palestine\n\n2024 Advisory Opinion: The ICJ reaffirmed that the Fourth Geneva Convention applies throughout the Occupied Palestinian Territory, including the West Bank and East Jerusalem. \nQuestion of Palestine\n+1\n\nThe 2024 opinion is particularly significant because it reaffirmed the Convention's applicability while addressing Israel's policies and practices in the territory.\n\nThese are advisory opinions, not binding judgments between two litigating states, although they carry substantial legal authority.\n\n4. What does application of the Convention mean?\n\nIf the Convention applies, several important provisions become relevant:\n\nArticle\n\n\t\n\nSubject\n\n\n\n\nArticle 27\n\n\t\n\nHumane treatment and protection of civilians\n\n\n\n\nArticle 33\n\n\t\n\nProhibition of collective punishment\n\n\n\n\nArticle 49\n\n\t\n\nProhibition of forcible transfers and deportations; paragraph 6 addresses transfer of the occupying power's civilian population\n\n\n\n\nArticle 53\n\n\t\n\nRestrictions on destruction of private property\n\n\n\n\nArticle 64\n\n\t\n\nApplicable law and legislative powers of the occupying power\n\n\n\n\nArticle 147\n\n\t\n\nGrave breaches of the Convention\n\nThese provisions do not mean that every Israeli military action, security measure, or administrative decision automatically violates the Convention. Each alleged violation requires an examination of the relevant provision and facts.\n\n5. Primary legal sources\n\nFor further examination, I recommend these original documents:\n\nICJ Advisory Opinion, 19 July 2024 .\n\nICJ Advisory Opinion, 9 July 2004 .\n\nICRC explanation of the legal status of the occupied territories .\n\nICRC casebook discussing the competing legal interpretations .\n\nBottom line\n\nThere are two different answers depending on the legal perspective:\n\nInternational law as interpreted by the ICJ, ICRC, and overwhelming majority of states: Yes, the Fourth Geneva Convention applies to Judea and Samaria.\n\nIsrael's traditional legal position: The Convention does not formally apply de jure, although Israel applies its humanitarian provisions in practice.\n\nThe most important legal issue is Article 2 of the Convention and whether occupation of territory requires that the territory have belonged to another sovereign state.\n\nThat is the central point of disagreement, although the ICJ has expressly addressed and rejected the argument that the prior sovereignty question prevents the Convention from applying.",
+          "model_observed": null,
+          "latency_ms": 85421,
+          "status": "ok",
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false,
+          "attempts": 1,
+          "metadata": {
+            "source_capture": {
+              "method": "browser_response",
+              "format": "chatgpt-conversation-source-v2",
+              "controls_found": 7,
+              "controls_read": 7,
+              "complete": true,
+              "message_id": "b202ab3f-2794-4fa7-a22f-b4cfd54a2b4a",
+              "revision": 35,
+              "groups": [
+                {
+                  "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "IRRC, No 889 – ICRC. Violence against health care (II): The way forward",
+                      "url": "https://www.icrc.org/sites/default/files/external/doc/en/resources/international-review/review-890-violence-against-health-care-2/review-890-all.pdf?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "How does law protect in war? Volume II: cases and documents",
+                      "url": "https://www.icrc.org/en/download/file/19456/icrc-0739-part-ii-vol-i.pdf?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+                      "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "965e8727-dd6e-5984-99ee-d31eb3b63259",
+                  "kind": "Cite",
+                  "sources": [
+                    {
+                      "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+                      "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+                    },
+                    {
+                      "title": "Advisory Opinion of 19 July 2024",
+                      "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "4ddbf0e3-3cd8-5180-91fb-b24f383fd167",
+                  "kind": "Link",
+                  "sources": [
+                    {
+                      "title": "ICRC explanation of the legal status of the occupied territories",
+                      "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?linkId=100000222296797&utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "3e979f04-30fe-57ef-933b-57fafb04a40e",
+                  "kind": "Link",
+                  "sources": [
+                    {
+                      "title": "ICRC casebook discussing the competing legal interpretations",
+                      "url": "https://www.icrc.org/en/download/file/19456/icrc-0739-part-ii-vol-i.pdf?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "25bfac6e-fbcd-5e68-a028-1e13eb99de53",
+                  "kind": "Link",
+                  "sources": [
+                    {
+                      "title": "ICJ Advisory Opinion, 19 July 2024",
+                      "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "dedf923e-efb9-5796-821d-1bd07d4a9183",
+                  "kind": "Link",
+                  "sources": [
+                    {
+                      "title": "ICJ Advisory Opinion, 9 July 2004",
+                      "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+                    }
+                  ],
+                  "complete": true
+                }
+              ]
+            },
+            "answer_complete": true,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/a3542d33-0a2a-4a2b-8ae9-3fdbcab45f2d",
+              "manifest": "results/studies/2026-11-03_browser/evidence/a3542d33-0a2a-4a2b-8ae9-3fdbcab45f2d/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/a3542d33-0a2a-4a2b-8ae9-3fdbcab45f2d/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/a3542d33-0a2a-4a2b-8ae9-3fdbcab45f2d/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/a3542d33-0a2a-4a2b-8ae9-3fdbcab45f2d/page.png",
+              "errors": []
+            }
+          },
+          "sources": [
+            {
+              "title": "ICJ Advisory Opinion, 19 July 2024",
+              "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+            },
+            {
+              "title": "ICJ Advisory Opinion, 9 July 2004",
+              "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+            },
+            {
+              "title": "ICRC explanation of the legal status of the occupied territories",
+              "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?linkId=100000222296797&utm_source=chatgpt.com"
+            },
+            {
+              "title": "ICRC casebook discussing the competing legal interpretations",
+              "url": "https://www.icrc.org/en/download/file/19456/icrc-0739-part-ii-vol-i.pdf?utm_source=chatgpt.com"
+            },
+            {
+              "title": "IRRC, No 889 – ICRC. Violence against health care (II): The way forward",
+              "url": "https://www.icrc.org/sites/default/files/external/doc/en/resources/international-review/review-890-violence-against-health-care-2/review-890-all.pdf?utm_source=chatgpt.com"
+            },
+            {
+              "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+              "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+            }
+          ],
+          "human_wait_ms": null,
+          "human_timeout_seconds": null
+        },
+        {
+          "observation_id": "4b514e60-94b5-45c5-ab54-09e0be08b958",
+          "prompt_id": "Q01_en",
+          "question_id": "Q01",
+          "language": "en",
+          "provider": "gemini",
+          "timestamp": "2026-11-04T07:51:50.341265-08:00",
+          "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+          "url": "https://gemini.google.com/app",
+          "response": "Whether the Fourth Geneva Convention applies to Judea and Samaria (commonly referred to as the West Bank) is a subject of long-standing international legal debate, with a sharp divide between the position of the Israeli government and the consensus of the international community.\n\n1. The International Consensus\n\nThe overwhelming majority of the international community—including the United Nations Security Council, the General Assembly, the International Court of Justice (ICJ), and the International Committee of the Red Cross (ICRC)—maintains that the Fourth Geneva Convention does fully apply to Judea and Samaria.\n\nThe Rationale: Proponents of this view argue that under Common Article 2 of the 1949 Geneva Conventions, the treaties apply to any armed conflict arising between two or more High Contracting Parties and to cases of occupied territory. Because Jordan administered the territory prior to 1967 and both Jordan and Israel are parties to the Conventions, the criteria for a formal military occupation are met.\n\nHumanitarian Protections: Under this interpretation, provisions such as Article 49—which prohibits an occupying power from deporting or transferring parts of its own civilian population into territory it occupies—are legally binding, rendering Israeli settlements in the territory illegal under international law.   \nAmnesty International\n\n2. The Israeli Government's Position\n\nThe government of Israel has traditionally argued that the Fourth Geneva Convention is de jure inapplicable to Judea and Samaria for several legal reasons:\n\nThe \"Missing Reversioner\" Theory: Israel argued that under international law, the Convention applies only to territory that belonged to a recognized sovereign High Contracting Party prior to the occupation. Because Jordan’s annexation of the West Bank in 1950 was recognized by only a few nations (and Jordan later renounced its claims in 1988), Israel argued that the territory was not the sovereign territory of any state prior to 1967, but rather \"disputed\" territory.   \nHow does law protect in war? - ICRC\n\nThe Humanitarian Standard: While contesting the de jure (technical legal) application of the Convention, successive Israeli governments have stated that Israel voluntarily applies the humanitarian provisions of the Fourth Geneva Convention in practice.\n\nDomestic Legal Application: The High Court of Justice of Israel has adjudicated numerous petitions regarding administrative actions in the territory, applying customary international law and humanitarian principles, though it has generally declined to rule on the broad international question of the Convention's formal applicability to settlements.\n\nWant to know more about the International Court of Justice's advisory opinions on this topic?\nYes",
+          "model_observed": null,
+          "latency_ms": 182002,
+          "status": "ok",
+          "error": null,
+          "screenshot_path": null,
+          "manual_intervention": false,
+          "attempts": 1,
+          "metadata": {
+            "source_capture": {
+              "controls_found": 2,
+              "controls_read": 2,
+              "complete": true,
+              "groups": [
+                {
+                  "id": "inline-0",
+                  "kind": "inline",
+                  "sources": [
+                    {
+                      "title": "Amnesty International Chapter 3: Israeli Settlements and International Law “Article 49 of the Fourth Geneva Convention states: “The Occupying Power shall not deport or transfer parts of its own civilian population into the territory it”",
+                      "url": "https://www.amnesty.org/en/latest/campaigns/2019/01/chapter-3-israeli-settlements-and-international-law/"
+                    }
+                  ],
+                  "complete": true
+                },
+                {
+                  "id": "inline-1",
+                  "kind": "inline",
+                  "sources": [
+                    {
+                      "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “* Why does Shamgar claim that neither the West Bank nor Gaza is occupied territory as defined by IHL, and that therefore Convention IV is not applicable? Does I...”",
+                      "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=*%20Why%20does%20Shamgar%20claim%20that%20neither,of%20the%20sovereignty%20of%20the%20previous%20government%3F"
+                    }
+                  ],
+                  "complete": true
+                }
+              ]
+            },
+            "answer_complete": true,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/4b514e60-94b5-45c5-ab54-09e0be08b958",
+              "manifest": "results/studies/2026-11-03_browser/evidence/4b514e60-94b5-45c5-ab54-09e0be08b958/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/4b514e60-94b5-45c5-ab54-09e0be08b958/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/4b514e60-94b5-45c5-ab54-09e0be08b958/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/4b514e60-94b5-45c5-ab54-09e0be08b958/page.png",
+              "errors": []
+            }
+          },
+          "sources": [
+            {
+              "title": "Amnesty International Chapter 3: Israeli Settlements and International Law “Article 49 of the Fourth Geneva Convention states: “The Occupying Power shall not deport or transfer parts of its own civilian population into the territory it”",
+              "url": "https://www.amnesty.org/en/latest/campaigns/2019/01/chapter-3-israeli-settlements-and-international-law/"
+            },
+            {
+              "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “* Why does Shamgar claim that neither the West Bank nor Gaza is occupied territory as defined by IHL, and that therefore Convention IV is not applicable? Does I...”",
+              "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=*%20Why%20does%20Shamgar%20claim%20that%20neither,of%20the%20sovereignty%20of%20the%20previous%20government%3F"
+            }
+          ],
+          "human_wait_ms": null,
+          "human_timeout_seconds": null
+        },
+        {
+          "observation_id": "f131bef4-2990-4639-859e-3366a2a39c72",
+          "prompt_id": "Q01_en",
+          "question_id": "Q01",
+          "language": "en",
+          "provider": "google_search",
+          "timestamp": "2026-11-04T08:11:29.031628-08:00",
+          "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+          "url": "https://www.google.com/search",
+          "response": "",
+          "model_observed": null,
+          "latency_ms": 138346,
+          "status": "captcha",
+          "error": "Google Search verification/unusual traffic blocked the query; human intervention timed out or is disabled.",
+          "screenshot_path": "/Users/fw-research/Desktop/ip_location_experiment/results/studies/2026-11-03_browser/failures/f131bef4-2990-4639-859e-3366a2a39c72_captcha.png",
+          "manual_intervention": false,
+          "attempts": 1,
+          "metadata": {
+            "surface": "ai_overview",
+            "search_url": "https://www.google.com/search?q=Does+the+Fourth+Geneva+Convention+apply+to+Judea+and+Samaria%3F&hl=en",
+            "final_url": "https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3DDoes%2Bthe%2BFourth%2BGeneva%2BConvention%2Bapply%2Bto%2BJudea%2Band%2BSamaria%253F%26hl%3Den%26sei%3Dl1TravzdBsCpptQPju7ZuQY&hl=en&q=EgQXpTj7GJeprdcGIjBJs13458rbCDWV2JVijQ8O3PJvETxOZzE_t4l9wj5Gydb28VnkS5XNGQPmOoZ3cQsyAVJaAUNg8_Lvt_X2goecAQ",
+            "overview_found": false,
+            "sources": [],
+            "answer_complete": false,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/f131bef4-2990-4639-859e-3366a2a39c72",
+              "manifest": "results/studies/2026-11-03_browser/evidence/f131bef4-2990-4639-859e-3366a2a39c72/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/f131bef4-2990-4639-859e-3366a2a39c72/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/f131bef4-2990-4639-859e-3366a2a39c72/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/f131bef4-2990-4639-859e-3366a2a39c72/page.png",
+              "errors": []
+            }
+          },
+          "sources": [],
+          "human_wait_ms": 136765,
+          "human_timeout_seconds": 300
+        },
+        {
+          "observation_id": "50e4ed92-7187-4b3e-9e59-def569bbb8da",
+          "prompt_id": "Q01_he",
+          "question_id": "Q01",
+          "language": "he",
+          "provider": "chatgpt",
+          "timestamp": "2026-11-04T09:16:06.852893-08:00",
+          "prompt": "האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?",
+          "url": "https://chatgpt.com/",
+          "response": "Unable to connect\nRetry",
+          "model_observed": null,
+          "latency_ms": 10577,
+          "status": "timeout",
+          "error": "attempt 1: timeout: Timed out; response stayed on non-answer status text.; attempt 2: Timed out waiting for a stable finished response.",
+          "screenshot_path": "/Users/fw-research/Desktop/ip_location_experiment/results/studies/2026-11-03_browser/failures/50e4ed92-7187-4b3e-9e59-def569bbb8da_attempt2_timeout.png",
+          "manual_intervention": false,
+          "attempts": 2,
+          "metadata": {
+            "answer_complete": false,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/50e4ed92-7187-4b3e-9e59-def569bbb8da_attempt2",
+              "manifest": "results/studies/2026-11-03_browser/evidence/50e4ed92-7187-4b3e-9e59-def569bbb8da_attempt2/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/50e4ed92-7187-4b3e-9e59-def569bbb8da_attempt2/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/50e4ed92-7187-4b3e-9e59-def569bbb8da_attempt2/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/50e4ed92-7187-4b3e-9e59-def569bbb8da_attempt2/page.png",
+              "errors": []
+            }
+          },
+          "sources": [],
+          "human_wait_ms": null,
+          "human_timeout_seconds": null
+        },
+        {
+          "observation_id": "de7f4094-7127-4a6a-be3d-eb28d8541e51",
+          "prompt_id": "Q01_he",
+          "question_id": "Q01",
+          "language": "he",
+          "provider": "gemini",
+          "timestamp": "2026-11-04T10:12:48.357520-08:00",
+          "prompt": "האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?",
+          "url": "https://gemini.google.com/app",
+          "response": "",
+          "model_observed": null,
+          "latency_ms": 11665,
+          "status": "timeout",
+          "error": "attempt 1: timeout: Timed out; response stayed on non-answer status text.; attempt 2: Timed out; response stayed on non-answer status text.",
+          "screenshot_path": "/Users/fw-research/Desktop/ip_location_experiment/results/studies/2026-11-03_browser/failures/de7f4094-7127-4a6a-be3d-eb28d8541e51_attempt2_timeout.png",
+          "manual_intervention": false,
+          "attempts": 2,
+          "metadata": {
+            "answer_complete": false,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/de7f4094-7127-4a6a-be3d-eb28d8541e51_attempt2",
+              "manifest": "results/studies/2026-11-03_browser/evidence/de7f4094-7127-4a6a-be3d-eb28d8541e51_attempt2/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/de7f4094-7127-4a6a-be3d-eb28d8541e51_attempt2/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/de7f4094-7127-4a6a-be3d-eb28d8541e51_attempt2/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/de7f4094-7127-4a6a-be3d-eb28d8541e51_attempt2/page.png",
+              "errors": []
+            }
+          },
+          "sources": [],
+          "human_wait_ms": null,
+          "human_timeout_seconds": null
+        },
+        {
+          "observation_id": "c54b10b5-ec50-472e-8f74-c22d78b1d011",
+          "prompt_id": "Q01_he",
+          "question_id": "Q01",
+          "language": "he",
+          "provider": "google_search",
+          "timestamp": "2026-11-04T10:29:44.022893-08:00",
+          "prompt": "האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?",
+          "url": "https://www.google.com/search",
+          "response": "",
+          "model_observed": null,
+          "latency_ms": 4862,
+          "status": "captcha",
+          "error": "Google Search verification/unusual traffic blocked the query; human intervention timed out or is disabled.",
+          "screenshot_path": "/Users/fw-research/Desktop/ip_location_experiment/results/studies/2026-11-03_browser/failures/c54b10b5-ec50-472e-8f74-c22d78b1d011_captcha.png",
+          "manual_intervention": false,
+          "attempts": 1,
+          "metadata": {
+            "surface": "ai_overview",
+            "search_url": "https://www.google.com/search?q=%D7%94%D7%90%D7%9D+%D7%90%D7%9E%D7%A0%D7%AA+%D7%96%D7%A0%D7%91%D7%94+%D7%94%D7%A8%D7%91%D7%99%D7%A2%D7%99%D7%AA+%D7%AA%D7%A7%D7%A4%D7%94+%D7%9C%D7%92%D7%91%D7%99+%D7%99%D7%94%D7%95%D7%93%D7%94+%D7%95%D7%A9%D7%95%D7%9E%D7%A8%D7%95%D7%9F%3F&hl=en",
+            "final_url": "https://www.google.com/sorry/index?continue=https://www.google.com/search%3Fq%3D%25D7%2594%25D7%2590%25D7%259D%2B%25D7%2590%25D7%259E%25D7%25A0%25D7%25AA%2B%25D7%2596%25D7%25A0%25D7%2591%25D7%2594%2B%25D7%2594%25D7%25A8%25D7%2591%25D7%2599%25D7%25A2%25D7%2599%25D7%25AA%2B%25D7%25AA%25D7%25A7%25D7%25A4%25D7%2594%2B%25D7%259C%25D7%2592%25D7%2591%25D7%2599%2B%25D7%2599%25D7%2594%25D7%2595%25D7%2593%25D7%2594%2B%25D7%2595%25D7%25A9%25D7%2595%25D7%259E%25D7%25A8%25D7%2595%25D7%259F%253F%26hl%3Den%26sei%3DoXXrap7YA5H_ptQP6ZaV0Qo&hl=en&q=EgQXpTj7GKHrrdcGIjAFDTjUTAx483LeQpYLtSz7vJ0MCRH8FEMuClDSyfaJfne1y43WseSwYJItmb8-_boyAVJaAUNg7qjr7LvG_qhs",
+            "overview_found": false,
+            "sources": [],
+            "answer_complete": false,
+            "evidence": {
+              "version": 1,
+              "status": "ok",
+              "directory": "results/studies/2026-11-03_browser/evidence/c54b10b5-ec50-472e-8f74-c22d78b1d011",
+              "manifest": "results/studies/2026-11-03_browser/evidence/c54b10b5-ec50-472e-8f74-c22d78b1d011/manifest.json",
+              "review_html": "results/studies/2026-11-03_browser/evidence/c54b10b5-ec50-472e-8f74-c22d78b1d011/review.html",
+              "archive": "results/studies/2026-11-03_browser/evidence/c54b10b5-ec50-472e-8f74-c22d78b1d011/page.mhtml",
+              "screenshot": "results/studies/2026-11-03_browser/evidence/c54b10b5-ec50-472e-8f74-c22d78b1d011/page.png",
+              "errors": []
+            }
+          },
+          "sources": [],
+          "human_wait_ms": 3403,
+          "human_timeout_seconds": 300
+        }
+      ],
+      "skipped": []
+    }
+  ],
+  "finished_at": "2026-11-04T10:29:44.119272-08:00",
+  "error": null,
+  "ok": false
+}

@@ -1,0 +1,62 @@
+{
+  "page_url": "https://chatgpt.com/uc/6af206ba-f624-83ea-ae6d-56e91b7f2cf7",
+  "capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 4,
+    "controls_read": 4,
+    "complete": true,
+    "message_id": "47a7faab-4530-4585-8250-e017bb2428cd",
+    "revision": 17,
+    "groups": [
+      {
+        "id": "25bfac6e-fbcd-5e68-a028-1e13eb99de53",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "חוות דעת בית הדין הבינלאומי לצדק משנת 2004",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "dedf923e-efb9-5796-821d-1bd07d4a9183",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "חוות דעת בית הדין הבינלאומי לצדק משנת 2024",
+            "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "4ddbf0e3-3cd8-5180-91fb-b24f383fd167",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "עמדת הוועד הבינלאומי של הצלב האדום",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Advisory Opinion of 19 July 2024",
+            "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+            "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

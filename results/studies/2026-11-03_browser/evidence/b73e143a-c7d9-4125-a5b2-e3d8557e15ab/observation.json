@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "observation_id": "b73e143a-c7d9-4125-a5b2-e3d8557e15ab",
+  "provider": "google_search",
+  "captured_at": "2026-11-09T17:32:47.212224+00:00",
+  "page_url": "chrome-error://chromewebdata/",
+  "prompt": "האם אמנת זנבה הרביעית תקפה לגבי יהודה ושומרון?",
+  "response": "",
+  "sources": [],
+  "status": "error",
+  "source_capture": {}
+}

@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "provider": "gemini",
+  "observation_id": "de7f4094-7127-4a6a-be3d-eb28d8541e51",
+  "files": {
+    "page.html": "25735fbf7ca23790cfca12f21958f8b9f7e6a75a4611e21f2c3f957d5a4fcc08",
+    "page.mhtml": "d8159a36276126a68ceb807a4379fd7c309c374c6cce3f4d66e47a11f752478d",
+    "page.png": "0de9614392078e74e1e22a311c4b03b5386ec1669af054ed9a52802e82880bce",
+    "answer.html": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "answer.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "observation.json": "3bac497e26caf2db087d1ffe1db804fff2feb6b7e582f8f33df594d4b3b015c1",
+    "source-evidence.json": "6e1e75e4e5d5f8864b1e330fd4782563066af0b90a12a4dcc8546694809a7ccb",
+    "review.html": "6572dd669af40b9d765da5532e6cbfd4ee7a21c5312f7628203b15cccf999529"
+  }
+}

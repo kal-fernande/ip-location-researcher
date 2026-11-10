@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "observation_id": "cfb0ccb7-4de6-4283-90fe-bfd905333941",
+  "provider": "google_search",
+  "captured_at": "2026-11-03T21:11:28.792052+00:00",
+  "page_url": "https://www.google.com/search?q=Does+the+Fourth+Geneva+Convention+apply+to+Judea+and+Samaria%3F&hl=en&sei=9U3qaoaiHOW4mLQP7YnYgQo",
+  "prompt": "Does the Fourth Geneva Convention apply to Judea and Samaria?",
+  "response": "Whether the Fourth Geneva Convention applies to Judea and Samaria (the West Bank) is a subject of long-standing legal and political debate, with contrasting views held by the State of Israel versus the international community and international bodies. \nICRC\n +1\nThe International Community and Courts' Position\nUniversal Consensus & Rulings: The vast majority of the international community, the United Nations Security Council and General Assembly, the International Committee of the Red Cross (ICRC), and the International Court of Justice (ICJ) maintain that the Fourth Geneva Convention does apply to the territories captured by Israel in 1967, including Judea and Samaria. \nReddit\n·r/IsraelPalestine\n +1\nBasis of the Argument: These bodies argue that under international law (specifically Common Article 2 of the Geneva Conventions), the convention applies to all cases of declared war or any other armed conflict between two or more High Contracting Parties, as well as to the partial or total occupation of the territory of a High Contracting Party—regardless of whether the state of occupation is recognized. From this perspective, the prohibition in Article 49 against an occupying power transferring parts of its own civilian population into the territory it occupies renders Israeli settlements in the area illegal. \nWikipedia\n +3\nThe Israeli Government's Position\nThe \"Missing Sovereign\" Argument: The Israeli government has traditionally argued that the Fourth Geneva Convention is not automatically or de jure applicable to Judea and Samaria because the territories were not under the recognized sovereign legal sovereignty of any state prior to 1967 (Jordan's annexation was recognized by very few countries). Under this view, the law of \"belligerent occupation\" presupposes ousting a legitimate, recognized sovereign, which Jordan did not qualify as. \nWelcome to the United Nations\n +1\nDe Facto Humanitarian Application: While disputing the de jure (formal legal) applicability of the convention, successive Israeli governments have stated that they voluntarily apply the de facto humanitarian provisions of the Fourth Geneva Convention in the territory. \nICRC\nPublic and Forum Discussions\nOpinions on online platforms and legal forums mirror this deep division: some participants emphasize international consensus and ICJ opinions regarding occupation and unlawful settlement, while others argue that the territory is legally \"disputed\" rather than \"occupied\" due to the lack of a prior sovereign and the defensive nature of the 1967 war. \nReddit\n·r/IsraelPalestine\n +1\nWould you like to explore the specific arguments of Article 49 or how international court advisory opinions have addressed this issue?",
+  "sources": [
+    {
+      "title": "ICRC",
+      "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories"
+    },
+    {
+      "title": "Reddit · r/IsraelPalestine",
+      "url": "https://www.reddit.com/r/IsraelPalestine/comments/1ew0b6o/the_4th_geneva_convention_prohibition_on/"
+    },
+    {
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fourth_Geneva_Convention"
+    },
+    {
+      "title": "Welcome to the United Nations",
+      "url": "https://www.un.org/unispal/document/auto-insert-200116/"
+    },
+    {
+      "title": "Israel's new measures violate both the Geneva Convention and ..., Video, watch on Facebook",
+      "url": "https://www.facebook.com/trtworld/posts/israels-new-measures-violate-both-the-geneva-convention-and-oslo-accords-as-it-m/1377508797744691/"
+    },
+    {
+      "title": "What is the Fourth Geneva Convention? Does Israel have to ...",
+      "url": "https://www.quora.com/What-is-the-Fourth-Geneva-Convention-Does-Israel-have-to-abide-by-it-regarding-settlements-in-Palestine"
+    }
+  ],
+  "status": "ok",
+  "source_capture": {
+    "controls_found": 1,
+    "controls_read": 1,
+    "complete": true,
+    "redirects": [
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAESnQEBxCJF15jhhE8bmpeWcFWhBON9DKoityfycUarGWri9i6YIa0gkhB0d0NjrW-CpfaUn4jmDy4sK-k-YFtMoMC6YNYDe8QVZsSPPDYrj1mjBVLDRxTMLvZL2u7nB4ozkUJw87h-JrlrSEd281ibA5LE-Scic4lQEG-2bhJ7vJXvMeNk0kGCgBOt4KscSsnEYFquYNEBz76zc_0izlPm",
+        "source_url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories"
+      },
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAESoAEBxCJF17IdHlGAsQmMkL1o9Fx-KuD5YrcNmzl3EGpSWAFfZziGjuNGOyeBwBfFUwVxQFmoMuS64kKeHjoJzu2ODy036QapN_excSoSdktY9lbU7xU6hcQZg9SnU9v6rBL8YGudW9v2gNVnWrQCZeAotkIhwcMpNKUyswj_gQDsOdGgncLazirsdM4N7JeDanNqtPFWBrKH_x7_gV6c1pXh",
+        "source_url": "https://www.reddit.com/r/IsraelPalestine/comments/1ew0b6o/the_4th_geneva_convention_prohibition_on/"
+      },
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAEScwHEIkXXKbKCVGUayR--NlhamHFZaguLPVUFDdDQH4pM4Xdjt-3lq4ZL5fQmwrW1jr7IuUcErAdTKMFTR-pzqlJYTmrah25WWokUjyKPHnS7WSkK9IDDlww6deQ7ACQUVN9H_QN5wmfBOIrOeeas5l7ZCxQ",
+        "source_url": "https://en.wikipedia.org/wiki/Fourth_Geneva_Convention"
+      },
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAESdAHEIkXX8H097-mSlilC68VBWeUqjoGUKDExxpI8O4ImMk1-WvSA2VnqZfIuoKA8UloMqwZhbHmzrzl1I0l3fFrVEIbq67YzlYojMfUzdVxdYGcrVaPX-InCPYdkfuqDXmMno6O7OeWTZPDL7bu2BfhAPnsL",
+        "source_url": "https://www.un.org/unispal/document/auto-insert-200116/"
+      },
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAESyAEBxCJF19R-O-9MkMAmxkNEaGRLXJLjPRjV0xgoOiNKX78F6kgroSxx69yMDG7_Ax3ezFtzqnrV6V8nlwYojaltcJx5xFYLWnRXH6qZcgDRPRpmRe4J2tPu2pNlziiN5PbWFNPSLSVb1L6KR_L45uSs8pNtMzBV77hRif7zBbeBjTJ3xwKrArdcE-CJl3dlwRNMwDppMLyDR024WFdeQ6N1IMfJPNJSSli41BbnazsxAwiAIvnkeWHcjU4N5W6Y_t8_1YRgDgS0nA",
+        "source_url": "https://www.facebook.com/trtworld/posts/israels-new-measures-violate-both-the-geneva-convention-and-oslo-accords-as-it-m/1377508797744691/"
+      },
+      {
+        "redirect_url": "https://www.google.com/goto?url=CAESugEBxCJF18nFF9_3cse9GA2faM24AbuQVdB-A8QovuyV_PP67_NGxoD4P9C8sEfmDfhB6nxVRoxyhMzDcfvi0Xr_prbjzSkIRf3cIoGi7rSHVO1tkmISiJNgVte5n-l29scJwZ_x5fstjLapAd2h_tPzYRTqCb7JR-lijwyaCefocQAloB9TCOsaf5gdoAJjmWQXy8Hejr4uj_jJ-U7SX5RAQVzRsxeWnuZCwU2dOCp5agbNEu2Y7KlCcVw",
+        "source_url": "https://www.quora.com/What-is-the-Fourth-Geneva-Convention-Does-Israel-have-to-abide-by-it-regarding-settlements-in-Palestine"
+      }
+    ],
+    "links": [
+      {
+        "title": "ICRC",
+        "url": "https://www.google.com/goto?url=CAESnQEBxCJF15jhhE8bmpeWcFWhBON9DKoityfycUarGWri9i6YIa0gkhB0d0NjrW-CpfaUn4jmDy4sK-k-YFtMoMC6YNYDe8QVZsSPPDYrj1mjBVLDRxTMLvZL2u7nB4ozkUJw87h-JrlrSEd281ibA5LE-Scic4lQEG-2bhJ7vJXvMeNk0kGCgBOt4KscSsnEYFquYNEBz76zc_0izlPm"
+      },
+      {
+        "title": "Reddit · r/IsraelPalestine",
+        "url": "https://www.google.com/goto?url=CAESoAEBxCJF17IdHlGAsQmMkL1o9Fx-KuD5YrcNmzl3EGpSWAFfZziGjuNGOyeBwBfFUwVxQFmoMuS64kKeHjoJzu2ODy036QapN_excSoSdktY9lbU7xU6hcQZg9SnU9v6rBL8YGudW9v2gNVnWrQCZeAotkIhwcMpNKUyswj_gQDsOdGgncLazirsdM4N7JeDanNqtPFWBrKH_x7_gV6c1pXh"
+      },
+      {
+        "title": "Wikipedia",
+        "url": "https://www.google.com/goto?url=CAEScwHEIkXXKbKCVGUayR--NlhamHFZaguLPVUFDdDQH4pM4Xdjt-3lq4ZL5fQmwrW1jr7IuUcErAdTKMFTR-pzqlJYTmrah25WWokUjyKPHnS7WSkK9IDDlww6deQ7ACQUVN9H_QN5wmfBOIrOeeas5l7ZCxQ"
+      },
+      {
+        "title": "Welcome to the United Nations",
+        "url": "https://www.google.com/goto?url=CAESdAHEIkXX8H097-mSlilC68VBWeUqjoGUKDExxpI8O4ImMk1-WvSA2VnqZfIuoKA8UloMqwZhbHmzrzl1I0l3fFrVEIbq67YzlYojMfUzdVxdYGcrVaPX-InCPYdkfuqDXmMno6O7OeWTZPDL7bu2BfhAPnsL"
+      },
+      {
+        "title": "Israel's new measures violate both the Geneva Convention and ..., Video, watch on Facebook",
+        "url": "https://www.google.com/goto?url=CAESyAEBxCJF19R-O-9MkMAmxkNEaGRLXJLjPRjV0xgoOiNKX78F6kgroSxx69yMDG7_Ax3ezFtzqnrV6V8nlwYojaltcJx5xFYLWnRXH6qZcgDRPRpmRe4J2tPu2pNlziiN5PbWFNPSLSVb1L6KR_L45uSs8pNtMzBV77hRif7zBbeBjTJ3xwKrArdcE-CJl3dlwRNMwDppMLyDR024WFdeQ6N1IMfJPNJSSli41BbnazsxAwiAIvnkeWHcjU4N5W6Y_t8_1YRgDgS0nA"
+      },
+      {
+        "title": "1:00",
+        "url": "https://www.facebook.com/trtworld/posts/israels-new-measures-violate-both-the-geneva-convention-and-oslo-accords-as-it-m/1377508797744691/"
+      },
+      {
+        "title": "What is the Fourth Geneva Convention? Does Israel have to ...",
+        "url": "https://www.google.com/goto?url=CAESugEBxCJF18nFF9_3cse9GA2faM24AbuQVdB-A8QovuyV_PP67_NGxoD4P9C8sEfmDfhB6nxVRoxyhMzDcfvi0Xr_prbjzSkIRf3cIoGi7rSHVO1tkmISiJNgVte5n-l29scJwZ_x5fstjLapAd2h_tPzYRTqCb7JR-lijwyaCefocQAloB9TCOsaf5gdoAJjmWQXy8Hejr4uj_jJ-U7SX5RAQVzRsxeWnuZCwU2dOCp5agbNEu2Y7KlCcVw"
+      }
+    ]
+  }
+}

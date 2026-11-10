@@ -1,0 +1,118 @@
+{
+  "page_url": "https://chatgpt.com/uc/6af204d7-e6d4-83ea-aebc-b361c3e3656e",
+  "capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 8,
+    "controls_read": 8,
+    "complete": true,
+    "message_id": "044f8d48-c328-40df-8c35-0fb5b30eb769",
+    "revision": 42,
+    "groups": [
+      {
+        "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "ICJ Advisory Opinion on the Legal Consequences of the Construction of a Wall in the OPT - ICJ document",
+            "url": "https://www.un.org/unispal/document/auto-insert-204033/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "The diminishing status of international law in the decisions of the Israeli Supreme Court concerning the Occupied Territories",
+            "url": "https://academic.oup.com/icon/article/18/3/767/5906711?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Mara'abe v Prime Minister - vLex Israel",
+            "url": "https://il.vlex.com/vid/mara-abe-v-prime-868582728?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "965e8727-dd6e-5984-99ee-d31eb3b63259",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Advisory Opinion of 19 July 2024",
+            "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+            "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "f6f56486-f9e8-5487-bada-8d928fdfc15f",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "FAQ: Our work in Israel and the occupied territories",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+          },
+          {
+            "title": "International Law of Belligerent Occupation",
+            "url": "https://doi.org/10.1093/oso/9780190696023.003.0004?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "25bfac6e-fbcd-5e68-a028-1e13eb99de53",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICJ, 2004 Wall Advisory Opinion",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "dedf923e-efb9-5796-821d-1bd07d4a9183",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICJ, 2024 Advisory Opinion",
+            "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "3e979f04-30fe-57ef-933b-57fafb04a40e",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICJ discussion of Israel's legal position",
+            "url": "https://www.un.org/unispal/document/auto-insert-204033/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "4ddbf0e3-3cd8-5180-91fb-b24f383fd167",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICRC explanation of the legal framework",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

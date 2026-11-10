@@ -1,0 +1,54 @@
+{
+  "page_url": "https://gemini.google.com/app/9207d799d148dfbb",
+  "capture": {
+    "controls_found": 4,
+    "controls_read": 4,
+    "complete": true,
+    "groups": [
+      {
+        "id": "inline-0",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "How does law protect in war? - ICRC ICJ/Israel, Separation Wall/Security Fence in the Occupied “] affirmed “once more that the Geneva Convention relative to the Protection of Civilian Persons in Time of War, of 12 August 1949, is applicable to the Arab ter...”",
+            "url": "https://casebook.icrc.org/case-study/icjisrael-separation-wallsecurity-fence-occupied-palestinian-territory#:~:text=%5D%20affirmed%20%E2%80%9Conce%20more%20that%20the%20Geneva,by%20Israel%20since%201967%2C%20including%20Jerusalem%E2%80%9D.%20%5B"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-1",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Wikipedia Legality of Israeli settlements - Wikipedia “In a 2024 advisory opinion by the International Court of Justice (ICJ) ... international law\", and against Article 49 of the Fourth Geneva Convention.”",
+            "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-2",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Wikipedia Legality of Israeli settlements - Wikipedia “ In practice, Israel does not accept that the Fourth Geneva Convention applies de jure, but has stated that on humanitarian issues it will govern itself de fact...”",
+            "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements#:~:text=In%20practice%2C%20Israel%20does%20not%20accept%20that,its%20provisions%2C%20without%20specifying%20which%20these%20are."
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-3",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “( GC I-IV, Arts 2; GC IV, Art. 6) * Are Convention IV's provisions on occupied territories only applicable to occupation of a territory of a “High Contracting P...”",
+            "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=(%20GC%20I%2DIV%2C%20Arts%202%3B%20GC%20IV%2C,applicable%20to%20the%20West%20Bank%20and%20Gaza%3F"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

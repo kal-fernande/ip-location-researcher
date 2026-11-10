@@ -1,0 +1,29 @@
+---
+description: Sparse bold in technical Markdown — not for arbitrary emphasis
+globs: docs/**/*.md,notes/**/*.md,results/**/*.md,AGENTS.md,CLAUDE.md,README.md
+alwaysApply: false
+---
+
+# Technical document emphasis
+
+In technical Markdown in this repo:
+
+- Do **not** bold arbitrary words or phrases for stress (`**Python**`, `**important**`, `**do not**`).
+- Structure emphasis with headings, lists, and plain wording.
+- Bold is fine for Markdown headings (`## …`) — that is heading syntax, not inline hype.
+- Inline bold is allowed only for rare load-bearing labels, e.g. a short defined term at the point of definition in a math/methods note (same spirit as sparse emphasis in academic prose).
+- Prefer `code` spans for commands, paths, and UI labels over bold.
+
+## Example
+
+Bad:
+
+```markdown
+Give **Python**, the program that runs the study, Full Disk Access.
+```
+
+Good:
+
+```markdown
+Give Python, the program that runs the study, Full Disk Access.
+```

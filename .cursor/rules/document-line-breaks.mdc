@@ -1,0 +1,32 @@
+---
+description: Semantic line breaks in technical Markdown (one sentence per line)
+globs: docs/**/*.md,notes/**/*.md,results/**/*.md,AGENTS.md,CLAUDE.md,README.md
+alwaysApply: false
+---
+
+# Technical document line breaks
+
+When editing **technical** Markdown in this repo (`docs/`, `notes/`, result indexes, README/AGENTS):
+
+- Put **one sentence per line** (semantic line breaks).
+- Do **not** hard-wrap mid-sentence to a column width (e.g. do not end a line with `in` and start the next with `Documents.`).
+- A new line may start a new sentence, a list item, a heading, or a blank line between blocks.
+- Keep Markdown links and pathnames on one line when they belong to one sentence, even if the line is long.
+
+When writing **ordinary prose** (email drafts, narrative notes the user asked for as flowing paragraphs, chat replies that are not project docs): use normal paragraphs; this rule does not apply.
+
+## Example
+
+Bad (wrap mid-sentence):
+
+```markdown
+macOS may block automatic runs from reading a project on your Desktop or in
+Documents. Give Python Full Disk Access.
+```
+
+Good (sentence boundaries):
+
+```markdown
+macOS may block automatic runs from reading a project on your Desktop or in Documents.
+Give Python Full Disk Access.
+```

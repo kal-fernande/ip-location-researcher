@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "provider": "chatgpt",
+  "observation_id": "dcb563de-2bf4-48a4-9d1d-e0774fe7a893",
+  "files": {
+    "page.html": "34d688545094d2bcdf0d4f9a0e17fce2ab41ca63ddc476db9dab9bfd0862089c",
+    "page.mhtml": "22c9d1821f14960bc517ef692fe259f425076d8fa5b11544bbc8d1a144db6220",
+    "page.png": "940da90fa9a929a0604a510154ac840d383e8d9615e1f2ce942bdd25b6a5b987",
+    "answer.html": "1ef0de186bade6dde61dc32c3753a4ad1d9968e33f054a067200e92eb55653d6",
+    "answer.txt": "bb0ca33ee849098e2249e186507b77e5d9beec3c3d550265760c00b477c75ab8",
+    "observation.json": "058cb5c6d1818cbe4e6443380e0400d80da48a760223ccf81f41387e3d8b1f8f",
+    "source-evidence.json": "1873f680ca7dcd6c3ddf565163f4a330a373878a5e75830e191468c8328ea987",
+    "review.html": "ef7508f0e12fffe56dd89a6afe2ae4787a9e573ab0445feea6bd469d73a7f985"
+  }
+}

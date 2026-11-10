@@ -1,0 +1,118 @@
+{
+  "page_url": "https://chatgpt.com/uc/6aea4e68-fdc0-83ea-8d81-74d287b07677",
+  "capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 9,
+    "controls_read": 8,
+    "complete": false,
+    "message_id": "48697de5-b88a-4534-90a4-a8133903921e",
+    "revision": 34,
+    "groups": [
+      {
+        "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "ICJ Advisory Opinion on the Legal Consequences of the Construction of a Wall in the OPT - ICJ document",
+            "url": "https://www.un.org/unispal/document/auto-insert-204033/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Legal Consequences Arising from the Policies and Practices of Isr. in the Occupied Palestinian Territory, Including East Jerusalem (Advisory Opinion) (I.C.J.) | International Legal Materials",
+            "url": "https://www.cambridge.org/core/journals/international-legal-materials/article/legal-consequences-arising-from-the-policies-and-practices-of-isr-in-the-occupied-palestinian-territory-including-east-jerusalem-advisory-opinion-icj/CA95E86EF0579C55D63B50D3B13D7EA0?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Summary of the ICJ Advisory Opinion- Legal Consequences arising from the Policies and Practices of Israel in the Occupied Palestinian Territory, including East Jerusalem",
+            "url": "https://www.un.org/unispal/document/summary-of-the-icj-order-icj-19jul24/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "965e8727-dd6e-5984-99ee-d31eb3b63259",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "FAQ: Our work in Israel and the occupied territories",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "f6f56486-f9e8-5487-bada-8d928fdfc15f",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Microsoft Word",
+            "url": "https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/131/1577.pdf?utm_source=chatgpt.com"
+          },
+          {
+            "title": "The Application of Israeli Law to the West Bank: De Facto Annexation?",
+            "url": "https://www.inss.org.il/publication/the-application-of-israeli-law-to-the-west-bank-de-facto-annexation/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "25bfac6e-fbcd-5e68-a028-1e13eb99de53",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICJ 2004 Advisory Opinion – Legal Consequences of the Construction of a Wall",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "dedf923e-efb9-5796-821d-1bd07d4a9183",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICJ 2024 Advisory Opinion – Legal Consequences arising from Israel's Policies and Practices",
+            "url": "https://www.cambridge.org/core/journals/international-legal-materials/article/legal-consequences-arising-from-the-policies-and-practices-of-isr-in-the-occupied-palestinian-territory-including-east-jerusalem-advisory-opinion-icj/CA95E86EF0579C55D63B50D3B13D7EA0?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "3e979f04-30fe-57ef-933b-57fafb04a40e",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "UN document discussing Israel's legal arguments regarding the Fourth Geneva Convention",
+            "url": "https://www.un.org/unispal/document/auto-insert-200116/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "4ddbf0e3-3cd8-5180-91fb-b24f383fd167",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "ICRC – FAQ on Israel and the Occupied Territories",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}
