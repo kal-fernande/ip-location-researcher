@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "provider": "chatgpt",
+  "observation_id": "check_20261113_233625_US_chatgpt_emergency",
+  "files": {
+    "page.html": "ac58326c4e9fdabe3bdd8acc8f3678e0836cd8d6186930f84beaf49782502968",
+    "page.mhtml": "c5287bd7489d2c1c5195499b5a65659e4a72575a02e538f97200969e940fa482",
+    "page.png": "524c4919cb2547c3c0ad6ab668d99a6bcc3248799ab1f63b0e4f776644b98052",
+    "answer.html": "3ccb6059fffddfb0d3fda4fb5ccc342ad1f1a75281baaf4b1d6833004b0e967d",
+    "answer.txt": "a5ccb1c538e34663a658b1be28b16455ee5285efb10e6f1d4caba1f69ec9782b",
+    "observation.json": "bc8236f262ffe24193e786a48f4cef42eb4e7dcbeac957c02bd69466a66dc96a",
+    "source-evidence.json": "c6fe88ea99d02047fdb3be879e24a0297213201f4465907c54e06016cb66cdb7",
+    "review.html": "9f133b5cf27ef26808e98634a13963512bff3be7e725f1dcb252e3c0ef312357"
+  }
+}

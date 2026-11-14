@@ -1,0 +1,34 @@
+Whether the Fourth Geneva Convention applies to Judea and Samaria (commonly referred to as the West Bank) is a long-standing question of international law that has generated two fundamentally contrasting positions.
+
+The overwhelming international consensus, alongside rulings by major international bodies, holds that the Convention applies. Conversely, the government of Israel and various legal scholars maintain that it does not formally apply de jure, though Israel has historically applied its humanitarian provisions de facto.   
+Wikipedia
+
+The International Consensus and Judicial Position
+
+The vast majority of the international community, the United Nations Security Council and General Assembly, the International Committee of the Red Cross (ICRC), and the International Court of Justice (ICJ) maintain that the Fourth Geneva Convention is fully applicable to Judea and Samaria.
+
+The Basis for Application: Article 2 of the Fourth Geneva Convention states that the treaty applies to all cases of declared war or any other armed conflict arising between two or more High Contracting Parties, even if a state of war is not recognized, as well as to cases of partial or total occupation of a territory.   
+Wikipedia
+
+The "Missing Reversioner" Argument: Proponents of this view argue that because Jordan entered and controlled the West Bank following the 1948 Arab-Israeli War (and subsequently relinquished claims to it in 1988), and because the territory was captured by Israel during an international armed conflict in 1967, it fits the classic definition of a belligerent occupation.
+
+International Rulings: In its 2004 Advisory Opinion on the West Bank barrier and its 2024 Advisory Opinion on Israeli presence in the Palestinian territories, the International Court of Justice reaffirmed that the Fourth Geneva Convention is applicable to the occupied Palestinian territories, including the West Bank. A primary legal consequence of this view is that Article 49(6)—which prohibits an occupying power from deporting or transferring parts of its own civilian population into occupied territory—renders Israeli settlements illegal under international law.   
+Amnesty International
+
+The Israeli Legal Position
+
+The Israeli government has consistently argued that the Fourth Geneva Convention does not formally (de jure) apply to Judea and Samaria for several distinct legal reasons:   
+Wikipedia
+
+The "Missing Reversioner" Theory: Prominent Israeli legal scholars (such as former Supreme Court President Meir Shamgar and Professor Yehuda Blum) have argued that the Convention’s phrasing regarding "occupied territory of a High Contracting Party" implies that the territory must have belonged to a recognized, sovereign state prior to the occupation. Because Jordan's annexation of the West Bank in 1950 was recognized by only a couple of nations, and because Jordan's sovereignty was widely disputed, Israel argued that Jordan was not the lawful sovereign. Therefore, according to this interpretation, the territory cannot be classified as "occupied territory" in the traditional sense of interstate warfare.   
+How does law protect in war? - ICRC
+
+Humanitarian Intent vs. Political Intent: Israel has argued that the Fourth Geneva Convention was designed to prevent atrocities akin to those committed during World War II—such as forced population transfers, mass expulsions, and deliberate colonizing regimes intended to subjugate local populations—rather than voluntary civilian settlement in territories whose sovereignty was legally open or disputed under prior frameworks.
+
+De Facto Application: While disputing the formal de jure applicability of the Convention, successive Israeli governments have stated that they voluntarily observe the humanitarian provisions of the Convention in practice (de facto). Furthermore, the Israeli Supreme Court has routinely reviewed military actions in the territory through the lens of customary international humanitarian law and the Hague Regulations.   
+Wikipedia
+
+Summary Comparison
+Perspective	Status of Convention	Legal Reasoning	View on Settlements
+International Community & ICJ	Fully Applicable (De Jure)	Triggered by armed conflict and military occupation of territory between High Contracting Parties.	Violation of Article 49(6) regarding the transfer of civilian populations into occupied land.
+State of Israel	Not Applicable De Jure; Followed De Facto on humanitarian grounds	Absence of a prior recognized sovereign ("missing reversioner") means standard occupation laws do not strictly fit.	Voluntary civil presence does not constitute forced "transfer" under the strict intent of the Convention.

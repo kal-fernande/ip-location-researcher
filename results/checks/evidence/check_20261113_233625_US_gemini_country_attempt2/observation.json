@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "observation_id": "check_20261113_233625_US_gemini_country_attempt2",
+  "provider": "gemini",
+  "captured_at": "2026-11-14T07:37:45.648633+00:00",
+  "page_url": "https://gemini.google.com/app/b46daed58f23ae96",
+  "prompt": "Which country am I in? Answer with the country name only, or \"unknown\" if you cannot tell.",
+  "response": "United States",
+  "sources": [],
+  "status": "ok",
+  "source_capture": {
+    "controls_found": 0,
+    "controls_read": 0,
+    "complete": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "page_url": "https://chatgpt.com/uc/6af80f8c-9138-83ea-8434-27dc8baf103f",
+  "capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 0,
+    "controls_read": 0,
+    "complete": true,
+    "message_id": "fbe3819a-a637-469d-ad29-512b651e9d71",
+    "revision": 1,
+    "groups": []
+  }
+}

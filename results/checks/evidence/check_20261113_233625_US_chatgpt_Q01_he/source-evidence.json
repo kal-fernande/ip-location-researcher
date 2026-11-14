@@ -1,0 +1,63 @@
+{
+  "page_url": "https://chatgpt.com/uc/6af80fa6-60d0-83ea-b1c7-5ce4cc69df52",
+  "capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 3,
+    "controls_read": 3,
+    "complete": true,
+    "message_id": "604918cb-f1cc-4b31-9aa8-7624822c955d",
+    "revision": 20,
+    "groups": [
+      {
+        "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "FAQ: Our work in Israel and the occupied territories",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?linkId=100000222296797&utm_source=chatgpt.com"
+          },
+          {
+            "title": "IHL on the Occupying Power's responsibilities in the Occupied Palestinian territory",
+            "url": "https://www.icrc.org/en/document/ihl-occupying-power-responsibilities-occupied-palestinian-territories?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Advisory Opinion of 19 July 2024",
+            "url": "https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/186/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Summary of the Advisory Opinion of 22 October 2025",
+            "url": "https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/196/196-20251022-sum-01-00-en.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "965e8727-dd6e-5984-99ee-d31eb3b63259",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Question of the Observance of the Fourth Geneva Convention of 1949 in Occupied Palestinian Territory",
+            "url": "https://www.un.org/unispal/document/auto-insert-200116/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "ICJ/Israel, Separation Wall/Security Fence in the Occupied Palestinian Territory | How does law protect in war?",
+            "url": "https://casebook.icrc.org/print/pdf/node/20762?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

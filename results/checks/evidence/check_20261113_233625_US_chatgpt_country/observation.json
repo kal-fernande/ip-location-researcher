@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "observation_id": "check_20261113_233625_US_chatgpt_country",
+  "provider": "chatgpt",
+  "captured_at": "2026-11-14T07:36:41.440899+00:00",
+  "page_url": "https://chatgpt.com/uc/6af80f83-2370-83ea-ac8a-c2532e465363",
+  "prompt": "Which country am I in? Answer with the country name only, or \"unknown\" if you cannot tell.",
+  "response": "United States",
+  "sources": [],
+  "status": "ok",
+  "source_capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 0,
+    "controls_read": 0,
+    "complete": true,
+    "message_id": "29948a81-a3af-42ce-a05b-1d4cbd85ad30",
+    "revision": 1,
+    "groups": []
+  }
+}

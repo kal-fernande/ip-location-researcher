@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "provider": "gemini",
+  "observation_id": "check_20261113_233625_US_gemini_emergency",
+  "files": {
+    "page.html": "4ffdfe3d3e105daf8fb9cc4e51b130b2355c56b7d94d70ab9a2bae0f59d7f99e",
+    "page.mhtml": "e454603c026246bbcb984d0d7ef71457374105d32d2e95ec6c7cd6e90520c69d",
+    "page.png": "3fdfba1592f745fd7ac8f0f532885d537493a738f9d258e38581887919a14335",
+    "answer.html": "e4b0dfa4946c8277dab0914a2ed5cb3547a55ee0d5ac43917d21a189251118de",
+    "answer.txt": "a5ccb1c538e34663a658b1be28b16455ee5285efb10e6f1d4caba1f69ec9782b",
+    "observation.json": "fc634389af47df999282962c60ac0df44ab662bb11d38736b5ec054ce5248155",
+    "source-evidence.json": "a5129c803c93222ac67eebae6998644c4231fb00adc91be31263c3bcda36b47c",
+    "review.html": "796b44416312fcbae491d43235ecec0075bae89e9e8e2b2dff77e4f32ee6f1e8"
+  }
+}

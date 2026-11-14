@@ -91,9 +91,11 @@ PROVIDER_SELECTORS = {
             "textarea",
         ],
         "send": [
-            "button[aria-label*='Send']",
-            "button[aria-label*='send']",
             "button.send-button",
+            "button[data-test-id='send-button']",
+            "button[aria-label='Send message' i]",
+            "button[aria-label='Send' i]",
+            "button[aria-label='Submit' i]",
         ],
         "stop": [
             "button[aria-label*='Stop']",
@@ -417,6 +419,56 @@ def _fill_prompt(locator, prompt: str):
     else:
         locator.click()
         locator.fill(prompt)
+
+
+def _submit_prompt(page, prompt_box, provider: str) -> None:
+    selectors = PROVIDER_SELECTORS[provider]
+    if provider != "gemini":
+        send = _first_visible(page, selectors["send"], timeout_ms=1200)
+        if send is not None:
+            send.click()
+        else:
+            prompt_box.press("Enter")
+        return
+
+    # Gemini's rich editor can accept a fill before its Send control updates.
+    # A real key event submits from the editor without relying on that control.
+    responses_before = page.locator("model-response").count()
+    queries_before = page.locator("user-query").count()
+    original_text = prompt_box.inner_text().strip()
+
+    def wait_for_submission():
+        try:
+            page.wait_for_function(
+                """({responses, queries}) =>
+                    document.querySelectorAll('user-query').length > queries ||
+                    document.querySelectorAll('model-response').length > responses ||
+                    [...document.querySelectorAll('button')].some(button =>
+                        button.getAttribute('aria-label')?.toLowerCase().startsWith('stop') &&
+                        button.getClientRects().length > 0)""",
+                arg={"responses": responses_before, "queries": queries_before}, timeout=3000,
+            )
+            return True
+        except PlaywrightTimeoutError:
+            return False
+
+    prompt_box.press("Enter")
+    if wait_for_submission():
+        return
+    # Hydration replaces the editor even when the question was never sent.
+    # Re-read the current locator; disappearance/clearing alone is not proof.
+    if prompt_box.inner_text(timeout=5000).strip() != original_text:
+        raise RuntimeError("Gemini submission could not be confirmed; the editor changed. Refusing to send a second question.")
+    # Only fall back while the unsent text remains. Never match Send feedback,
+    # or click a disabled control and spend the whole answer timeout waiting.
+    enabled = [selector + ":not([disabled]):not([aria-disabled='true'])" for selector in selectors["send"]]
+    send = _first_visible(page, enabled, timeout_ms=1200)
+    if send is not None:
+        send.click(timeout=5000)
+        if wait_for_submission():
+            return
+    raise RuntimeError("Gemini did not submit the prompt: the text is still in the editor and no response started.")
+
 
 def _latest_response(page, selectors: list[str]):
     for sel in selectors:
@@ -771,11 +823,7 @@ def _collect_browser_once(
 
             _dismiss_cookie_banners(page)  # a late banner can cover the prompt box
             _fill_prompt(prompt_box, prompt)
-            send = _first_visible(page, selectors["send"], timeout_ms=1200)
-            if send is not None:
-                send.click()
-            else:
-                prompt_box.press("Enter")
+            _submit_prompt(page, prompt_box, provider)
 
             time.sleep(browser_cfg.get("pause_after_submit_seconds", 2))
 

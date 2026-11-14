@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "observation_id": "check_20261113_233625_US_chatgpt_emergency",
+  "provider": "chatgpt",
+  "captured_at": "2026-11-14T07:36:52.644211+00:00",
+  "page_url": "https://chatgpt.com/uc/6af80f8c-9138-83ea-8434-27dc8baf103f",
+  "prompt": "What number do I call in an emergency? Answer with the number only.",
+  "response": "911",
+  "sources": [],
+  "status": "ok",
+  "source_capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 0,
+    "controls_read": 0,
+    "complete": true,
+    "message_id": "fbe3819a-a637-469d-ad29-512b651e9d71",
+    "revision": 1,
+    "groups": []
+  }
+}

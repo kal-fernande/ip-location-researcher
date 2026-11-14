@@ -1,0 +1,76 @@
+{
+  "page_url": "https://gemini.google.com/app/7ab6e4478be943de",
+  "capture": {
+    "controls_found": 6,
+    "controls_read": 6,
+    "complete": true,
+    "groups": [
+      {
+        "id": "inline-0",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Wikipedia Legality of Israeli settlements - Wikipedia “ In practice, Israel does not accept that the Fourth Geneva Convention applies de jure, but has stated that on humanitarian issues it will govern itself de fact...”",
+            "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements#:~:text=In%20practice%2C%20Israel%20does%20not%20accept%20that,its%20provisions%2C%20without%20specifying%20which%20these%20are."
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-1",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Wikipedia Legality of Israeli settlements - Wikipedia “ The Court cited the Geneva Convention's travaux préparatoires, which recommended that the conventions be applicable to any armed conflict \"whether [it] is or i...”",
+            "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements#:~:text=The%20Court%20cited%20the%20Geneva%20Convention's%20travaux,state%20of%20war%22%20as%20confirmation%20that%20the"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-2",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Amnesty International Chapter 3: Israeli Settlements and International Law “Article 49 of the Fourth Geneva Convention states: “The Occupying Power shall not deport or transfer parts of its own civilian population into the territory it”",
+            "url": "https://www.amnesty.org/en/latest/campaigns/2019/01/chapter-3-israeli-settlements-and-international-law/"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-3",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Wikipedia Legality of Israeli settlements - Wikipedia “ In practice, Israel does not accept that the Fourth Geneva Convention applies de jure, but has stated that on humanitarian issues it will govern itself de fact...”",
+            "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements#:~:text=In%20practice%2C%20Israel%20does%20not%20accept%20that,its%20provisions%2C%20without%20specifying%20which%20these%20are."
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-4",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "How does law protect in war? - ICRC Israel, Applicability of the Fourth Convention to Occupied Territories “Why does Shamgar claim that neither the West Bank nor Gaza is occupied territory as defined by IHL, and that therefore Convention IV is not applicable? Does IHL...”",
+            "url": "https://casebook.icrc.org/case-study/israel-applicability-fourth-convention-occupied-territories#:~:text=Why%20does%20Shamgar%20claim%20that%20neither%20the,of%20the%20sovereignty%20of%20the%20previous%20government%3F"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "inline-5",
+        "kind": "inline",
+        "sources": [
+          {
+            "title": "Wikipedia Legality of Israeli settlements - Wikipedia “ In practice, Israel does not accept that the Fourth Geneva Convention applies de jure, but has stated that on humanitarian issues it will govern itself de fact...”",
+            "url": "https://en.wikipedia.org/wiki/Legality_of_Israeli_settlements#:~:text=In%20practice%2C%20Israel%20does%20not%20accept%20that,its%20provisions%2C%20without%20specifying%20which%20these%20are."
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

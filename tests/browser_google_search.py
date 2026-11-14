@@ -209,6 +209,15 @@ class GoogleDOMTests(unittest.TestCase):
 
     def collect_chat_fixture(self, provider):
         from experiment import browser_collectors as browser
+        if provider == "gemini":
+            # These source-extraction fixtures already contain an answer.
+            # Model a submitted user turn when Enter clears the composer.
+            self.html += """<script>document.querySelector('.ql-editor').addEventListener('keydown', e => {
+                if (e.key === 'Enter') {
+                    e.preventDefault(); e.target.innerText = '';
+                    document.body.appendChild(document.createElement('user-query'));
+                }
+            });</script>"""
         with patch.object(browser, "sync_playwright", google.sync_playwright), patch.object(browser, "time", google.time), patch.object(browser, "_frontmost_app", return_value=None), patch.object(browser, "_restore_focus"):
             return browser._collect_browser_once(
                 provider, "Exact question", {"headless": True, "timeout_seconds": 14,

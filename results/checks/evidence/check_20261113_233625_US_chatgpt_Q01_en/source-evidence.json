@@ -1,0 +1,111 @@
+{
+  "page_url": "https://chatgpt.com/uc/6af80f97-6580-83ea-8abd-04a726d59892",
+  "capture": {
+    "method": "browser_response",
+    "format": "chatgpt-conversation-source-v2",
+    "controls_found": 7,
+    "controls_read": 7,
+    "complete": true,
+    "message_id": "fbda0572-32e3-4724-a1fb-0e45e3cb0d34",
+    "revision": 34,
+    "groups": [
+      {
+        "id": "942d2c4a-6ecd-545a-a687-b8420b25b9e3",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "FAQ: Our work in Israel and the occupied territories",
+            "url": "https://www.icrc.org/en/document/FAQ-icrc-work-Israel-and-occupied-territories?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Israel and the occupied Palestinian territory: The law of occupation must be respected",
+            "url": "https://www.icrc.org/en/statement/israel-and-occupied-palestinian-territory-law-occupation-must-be-respected?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "624eac0f-78cb-533b-95ff-98c4c916401a",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "ICJ Advisory Opinion on the Legal Consequences of the Construction of a Wall in the OPT - ICJ document",
+            "url": "https://www.un.org/unispal/document/auto-insert-204033/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Advisory Opinion of 19 July 2024",
+            "url": "https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/186/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "965e8727-dd6e-5984-99ee-d31eb3b63259",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "ICJ Advisory opinion on the Legal Consequences of the Construction of a Wall in the OPT - Full text",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "ICJ/Israel, Separation Wall/Security Fence in the Occupied Palestinian Territory | How does law protect in war?",
+            "url": "https://casebook.icrc.org/print/pdf/node/20762?utm_source=chatgpt.com"
+          },
+          {
+            "title": "Question of the Observance of the Fourth Geneva Convention of 1949 in Occupied Palestinian Territory",
+            "url": "https://www.un.org/unispal/document/auto-insert-200116/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "f6f56486-f9e8-5487-bada-8d928fdfc15f",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Advisory Opinion of 19 July 2024",
+            "url": "https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/186/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "4d343fcd-41df-5b74-81df-63c72367c41d",
+        "kind": "Cite",
+        "sources": [
+          {
+            "title": "Summary of the ICJ Advisory Opinion of 22 October 2025",
+            "url": "https://www.un.org/unispal/document/summary-advisory-opinion-icj-22oct25/?utm_source=chatgpt.com"
+          },
+          {
+            "title": "ICJ Advisory Opinion - Obligations of Israel in relation to the Presence and Activities of the United Nations, Other International Organizations and Third States in and in relation to the Occupied Palestinian Territory (A/80/502)",
+            "url": "https://www.un.org/unispal/document/icj-advisory-opinion-22oct2025/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "25bfac6e-fbcd-5e68-a028-1e13eb99de53",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "un.org",
+            "url": "https://www.un.org/unispal/document/auto-insert-178825/?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      },
+      {
+        "id": "dedf923e-efb9-5796-821d-1bd07d4a9183",
+        "kind": "Link",
+        "sources": [
+          {
+            "title": "icj-web.leman.un-icc.cloud",
+            "url": "https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/186/186-20240719-adv-01-00-en.pdf?utm_source=chatgpt.com"
+          }
+        ],
+        "complete": true
+      }
+    ]
+  }
+}

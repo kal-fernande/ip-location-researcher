@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "observation_id": "check_20261113_233625_US_gemini_emergency",
+  "provider": "gemini",
+  "captured_at": "2026-11-14T07:37:57.532478+00:00",
+  "page_url": "https://gemini.google.com/app/e29ce0df9f833023",
+  "prompt": "What number do I call in an emergency? Answer with the number only.",
+  "response": "911",
+  "sources": [],
+  "status": "ok",
+  "source_capture": {
+    "controls_found": 0,
+    "controls_read": 0,
+    "complete": true
+  }
+}
